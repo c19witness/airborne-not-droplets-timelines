@@ -1,0 +1,9 @@
+media_caption: Computer model of airflow from one apartment block to another
+media_credit: 
+media_link: https://www.nejm.org/doi/full/10.1056/nejmoa032867
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/104086297-8bb8c180-524e-11eb-80f6-2689602333b6.png
+start_date_month: 3
+start_date_year: 2003
+text_headline: Study: 187 airborne cases of SARS at 'Amoy Gardens' 2003
+text_text: "According to our computational fluid-dynamics modeling, the buoyant [virus laden] plume (blue) rose from the air shaft between two housing units in building E (yellow) and was carried by a northeasterly wind toward the middle-level floors in buildings C and D"

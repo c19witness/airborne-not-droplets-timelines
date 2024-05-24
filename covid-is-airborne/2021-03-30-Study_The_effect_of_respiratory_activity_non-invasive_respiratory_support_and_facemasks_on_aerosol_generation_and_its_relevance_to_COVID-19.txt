@@ -1,0 +1,10 @@
+media_caption: 'sampling chamber' test equipment
+media_credit: 
+media_link: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.15475
+media_thumbnail: 
+media_url: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/cms/asset/b9646c26-58be-4b4a-86c3-cabd12ad97ba/anae15475-fig-0001-m.jpg
+start_date_day: 30
+start_date_month: 3
+start_date_year: 2021
+text_headline: Study: The effect of respiratory activity, non-invasive respiratory support and facemasks on aerosol generation and its relevance to COVID-19
+text_text: "Conclusions: Talking, exertional breathing and coughing generate substantially more aerosols than the respiratory therapies HFNO and NIPPV which can reduce total emissions. The risk of aerosol exposure is underappreciated and warrants widespread targeted interventions."

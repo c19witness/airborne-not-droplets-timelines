@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Costello,  Sowash,  Gaur,  Cardis,  Pasieka,  Wortmann, and  Ramdeen
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9045429/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZB381ZUUAA7-nn?format=jpg&name=large
+start_date_day: 5
+start_date_month: 5
+start_date_year: 2022
+text_headline: Case Study: Imported Monkeypox from International Traveler
+text_text: "In particular, any patient who has a fever and disseminated vesicular or pustular rash should immediately be placed on airborne and contact precautions", Via <a href='https://x.com/VengefulArzt/status/1553873784309837824'>@VengefulArzt tweet</a>

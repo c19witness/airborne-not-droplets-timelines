@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Caul
+media_link: https://pubmed.ncbi.nlm.nih.gov/7910270/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/116819920-53752000-ab6a-11eb-9d67-5d607365deeb.png
+start_date_day: 21
+start_date_month: 5
+start_date_year: 1994
+text_headline: Study: Small round structured viruses: airborne transmission and hospital control
+text_text: Norwalk disease causes vomiting which may launch millions of virus particles into the air, perhaps causing its explosive attack rate of over 50%. Via <a href='https://x.com/jmcrookston/status/1323461960323784707'>@jmcrookston</a>

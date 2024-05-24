@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Arnold S Monto
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2595130/pdf/yjbm00155-0028.pdf
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FkrKTofXwAAGePj?format=jpg&name=large
+start_date_month: 9
+start_date_year: 1974
+text_headline: Review articles about coronaviruses noted they are airborne
+text_text: "... It is therefore probable that human coronaviruses can be spread by aerosol as well as by large droplet. Aerosol transmission has actually been documented in poultry by the agent of avian infectious bronchitis." For a full set of free review articles about corona viruses, see <a href='https://x.com/jmcrookston/status/1310275748108922881'> @jmcrookston thread</a>

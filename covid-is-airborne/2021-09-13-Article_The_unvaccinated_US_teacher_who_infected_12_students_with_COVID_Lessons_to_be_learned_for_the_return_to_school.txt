@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: El Pais
+media_link: https://english.elpais.com/usa/2021-09-13/the-unvaccinated-us-teacher-who-infected-12-of-her-students-with-covid-lessons-to-be-learned-for-the-return-to-school.html?ssm=TW_CC
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133342110-06ff0de5-1209-443a-86e2-e6d250cce1a6.png
+start_date_day: 13
+start_date_month: 9
+start_date_year: 2021
+text_headline: Article: The unvaccinated US teacher who infected 12 students with COVID: Lessons to be learned for the return to school
+text_text: Airborne, Droplet, Fomite not mention in the article but 'aerosol' is in one of the diagrams, and the otherwise excellent writeup SCREAMS airborne.

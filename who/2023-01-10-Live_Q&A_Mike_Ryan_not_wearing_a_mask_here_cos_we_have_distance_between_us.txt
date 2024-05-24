@@ -1,0 +1,10 @@
+media_caption: Mike Ryan at Q&A event
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/Iamgoingtosleep/status/1613830444159475712
+start_date_day: 10
+start_date_month: 1
+start_date_year: 2023
+text_headline: Live Q&A, Mike Ryan "not wearing [a mask] here cos we have distance between us"
+text_text: [BOO] OK, WHO's saying aerosols inside won't go beyond six feet again. Via <a href='https://x.com/Iamgoingtosleep'>@Iamgoingtosleep</a>

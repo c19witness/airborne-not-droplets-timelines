@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Cohen et al, June 2021
+media_link: https://www.sciencedirect.com/science/article/pii/S2214109X21001418
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S2214109X21001418-gr1.jpg
+start_date_day: 25
+start_date_month: 6
+start_date_year: 2021
+text_headline: Study: Flu infects without sneezes/coughs too
+text_text: 44% of lab-confirmed, flu infections in the study were in people who reported no symptoms. Refer <a href='https://x.com/zeynep/status/1395052528996323329'>@zeynep thread</a>

@@ -1,0 +1,5 @@
+title_media_caption: 
+title_media_credit: 
+title_media_url: 
+title_text_headline: Timeline covering CDC's change of position from fomites & droplets to airborne and back
+title_text_text: Feb 8th 2020: China's CDC press conference "Covid19 is airborne". The US CDC has not been consistent it it's messaging

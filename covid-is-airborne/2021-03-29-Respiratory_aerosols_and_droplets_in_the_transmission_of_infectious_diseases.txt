@@ -1,0 +1,10 @@
+media_caption: Illustration of near- and far-field aerosol transmission in relation to the respiratory particle size distribution (PSD) and preventive measures: M= mask, D = distance, F = filtration, and V = ventilation.
+media_credit: 
+media_link: https://arxiv.org/abs/2103.01188v2
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/113490529-a6d74e00-9498-11eb-99fd-89c2891c5bf6.png
+start_date_day: 29
+start_date_month: 3
+start_date_year: 2021
+text_headline: Respiratory aerosols and droplets in the transmission of infectious diseases
+text_text: "This article provides a critical review and synthesis of scientific knowledge on the number concentrations, size distributions, composition, mixing state, and related properties of respiratory particles emitted upon breathing, speaking, singing, coughing, and sneezing."

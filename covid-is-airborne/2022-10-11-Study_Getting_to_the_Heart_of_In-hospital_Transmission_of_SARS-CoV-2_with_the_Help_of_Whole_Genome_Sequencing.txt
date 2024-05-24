@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Asad, Connell, Hall, Jones, Walters, Manchipp-Taylor, Barry, Keighan, Jones, Williams, Cronin, Hughes, Morgan, Connor, Healy
+media_link: https://www.journalofhospitalinfection.com/article/S0195-6701(22)00319-X/fulltext
+media_thumbnail: 
+media_url: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/9059c4f0-79af-49f9-a092-137ac9580374/gr1.jpg
+start_date_day: 11
+start_date_month: 10
+start_date_year: 2022
+text_headline: Study: Getting to the Heart of In-hospital Transmission of SARS-CoV-2 with the Help of Whole Genome Sequencing
+text_text: "We suggest [transmission] was the result of aerosol transmission in the absence of a specific aerosol generating procedure (AGP)."

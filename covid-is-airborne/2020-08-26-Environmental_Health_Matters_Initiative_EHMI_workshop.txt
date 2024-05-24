@@ -1,0 +1,10 @@
+media_caption: Slide from recent NASEM workshop on airborne transmission of SARS-CoV-2
+media_credit: Dr. Jay C Butler (CDC)
+media_link: https://www.nationalacademies.org/event/08-26-2020/airborne-transmission-of-sars-cov-2-a-virtual-workshop
+media_thumbnail: /media/eh.png
+media_url: https://user-images.githubusercontent.com/82182/101012518-dca40e80-355a-11eb-9a56-21730fb85a82.png
+start_date_day: 26
+start_date_month: 8
+start_date_year: 2020
+text_headline: Environmental Health Matters Initiative (EHMI) workshop
+text_text: Workshop session: Droplets versus aerosols and more for the pandemic. Downloadable PDFs for 19 speakers in the workshop an a video of proceedings.

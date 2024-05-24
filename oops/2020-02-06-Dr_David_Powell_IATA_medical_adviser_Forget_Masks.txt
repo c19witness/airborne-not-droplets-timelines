@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.bloomberg.com/news/articles/2020-02-06/want-to-avoid-virus-forget-face-masks-top-airline-doctor-says
+media_thumbnail: https://user-images.githubusercontent.com/82182/106069856-3ceaa300-60fb-11eb-8c22-345e9055b49b.png
+media_url: https://user-images.githubusercontent.com/82182/106066344-91d6eb00-60f4-11eb-89cc-5e4987cfe737.png
+start_date_day: 6
+start_date_month: 2
+start_date_year: 2020
+text_headline: Dr David Powell (IATA medical adviser): "Forget Masks"
+text_text: International Air Transport Association has a physician as a medical advisor, David Powell. He gave a video interview for Bloomberg and suggested that masks did a "better job of spreading bugs than preventing them". By May 5th, Powell would change to <a href='https://www.iata.org/contentassets/fe92ab7e0d864d3ab5c8e4fd632293e0/physical-distancing-onboard-covid-19.pdf'>promote mask use on board planes</a>

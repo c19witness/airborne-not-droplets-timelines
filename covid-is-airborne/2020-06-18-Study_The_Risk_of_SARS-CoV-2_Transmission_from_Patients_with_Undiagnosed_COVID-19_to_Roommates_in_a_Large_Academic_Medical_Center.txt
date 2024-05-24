@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://pubmed.ncbi.nlm.nih.gov/34145449/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147000503-7ee2ed8e-e995-44a9-ba65-c878735ae031.png
+start_date_day: 18
+start_date_month: 6
+start_date_year: 2020
+text_headline: Study: The Risk of SARS-CoV-2 Transmission from Patients with Undiagnosed COVID-19 to Roommates in a Large Academic Medical Center
+text_text: Excerpt: Furthermore, patients are >6 feet apart with closed curtains between. This is most consistent with near-range airborne rather than droplet transmission

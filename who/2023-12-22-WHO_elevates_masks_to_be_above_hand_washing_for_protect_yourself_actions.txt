@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1738187679987367967
+start_date_day: 22
+start_date_month: 12
+start_date_year: 2023
+text_headline: WHO elevates masks to be above hand washing for 'protect yourself' actions
+text_text: [YAY]: Media item doesn't say covid is airborne, doesn't show maks, but at least shows a door that is open

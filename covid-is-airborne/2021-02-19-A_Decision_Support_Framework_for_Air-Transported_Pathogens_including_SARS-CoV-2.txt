@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Bond, Bosco-Lauth, Farmer, Francisco, Pierce, Fedak, Ham, Jathar, and VandeWoude
+media_link: https://pubs.acs.org/doi/10.1021/acs.est.0c07721#.YIG6wCRNtDQ.twitter
+media_thumbnail: 
+media_url: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2021/esthag.2021.55.issue-5/acs.est.0c07721/20210421/images/medium/es0c07721_0002.gif
+start_date_day: 19
+start_date_month: 2
+start_date_year: 2021
+text_headline: A Decision Support Framework for Air-Transported Pathogens (including SARS-CoV-2)
+text_text: "Ventilation and filtration reduce person-to-person transport of 1 μm particles (ERBV1) by 13–85% in residential and office situations."

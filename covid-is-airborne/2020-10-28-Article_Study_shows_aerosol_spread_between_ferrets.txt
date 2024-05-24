@@ -1,0 +1,10 @@
+media_caption: Infected donor ferret below with a healthy indirect recipient ferret above
+media_credit: The-scientist.com article pic
+media_link: https://www.the-scientist.com/news-opinion/ferret-study-reinforces-role-of-aerosols-in-sars-cov-2-spread-68094
+media_thumbnail: 
+media_url: https://cdn.the-scientist.com/assets/articleNo/68094/iImg/40161/uploads/new%20transmission%20set-up.jpg
+start_date_day: 28
+start_date_month: 10
+start_date_year: 2020
+text_headline: Article: Study shows aerosol spread between ferrets
+text_text: Article: Elaborate apparatus shows the virus spreads via aerosolized particles between ferrets more than a meter apart. Linsey Marr: "If I were someone who thought that large droplets were the way [that SARS-CoV-2 was transmitted] and if I were skeptical about aerosols, this study might make me rethink my assumptions,"

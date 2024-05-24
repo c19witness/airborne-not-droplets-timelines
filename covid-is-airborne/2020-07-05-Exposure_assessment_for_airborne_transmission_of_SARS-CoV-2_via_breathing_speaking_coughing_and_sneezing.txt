@@ -1,0 +1,10 @@
+media_caption: Box-whisker chart of total aerosol droplet volumes that are expelled in various scenarios
+media_credit: 
+media_link: https://www.medrxiv.org/content/10.1101/2020.07.02.20144832v1.full-text
+media_thumbnail: 
+media_url: https://www.medrxiv.org/content/medrxiv/early/2020/07/05/2020.07.02.20144832/F2.large.jpg
+start_date_day: 5
+start_date_month: 7
+start_date_year: 2020
+text_headline: Exposure assessment for airborne transmission of SARS-CoV-2 via breathing, speaking, coughing and sneezing
+text_text: Exposure to SARS-CoV-2 via aerosols generated during breathing, speaking, coughing and sneezing in an unventilated indoor environment is possible. This study forms a basis to estimate probabilities of exposure to SARS-Cov-2 by airborne transmission in indoor spaces.

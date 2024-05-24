@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png
+media_url: https://jamanetwork.com/journals/jama/fullarticle/2762694
+start_date_day: 29
+start_date_month: 2
+start_date_year: 2020
+text_headline: Instruction: US citizens should stop buying masks as they are "not effective"
+text_text: The tweet was later deleted, but on this day Surgeon General for the USA, Jerome Adams, claimed that masks were ineffective. On video a month later, he showed the world how to make masks from T-Shirts (apology in kind). When Joe Biden became the 46th president, Adams was asked to hand in his resignation. Adams hasn't accounted for what happened leading up to the regrettable tweet, but he may do so in the fullness of time.

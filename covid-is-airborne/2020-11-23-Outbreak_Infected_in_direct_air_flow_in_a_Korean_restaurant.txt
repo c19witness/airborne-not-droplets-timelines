@@ -1,0 +1,10 @@
+media_caption: After only 5 minutes sitting in proximity to spreader, a diner was infected 21 feet away
+media_credit: 
+media_link: https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e415
+media_thumbnail: 
+media_url: https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2df5e824-68d5-4b01-b10a-780a273ff63b_721x660.png
+start_date_day: 23
+start_date_month: 11
+start_date_year: 2020
+text_headline: Outbreak: Infected in direct air flow in a Korean restaurant
+text_text: Conclusion: Droplet transmission can occur at a distance greater than 2 m if there is direct air flow from an infected person. Therefore, updated guidelines involving prevention, contact tracing, and quarantine for COVID-19 are required for control of this highly contagious disease. A post linking to another post about this event: <a href='https://x.com/jmcrookston/status/1334132864078721026'>post 1 (@jmcrookston)</a>.

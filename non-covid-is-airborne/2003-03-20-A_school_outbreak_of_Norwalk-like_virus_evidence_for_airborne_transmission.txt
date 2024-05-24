@@ -1,0 +1,10 @@
+media_caption: Kids not infected with anything hopefully
+media_credit: Photo by <a href='https://unsplash.com/@profwicks?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Ben Wicks</a> via <a href='https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText'>Unsplash</a></span>
+media_link: https://www.researchgate.net/profile/Barry_Vipond/publication/10589869_A_school_outbreak_of_Norwalk-like_virus_evidence_for_airborne_transmission/links/5759549408ae414b8e43a7cd/A-school-outbreak-of-Norwalk-like-virus-evidence-for-airborne-transmission.pdf
+media_thumbnail: 
+media_url: /media/ben-wicks-iDCtsz-INHI-unsplash.jpg
+start_date_day: 20
+start_date_month: 3
+start_date_year: 2003
+text_headline: A school outbreak of Norwalk-like virus: evidence for airborne transmission
+text_text: This study confirms the importance of vomiting in the transmission of NLV and provides evidence that direct infection with aerosolized viral particles occurs

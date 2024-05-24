@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Port, Yinda, Avanzato, Schulz, Holbrook, Doremalen, Shaia, Fischer, Munster
+media_link: https://www.biorxiv.org/content/10.1101/2021.07.26.453518v1.full
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/140914570-b29cf8c1-1b5a-4778-8c7a-1fdd4025915e.jpg
+start_date_day: 26
+start_date_month: 7
+start_date_year: 2021
+text_headline: Study: Increased aerosol transmission for alpha variant
+text_text: Conclusion: The experimental proof for true aerosol transmission and the increase in the aerosol transmission potential of B.1.1.7 underscore the continuous need for assessment of novel variants and the development or preemptive transmission mitigation strategies.

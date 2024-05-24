@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO committee featuring Dr MVK
+media_link: https://iris.who.int/handle/10665/376346
+media_thumbnail: 
+media_url: /media/images/who-glossary.png
+start_date_day: 27
+start_date_month: 3
+start_date_year: 2024
+text_headline: Publication: Indoor airborne risk assessment in the context of SARS-CoV-2 (and subtitle)
+text_text: [YAY]: WHO uses 'airborne' with reference to SARS-CoV-2 in a publication that goes into 83 pages of detail. CERN involved in the publication, too. Via <a href='https://x.com/trishgreenhalgh/status/1773399150899364345'>@trishgreenhalgh tweet</a>

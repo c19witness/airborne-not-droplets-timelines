@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Adler,   Gould,   Hine,    Snell,   Wong,    Houlihan,    Osborne,   Rampling,    Beadsworth,   Duncan,   Dunning,   E Fletcher,   Hunter,   Jacobs,    Khoo,   Newsholme,   Porter,   Porter,  Ratcliffe,    Schmid,     Semple,    Tunbridge,   Wingfield,   Price
+media_link: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(22)00228-6/fulltext
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/182019862-860f15cb-d9f5-4134-abb2-8d0d991f4ab2.png
+start_date_day: 24
+start_date_month: 5
+start_date_year: 2022
+text_headline: Study: Clinical features and management of human monkeypox: a retrospective observational study in the UK
+text_text: "We reviewed all cases since the inception of the HCID (airborne) network between Aug 15, 2018, and Sept 10, 2021, identifying seven patients. Of the seven patients, four were men and three were women. Three acquired monkeypox in the UK: one patient was a health-care worker who acquired the virus nosocomially, and one patient who acquired the virus abroad transmitted it to an adult and child within their household cluster.". Via <a href='https://x.com/empathy1st1/status/1535118821614186496'>@empathy1st1 tweet</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7771204/pdf/11783_2021_Article_1386.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/103912600-65d0d700-50ff-11eb-8dbb-265482472740.png
+start_date_day: 25
+start_date_month: 12
+start_date_year: 2020
+text_headline: Outbreak: Aerosol spread in Chinese department store
+text_text: Aerosol transmission, an indispensable route of COVID-19 spread: case study of a department-store cluster (back in Jan 2020). See <a href='https://x.com/AliNouriPhD/status/1346219061051596807'>tweet by @AliNouriPhD</a>

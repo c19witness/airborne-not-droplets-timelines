@@ -1,0 +1,10 @@
+media_caption: After four hours without safety measures
+media_credit: El Pais artwork
+media_link: https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101791159-1e086100-3afb-11eb-8cb1-c787c2c41b16.png
+start_date_day: 10
+start_date_month: 10
+start_date_year: 2020
+text_headline: how the coronavirus is spread through the air
+text_text: Article: The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure.

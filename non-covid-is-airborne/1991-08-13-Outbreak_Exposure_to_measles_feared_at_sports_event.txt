@@ -1,0 +1,10 @@
+media_caption: Still shot from opening ceremony
+media_credit: 
+media_link: https://www.chicagotribune.com/news/ct-xpm-1991-08-13-9103280300-story.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101290999-90c4c400-37fd-11eb-97f0-8d6bfe18b606.png
+start_date_day: 13
+start_date_month: 8
+start_date_year: 1991
+text_headline: Outbreak: Exposure to measles feared at sports event
+text_text: Thousands of people involved in the International Special Olympics last month may have been exposed to measles, one of the most easily transmitted communicable diseases (even outside), according to the Minnesota Health Department.<br><br><a href='https://x.com/jmcrookston/status/1297250473448222720'>measles thread (@jmcrookston)</a><br><br><a href='https://pubmed.ncbi.nlm.nih.gov/7876616/'>Link to Ehresmann article</a>

@@ -1,0 +1,8 @@
+media_caption: from study
+media_credit: Rendell
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3802286/pdf/QBullNorthwestUnivMedSch-14-2-80_16.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/183841253-95ae16b1-df37-40f5-949b-2e49f8ea6e60.png
+start_date_year: 1940
+text_headline: Study: Poliomyelitis: Infrequent Sequela of a Milder, Widespread Disease
+text_text: "The balance of evidence suggests that poliomyelitis is an air-borne disease. However, recovery of the virus from feces, from water, and sewage must be taken seriously." Via <a href='https://x.com/LazarusLong13/status/1555835520718032897'>@LazarusLong13 tweet</a>

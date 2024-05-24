@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Cheng, Wong, Au, Zhang, Chen, So, Wang, Lu, Lung, Chuang, Schuldenfrei, Siu, To, Yuen
+media_link: https://www.sciencedirect.com/science/article/pii/S036013232200556X?via%3Dihub
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/176828828-906e431d-bc00-4736-89c7-aff33b6f315a.png
+start_date_day: 24
+start_date_month: 4
+start_date_year: 2022
+text_headline: Study: Explosive outbreak of SARS-CoV-2 Omicron variant is associated with vertical transmission in high-rise residential buildings in Hong Kong
+text_text: "Vertical transmission of SARS-CoV-2 may be an important cause of airborne transmission in densely populated HRRBs in Hong Kong"

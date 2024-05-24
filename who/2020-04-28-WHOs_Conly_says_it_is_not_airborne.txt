@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://cdn.who.int/media/docs/default-source/integrated-health-services-(ihs)/clean-hands-2020/webinar2-johnc-28apr.pdf
+media_thumbnail: 
+media_url: /media/images/conly-not-airborne.png
+start_date_day: 28
+start_date_month: 4
+start_date_year: 2020
+text_headline: WHO's Conly says it is not airborne
+text_text: [BOO] Dr Conly (heads the 'most incorrect individual pandemic scientist' leaderboard) says primarily airborne Covid-19 is in fact not airborne in a 33 page presentation

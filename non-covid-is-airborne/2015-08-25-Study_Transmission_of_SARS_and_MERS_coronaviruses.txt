@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Otter, Donskey, Yezli, Douthwaite, Goldenberg, Weber
+media_link: https://www.journalofhospitalinfection.com/article/S0195-6701(15)00367-9/pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/149374570-97b1285c-63b4-476c-be07-8a8d156da2bf.png
+start_date_day: 25
+start_date_month: 8
+start_date_year: 2015
+text_headline: Study: Transmission of SARS and MERS coronaviruses...
+text_text: "From the summary: .."The importance of indirect contact transmission (involving contamination of inanimate surfaces) is uncertain compared with other transmission routes, principally direct contact transmission (independent of surface contamination), droplet, and airborne routes..."

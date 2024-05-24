@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Reuters
+media_link: https://www.researchgate.net/publication/255986671_Respiratory_Virus_RNA_Is_Detectable_in_Airborne_and_Droplet_Particles
+media_thumbnail: 
+media_url: https://static.reuters.com/resources/r/?m=02&d=20140722&t=2&i=941046794&r=LYNXMPEA6L05J&w=800
+start_date_day: 22
+start_date_month: 7
+start_date_year: 2014
+text_headline: Study: MERS virus detected in air samples from Saudi camel barn
+text_text: "The clear message here is that detection of airborne MERS-CoV molecules, which were 100 percent identical with the viral genomic sequence detected from a camel actively shedding the virus in the same barn on the same day, warrants further investigations and measures to prevent possible airborne transmission of this deadly virus," said Esam Azhar, an associate professor of medical virology at King Abdulaziz University in Jeddah. <a href='https://x.com/mvankerkhove/status/491494328104390656'>@mvankerkhove tweeted this too!</a>

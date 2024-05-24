@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Marks, Vipond, Isle, Deakin, Fey and Caul
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2810934/pdf/10982072.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/210133723-65c8753e-83fd-451a-b610-fc56f7761f1d.png
+start_date_month: 1
+start_date_year: 2000
+text_headline: Study: Evidence for airborne transmission of Norwalk-like virus (NLV) in a hotel restaurant
+text_text: AKA Noroviruses: "[...] the findings are consistent with airborne spread of NLV with infection by inhalation with subsequent ingestion of virus particles"

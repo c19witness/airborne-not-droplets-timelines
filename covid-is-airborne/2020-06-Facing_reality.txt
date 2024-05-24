@@ -1,0 +1,9 @@
+media_caption: Droplets hitting the group, aerosols going and going
+media_credit: Lidia Morawskaa & Junji Cao vi Elsevier
+media_link: https://www.sciencedirect.com/science/article/pii/S016041202031254X
+media_thumbnail: /media/reality.png
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S016041202031254X-gr1.jpg
+start_date_month: 6
+start_date_year: 2020
+text_headline: Facing reality
+text_text: Study: Airborne transmission of SARS-CoV-2: The world should face the reality - Lidia Morawska and Junji Caob. See also <a href='https://www.sciencedirect.com/science/article/pii/S0160412020317876'>September 2020 study from Morawskaa et al</a>

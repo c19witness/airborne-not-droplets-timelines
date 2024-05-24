@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: https://web.archive.org/web/20200128222452/https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html
+media_thumbnail: 
+media_url: https://github.com/its-airborne/media/standard_practice.png
+start_date_day: 28
+start_date_month: 1
+start_date_year: 2020
+text_headline: CDC let hospitals know COVID-19 was airborne
+text_text: "Use respiratory protection (i.e., a respirator) that is at least as protective as a fit-tested NIOSH-certified disposable N95 filtering facepiece respirator..." and "Standard practice for pathogens spread by the airborne route (e.g. measles, tuberculosis) is to restrict unprotected individuals, including HCP, from entering a vacated room sufficient time has elapsed for enough air changes to remove potentially infectious particles". Via <a href='https://x.com/PPEtoheros/status/1547423899843018752'>a @PPEtoheros tweet</a>

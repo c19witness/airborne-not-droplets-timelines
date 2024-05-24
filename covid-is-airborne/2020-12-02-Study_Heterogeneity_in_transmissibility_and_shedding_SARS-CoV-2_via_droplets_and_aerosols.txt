@@ -1,0 +1,10 @@
+media_caption: Heterogeneity and kinetics of SARS-CoV-2 rVL
+media_credit: 
+media_link: https://www.medrxiv.org/content/10.1101/2020.10.13.20212233v3.full-text
+media_thumbnail: 
+media_url: https://www.medrxiv.org/content/medrxiv/early/2020/12/02/2020.10.13.20212233/F4.large.jpg
+start_date_day: 2
+start_date_month: 12
+start_date_year: 2020
+text_headline: Study: Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols
+text_text: For some emerging infectious diseases, including COVID-19, few cases cause most secondary infections. We analyze the distribution and kinetics of SARS-CoV-2 rVL, including across age and symptomatology subgroups.

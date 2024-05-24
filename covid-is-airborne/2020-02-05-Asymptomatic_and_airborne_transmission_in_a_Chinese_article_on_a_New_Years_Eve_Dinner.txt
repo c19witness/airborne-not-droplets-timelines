@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: China
+media_link: http://hlj.people.com.cn/GB/n2/2020/0205/c220024-33767665.html
+media_thumbnail: 
+media_url: https://ton.twitter.com/1.1/ton/data/dm/1713842664255144278/1713842624539291648/DymmdbOd.jpg:large
+start_date_day: 5
+start_date_month: 2
+start_date_year: 2020
+text_headline: Asymptomatic and airborne transmission in a Chinese article on a New Year's Eve Dinner
+text_text: "Wear a mask and provide plenty of ventilation indoors"

@@ -1,0 +1,10 @@
+media_caption: 81 attendees
+media_credit: 
+media_link: https://www.cdc.gov/mmwr/volumes/70/wr/mm7009e2.htm?s_cid=mm7009e2_e
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/70/wr/social-media/mm7009e2_ExerciseFacilityChicago_IMAGE_24Feb21_1200x675-medium.jpg
+start_date_day: 23
+start_date_month: 2
+start_date_year: 2021
+text_headline: Chicago: Outbreak Among Attendees of an Exercise Facility
+text_text: "... Aerosolized transmission of SARS-CoV-2 could have been a contributing factor in this outbreak. Although the facility’s ventilation system was not assessed, inadequate air circulation might have exacerbated transmission in the building, which was not originally designed for exercise classes ..."

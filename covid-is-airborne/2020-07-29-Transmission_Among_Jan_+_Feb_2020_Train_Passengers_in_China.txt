@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Hu, Lin, Wang, Xu, Tatem, Meng, Zhang, Liu, Wang, Wu, Xie and Lai
+media_link: https://academic.oup.com/cid/article/72/4/604/5877944
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/115106219-6a592700-9f5b-11eb-9e71-b7239cd8f09c.png
+start_date_day: 29
+start_date_month: 7
+start_date_year: 2020
+text_headline: Transmission Among Jan + Feb 2020 Train Passengers in China
+text_text: Study was a statistical analysis of many journeys: "When a passenger leaves a window or middle seat, the other passengers in the row need to let them pass, potentially increasing close face-to-face contact. Viruses attached on aerosols and droplets are also more likely to spread at close range. Third, the backrests that separate rows might be a good barrier to slow the spread of virus-laden aerosols"

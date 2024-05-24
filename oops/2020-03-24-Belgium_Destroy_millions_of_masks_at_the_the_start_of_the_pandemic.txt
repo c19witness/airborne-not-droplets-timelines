@@ -1,0 +1,10 @@
+media_caption: Masks arriving in liege
+media_credit: Brussels Times
+media_link: https://www.brusselstimes.com/news/belgium-all-news/102302/belgium-destroyed-and-did-not-replace-millions-of-mouth-masks/
+media_thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Belgium_%282004_Summer_Olympics%29.svg/320px-Flag_of_Belgium_%282004_Summer_Olympics%29.svg.png
+media_url: https://www.brusselstimes.com/wp-content/uploads/2020/03/masquesliege.jpg
+start_date_day: 24
+start_date_month: 3
+start_date_year: 2020
+text_headline: Belgium: Destroy millions of masks at the the start of the pandemic
+text_text: Belgium’s current health ministry destroyed millions of mouth masks it had in a strategic reserve stock because they reached their expiration date, but failed to replace them

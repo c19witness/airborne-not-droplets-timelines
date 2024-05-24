@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Gettings, Czarnik, Morris, Haller, Thompson-Paul, Rasberry, Lanzieri, Smith-Grant, Aholou, Thomas, Drenzek, and MacKellar,
+media_link: https://www.cdc.gov/mmwr/volumes/70/wr/mm7021e1.htm?s_cid=mm7021e1_w
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/70/wr/figures/mm7021e1-F-large.gif
+start_date_day: 21
+start_date_month: 5
+start_date_year: 2021
+text_headline: Study: Gettings. Mask Use and Ventilation Improvements to Reduce COVID-19 Incidence in Elementary Schools
+text_text: "COVID-19 incidence was 37% lower in schools that required teachers and staff members to use masks and 39% lower in schools that improved ventilation. Ventilation strategies associated with lower school incidence included dilution methods alone (35% lower incidence) or in combination with filtration methods (48% lower incidence)."

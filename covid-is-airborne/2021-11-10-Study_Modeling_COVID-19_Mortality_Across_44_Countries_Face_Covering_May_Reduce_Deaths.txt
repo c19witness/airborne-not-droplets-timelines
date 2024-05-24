@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Motallebi, Cheung, Mohit, Tabriz, Sadeghi, Moattari
+media_link: https://www.ajpmonline.org/article/S0749-3797(21)00557-2/fulltext
+media_thumbnail: 
+media_url: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/dea21d12-87d5-476f-b9ab-e7901a5e7462/gr1.jpg
+start_date_day: 10
+start_date_month: 11
+start_date_year: 2021
+text_headline: Study: Modeling COVID-19 Mortality Across 44 Countries: Face Covering May Reduce Deaths
+text_text: "... These findings support use of face masks to prevent excess COVID-19 deaths, and should be advised during airborne disease epidemics ..."

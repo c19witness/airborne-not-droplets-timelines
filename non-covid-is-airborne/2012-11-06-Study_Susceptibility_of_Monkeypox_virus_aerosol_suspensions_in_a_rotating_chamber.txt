@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Verreault, Killeen,  Redmann, Roy
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3556235/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/180606916-48d9938e-8054-46f5-96d1-b104a3587531.png
+start_date_day: 6
+start_date_month: 11
+start_date_year: 2012
+text_headline: Study: Susceptibility of Monkeypox virus aerosol suspensions in a rotating chamber
+text_text: Conclusions: "The longevity of the MPXV in a laboratory controlled aerosol state suggests that this virus could potentially remain infectious for long periods of time in the environment."

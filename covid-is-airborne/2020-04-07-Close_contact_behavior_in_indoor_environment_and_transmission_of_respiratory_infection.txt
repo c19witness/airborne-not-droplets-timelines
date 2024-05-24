@@ -1,0 +1,10 @@
+media_caption: Close contact behavior in indoor environment and transmission of respiratory infection
+media_credit: 
+media_link: https://onlinelibrary.wiley.com/doi/abs/10.1111/ina.12673
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/117138294-d2d83e80-ad78-11eb-8207-31f60efa73e3.png
+start_date_day: 7
+start_date_month: 4
+start_date_year: 2020
+text_headline: Close contact behavior in indoor environment and transmission of respiratory infection
+text_text: "We propose the existence of three sub-routes of transmission: short‐range airborne, large droplets, and immediate body-surface contact. We also distinguish a "body contact," which is defined with an interpersonal distance of zero, from a close contact. We demonstrate herein that the short-range airborne sub-route may be most common."

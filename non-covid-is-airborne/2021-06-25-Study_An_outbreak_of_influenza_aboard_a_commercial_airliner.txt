@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://pubmed.ncbi.nlm.nih.gov/463858/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133156622-99b47edd-aa10-4a2b-8e62-be008b0925f6.png
+start_date_day: 25
+start_date_month: 6
+start_date_year: 2021
+text_headline: Study: An outbreak of influenza aboard a commercial airliner
+text_text: 1 passenger infected 72% of passengers infected within 3 days of exposure. Definitely not fomites or large droplets!

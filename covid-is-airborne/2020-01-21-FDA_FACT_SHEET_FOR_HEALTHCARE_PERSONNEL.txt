@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: FDA
+media_link: https://www.fda.gov/media/138951/download
+media_thumbnail: 
+media_url: /media/images/fda_reuse.png
+start_date_day: 21
+start_date_month: 1
+start_date_year: 2020
+text_headline: FDA FACT SHEET FOR HEALTHCARE PERSONNEL
+text_text: Mentions airborne 4x: Smart adaptive problem solving applied by FDA to allow reuse of N95s in anticipated shortage of stocks. Via <a href='https://x.com/BigMedicine/status/1244783755295850497'>@BigMedicine</a> and <a href='https://x.com/PPEtoheros/status/1755744318407512086'>@PPEtoheros</a> tweets

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: https://wwwnc.cdc.gov/travel/notices/alert/monkeypox
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/181994611-8e85ddc5-94a3-4ad7-85f6-291ea3d3f72d.png
+start_date_day: 20
+start_date_month: 5
+start_date_year: 2022
+text_headline: CDC Traveler's Health: Monkeypox in Multiple Countries
+text_text: "People usually become infected with the monkeypox virus through [...] respiratory droplets..."

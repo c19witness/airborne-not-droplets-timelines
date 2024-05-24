@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Port, Yinda, Owusu1, Holbrook, Fischer, Bushmaker, Avanzato, Schulz1, Martens, Doremalen, Clancy, Munster
+media_link: https://www.nature.com/articles/s41467-021-25156-8.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/129846695-d8b8a1e8-c0ec-4fab-8153-a169ec23191a.png
+start_date_day: 17
+start_date_month: 8
+start_date_year: 2021
+text_headline: Airborne vs fomite study using Syrian hamsters
+text_text: Study: "SARS-CoV-2 disease severity and transmission efficiency is increased for airborne compared to fomite exposure in Syrian hamsters". Excerpts: "Airborne transmission is more efficient than fomite transmission in the Syrian hamster", "Aerosol exposure led to a rapidly progressing respiratory disease...", and " ... more severe disease is associated with direct deposition of the virus in the lower respiratory tract..."

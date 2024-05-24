@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: MacIntyre, Das, Chen, De Silva, Doolan
+media_link: https://www.mdpi.com/1999-4915/12/1/33/htm
+media_thumbnail: 
+media_url: https://www.mdpi.com/viruses/viruses-12-00033/article_deploy/html/images/viruses-12-00033-g001.png
+start_date_day: 27
+start_date_month: 12
+start_date_year: 2019
+text_headline: Study: Evidence of Long-Distance Aerial Convection of Variola Virus and Implications for Disease Control
+text_text: "In summary, the evidence from these outbreaks is supportive of aerial convection of smallpox at distances of more than a mile in some cases..."

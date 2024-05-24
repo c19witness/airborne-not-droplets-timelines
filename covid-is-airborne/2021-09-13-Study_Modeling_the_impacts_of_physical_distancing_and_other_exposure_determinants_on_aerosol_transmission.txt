@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Wagner, Sparks, Miller, Chen,  Macher, and Waldman
+media_link: https://www.tandfonline.com/doi/abs/10.1080/15459624.2021.1963445?journalCode=uoeh20
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/134035958-e0edd2c8-03b6-4c2c-af5b-7f38dfcf9124.png
+start_date_day: 13
+start_date_month: 9
+start_date_year: 2021
+text_headline: Study: Modeling the impacts of physical distancing and other exposure determinants on aerosol transmission
+text_text: No mention of hand-washing or hand sanitizer towards risk reduction. That is because it is airborne

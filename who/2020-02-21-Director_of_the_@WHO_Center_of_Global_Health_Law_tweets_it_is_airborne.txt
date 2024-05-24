@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Laurence Gostin
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/LawrenceGostin/status/1230896906030718976
+start_date_day: 21
+start_date_month: 2
+start_date_year: 2020
+text_headline: Director of the @WHO Center of Global Health Law tweets it is airborne
+text_text: [YAY] This guy applies critical thinking and calls it. Via <a href='https://x.com/mdc_martinus/status/1522908317793886211'>@mdc_martinus tweet</a>

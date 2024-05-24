@@ -1,0 +1,8 @@
+media_caption: Richard Riley
+media_credit: 
+media_link: https://publichealth.jhu.edu/2020/the-experiment-that-proved-airborne-disease-transmission
+media_thumbnail: 
+media_url: https://publichealth.jhu.edu/sites/default/files/2021-07/riley-richard.jpeg
+start_date_year: 1956
+text_headline: The experiment that proved airborne disease transmission
+text_text: ... "The experiment not only proved the airborne disease transmission of tuberculosis for the first time, but also quantified how many TB infections could be expected to result from exposure to a given number of patients over a defined interval." ...

@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: SARS Commission Report
+media_link: http://www.archives.gov.on.ca/en/e_records/sars/report/v3-pdf/Vol3Chp8.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/137366438-bed651a4-c1f4-4145-99dc-b28a24e094f4.png
+start_date_month: 1
+start_date_year: 2007
+text_headline: Report: SARS Commission chapter eight
+text_text: Page 1054: "It was largely on the basis of Toronto’s Sunnybrook disaster on April 13, when nine health workers caught SARS, that the CDC decided in favour of the precautionary approach and opted for airborne precautions." See <a href='https://x.com/jmcrookston/status/1308198724414443520'> via @jmcrookston

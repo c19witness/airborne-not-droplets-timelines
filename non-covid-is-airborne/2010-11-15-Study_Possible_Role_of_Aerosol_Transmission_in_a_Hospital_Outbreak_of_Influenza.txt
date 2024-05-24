@@ -1,0 +1,10 @@
+media_caption: Measured airflow rates at different ward locations
+media_credit: 
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7107804/bin/51-10-1176-fig003.jpg
+start_date_day: 15
+start_date_month: 11
+start_date_year: 2010
+text_headline: Study: Possible Role of Aerosol Transmission in a Hospital Outbreak of Influenza
+text_text: Conclusions: Our findings suggest a possible role of aerosol transmission of influenza in an acute ward setting. Source and engineering controls, such as avoiding aerosol generation and improving ventilation design, may warrant consideration to prevent nosocomial outbreaks.

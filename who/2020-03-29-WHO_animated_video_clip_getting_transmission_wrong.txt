@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: https://www.facebook.com/UNHCRinSYRIA/videos/watch-this-short-animation-to-learn-more-about-covid19-how-it-spreads-and-how-to/223123825555021/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/225659863-74c94e6e-06d5-4ef2-a729-4cd6d5c4373a.png
+start_date_day: 29
+start_date_month: 3
+start_date_year: 2020
+text_headline: WHO animated video clip getting transmission wrong
+text_text: [BOO] Comical ballistic trajectory of droplets hitting a table. Elsewhere human digits in a mouth having smeared biofilms from tables (etc)

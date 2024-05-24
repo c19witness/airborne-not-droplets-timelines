@@ -1,0 +1,10 @@
+media_caption: simulation, not military grade camera
+media_credit: 
+media_link: https://www.washingtonpost.com/investigations/2020/12/11/coronavirus-airborne-video-infrared-spread/?arc404=true
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/107883280-f613f000-6ee5-11eb-9e21-64b1a78e3778.png
+start_date_day: 11
+start_date_month: 12
+start_date_year: 2020
+text_headline: Article: Military-grade camera shows risks of airborne spread
+text_text: The Washington Post used an infrared camera made by the company FLIR Systems that is capable of detecting exhaled breath. Numerous experts — epidemiologists, virologists and engineers — supported the notion of using exhalation as a conservative proxy to show potential transmission risk in various settings.

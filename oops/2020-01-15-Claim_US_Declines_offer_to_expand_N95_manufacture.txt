@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: New York Times
+media_link: https://static01.nyt.com/images/2020/11/22/magazine/22mag-masks1/22mag-masks1-superJumbo.jpg?quality=90&auto=webp
+media_thumbnail: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png
+media_url: https://user-images.githubusercontent.com/82182/106038475-e61ba400-60cf-11eb-9782-7904369c54b5.png
+start_date_day: 15
+start_date_month: 1
+start_date_year: 2020
+text_headline: Claim: US Declines offer to expand N95 manufacture
+text_text: "January [2020], Department of Health and Human Services officials effectively dismissed an offer from one of America’s few remaining N95 manufacturers, Prestige Ameritech, to expand its production lines". New York Times article via  <a href='https://x.com/AbraarKaran/status/1354226326064910336'>@AbraarKaran</a>

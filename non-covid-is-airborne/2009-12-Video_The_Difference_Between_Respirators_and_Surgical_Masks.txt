@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Us Department of Labor
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?app=desktop&v=ovSLAuY8ib8
+start_date_month: 12
+start_date_year: 2009
+text_headline: Video: The Difference Between Respirators and Surgical Masks
+text_text: "Respirators are used routinely to protect healthcare workers against airborne infectious diseases, such as tuberculosis, anthrax, SARs, and Hantavirus because they protect against both large and small particles" and "During an infectious disease outbreak, such as SARs or pandemic flu, facemasks and. respirators should be used in conjunction with other controls and interventions that are known to prevent the spread of infection. "

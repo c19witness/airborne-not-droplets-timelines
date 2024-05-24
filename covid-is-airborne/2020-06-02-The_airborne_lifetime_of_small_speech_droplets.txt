@@ -1,0 +1,10 @@
+media_caption: Light scattering observation of airborne speech droplet nuclei,
+media_credit: Stadnytskyi et al, 2020
+media_link: https://www.pnas.org/content/117/22/11875
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/107284789-2ecf4780-6a56-11eb-8cca-521a2545f1c5.png
+start_date_day: 2
+start_date_month: 6
+start_date_year: 2020
+text_headline: The airborne lifetime of small speech droplets
+text_text: We estimate that 1 min of loud speaking generates at least 1,000 virion-containing droplet nuclei that remain airborne for more than 8 min. These therefore could be inhaled by others and, according to independent action hypothesis, trigger a new SARS-CoV-2 infection.

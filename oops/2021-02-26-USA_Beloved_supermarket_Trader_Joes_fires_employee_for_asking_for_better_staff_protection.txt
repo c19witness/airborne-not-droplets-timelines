@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png
+media_url: https://pbs.twimg.com/media/EvMMRNdWgAArglG?format=jpg&name=medium
+start_date_day: 26
+start_date_month: 2
+start_date_year: 2021
+text_headline: USA: Beloved supermarket Trader Joe's fires employee for asking for better staff protection
+text_text: Store responds in detail to an employee, Ben Bonnema's, letter pleading for better #COVIDisAirborne protections and policies, nixing their chance of claiming a generic "staff cuts" excuse later: <a href='https://x.com/BenBonnema/status/1365422715436478470'>See Twitter thread</a>. Corporate in a statement a day later: "We have never, and would never, terminate a Crew Member's employment for raising safety concerns," adding "store leadership terminated this Crew Member's employment because of the disrespect he showed toward our customers." March 4th: TJ's rehires Ben.

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Shen, Li, Dong, Wang, Martinez, Sun, Handel, Chen, Chen, Ebell, Wang, Yi, Wang, Wang, Wang, Chen, Qi, Liang, Li, Ling, Chen, Xu
+media_link: https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2770172
+media_thumbnail: 
+media_url: /media/bus68.png
+start_date_day: 1
+start_date_month: 9
+start_date_year: 2020
+text_headline: Study: Community Outbreak Investigation of SARS-CoV-2 Transmission Among Bus Riders in Eastern China
+text_text: "In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event in Eastern China, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus. Airborne transmission may partially explain the increased risk of SARS-CoV-2 infection among these bus riders."

@@ -1,0 +1,10 @@
+media_caption: Exhaled breath collection system.
+media_credit: Credit: Dr. Donald K. Milton et al
+media_link: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003205
+media_thumbnail: 
+media_url: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=info:doi/10.1371/journal.ppat.1003205.g002
+start_date_day: 7
+start_date_month: 3
+start_date_year: 2013
+text_headline: Study: Influenza Virus Aerosols in Human Exhaled Breath
+text_text: Results: We detected influenza virus RNA in the coarse fraction (particles greater than 5 µm) collected from 11% (4 of 37 volunteers) while wearing surgical masks and from 43% (16 of 37) while not wearing a mask.

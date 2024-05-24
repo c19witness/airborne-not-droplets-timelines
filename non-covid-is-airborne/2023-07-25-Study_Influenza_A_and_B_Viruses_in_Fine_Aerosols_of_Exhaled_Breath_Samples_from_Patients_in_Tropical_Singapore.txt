@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Vincent Chow, Douglas Jie Wen Tay, Mark Chen, Julian Tang, Don Milton, Kwok Wai Tham
+media_link: https://www.mdpi.com/1999-4915/15/10/2033
+media_thumbnail: 
+media_url: https://www.mdpi.com/viruses/viruses-15-02033/article_deploy/html/images/viruses-15-02033-g001-550.jpg
+start_date_day: 25
+start_date_month: 7
+start_date_year: 2023
+text_headline: Study: Influenza A and B Viruses in Fine Aerosols of Exhaled Breath Samples from Patients in Tropical Singapore
+text_text: "These findings reiterate the airborne route of influenza transmission and highlight the importance of non-pharmaceutical interventions to reduce exposure to fine aerosols, such as masking and air ventilation and filtration."

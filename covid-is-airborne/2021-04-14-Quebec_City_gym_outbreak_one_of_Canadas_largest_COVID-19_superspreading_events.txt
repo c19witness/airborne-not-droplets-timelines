@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CBC article
+media_link: https://www.cbc.ca/news/health/superspreading-event-canada-megagym-quebec-1.5985744
+media_thumbnail: 
+media_url: https://i.cbc.ca/1.5985984.1618353449!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/mega-gym-20210331.JPG
+start_date_day: 14
+start_date_month: 4
+start_date_year: 2021
+text_headline: Quebec City gym outbreak: one of Canada's largest COVID-19 superspreading events
+text_text: **The Perfect Airborne Storm**: The gym was in violation of at least 3 public health orders. Staff didn't ask patrons if they were suffering from symptoms, clients weren't 2 metres apart and employees weren't wearing required personal protective equipment.' (→224 infected at the gym) - clipped from <a href='https://x.com/MichaelSchwandt/status/1382391470091476992'>@MichaelSchwandt</a>

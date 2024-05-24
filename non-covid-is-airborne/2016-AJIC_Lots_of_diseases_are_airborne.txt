@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: MIjaz, Zargar, Engg, Engg, Wright, Rubino, Sattar, Bact
+media_link: https://www.sciencedirect.com/science/article/pii/S0196655316305363
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZe_EkaXwAMrwU_?format=jpg&name=medium
+start_date_year: 2016
+text_headline: AJIC: Lots of diseases are airborne
+text_text: These ones: Norovirus, Rotavirus, Hantavirus (Sin Nombre virus), Influenza virus, Rhinovirus, Coronaviruses (eg, SARS), Rabies, Chickenpox & Measles, Mumps, Monkeypox/smallpox, Staphylococcus spp, particularly concerning is MRSA, Mycobacterium tuberculosis, Legionella pneumophila, Clostridium difficile, and Bacillus anthracis

@@ -1,0 +1,8 @@
+media_caption: Flu too
+media_credit: Richard L Riley
+media_link: https://www.amjmed.com/article/0002-9343(74)90140-5/fulltext
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101094941-17d32b80-35b5-11eb-94d2-a4f7cfbec251.png
+start_date_year: 2001
+text_headline: Airborne infection: Flu too
+text_text: Riley studied the airborne nature of respiratory diseases in the middle of the 20th century, and published many times. <a href='https://hub.jhu.edu/2020/07/22/richard-riley-airborne-virus/'>See also a COVID19 era article on Riley</a>.

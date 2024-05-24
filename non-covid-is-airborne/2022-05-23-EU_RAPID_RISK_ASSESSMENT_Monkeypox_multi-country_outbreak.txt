@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: European Centre for Disease Prevention and Control
+media_link: https://www.ecdc.europa.eu/sites/default/files/documents/Monkeypox-multi-country-outbreak.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/181937041-5734bfef-1ccb-4020-b46e-d35425586e42.png
+start_date_day: 23
+start_date_month: 5
+start_date_year: 2022
+text_headline: EU RAPID RISK ASSESSMENT: Monkeypox multi-country outbreak
+text_text: "MPX is considered to be mainly transmitted through respiratory droplets [...]. Therefore, both contact and airborne precautions should be applied when providing care for patients with monkeypox..."

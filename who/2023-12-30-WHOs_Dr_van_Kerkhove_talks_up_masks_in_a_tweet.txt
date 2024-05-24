@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's MVK
+media_link: 
+media_thumbnail: 
+media_url: /media/images/mvk20231230.png
+start_date_day: 30
+start_date_month: 12
+start_date_year: 2023
+text_headline: WHO's Dr van Kerkhove talks up masks in a tweet
+text_text: [YAY]: In <a href='https://x.com/mvankerkhove/status/1741004975625384164'>a tweet </a>,  Dr Maria Van Kerkhove suggests masks, ventilation, testing, treatment, and vaccination. She leaves off 'hand washing' because it won't stop you catching C19. Good job

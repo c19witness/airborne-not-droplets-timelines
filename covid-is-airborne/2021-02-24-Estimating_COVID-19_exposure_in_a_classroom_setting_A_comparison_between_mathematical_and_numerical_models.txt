@@ -1,0 +1,10 @@
+media_caption: Initial air patterns created from the exhaled air at t = 35s
+media_credit: 
+media_link: https://aip.scitation.org/doi/10.1063/5.0040755
+media_thumbnail: 
+media_url: https://aip.scitation.org/na101/home/literatum/publisher/aip/journals/content/phf/2021/phf.2021.33.issue-2/5.0040755/20210318/images/large/5.0040755.figures.online.f7.jpeg
+start_date_day: 24
+start_date_month: 2
+start_date_year: 2021
+text_headline: Estimating COVID-19 exposure in a classroom setting: A comparison between mathematical and numerical models
+text_text: "The COVID-19 pandemic has driven numerous studies of airborne-driven transmission risk primarily through two methods: Wells–Riley and computational fluid dynamics (CFD) models. This effort provides a detailed comparison of the two methods for a classroom scenario with masked habitants and various ventilation conditions."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Alexander, Tian,  Haddrell, Oswin, Neal, Hardy, Otero-Fernandez, Mann, Cogan, Finn, Davidson, Hill, and Reid
+media_link: https://pubmed.ncbi.nlm.nih.gov/36146663/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/9503081/bin/viruses-14-01856-g005.jpg
+start_date_day: 24
+start_date_month: 8
+start_date_year: 2022
+text_headline: Study: Mucin Transiently Sustains Coronavirus Infectivity through Heterogenous Changes in Phase Morphology of Evaporating Aerosol
+text_text: Relevance:  mechanistically shows how the diseases state of the infected individual may actually affect how long the exhaled virus remains infectious in air. <a href='https://x.com/ukhadds/status/1744453878303662139'>@ukhadds</a>

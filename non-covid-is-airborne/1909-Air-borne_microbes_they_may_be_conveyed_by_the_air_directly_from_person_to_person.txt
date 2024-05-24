@@ -1,0 +1,8 @@
+media_caption: Book "Air and Health"
+media_credit: Ronald Campbell Macfie
+media_link: https://wellcomecollection.org/works/ymaj6zpt/items?canvas=1
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FC_PQr3WYAINmTi?format=jpg&name=large
+start_date_year: 1909
+text_headline: Air-borne microbes (...) they may be conveyed by the air directly from person to person
+text_text: "Any one who is ill and who lives indoors, is likely directly to infect the air."<br><br>"Air-borne microbes (...) they may be conveyed by the air directly from person to person". Via <a href='https://x.com/mdc_martinus/status/1454609095592382471'>mdc_martinus tweet</a>

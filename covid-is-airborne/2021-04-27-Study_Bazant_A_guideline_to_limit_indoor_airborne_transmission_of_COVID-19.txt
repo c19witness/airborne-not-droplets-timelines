@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Bazant and Bush
+media_link: https://www.pnas.org/content/118/17/e2018995118
+media_thumbnail: 
+media_url: https://www.pnas.org/content/pnas/118/17/e2018995118/F1.medium.gif
+start_date_day: 27
+start_date_month: 4
+start_date_year: 2021
+text_headline: Study: Bazant. A guideline to limit indoor airborne transmission of COVID-19
+text_text: "In such well-mixed spaces, one is no safer from airborne pathogens at 60 ft than 6 ft."

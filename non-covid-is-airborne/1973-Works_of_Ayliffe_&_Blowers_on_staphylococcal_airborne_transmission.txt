@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZkAZv5WIAAkpSa?format=jpg&name=large
+start_date_year: 1973
+text_headline: Works of Ayliffe & Blowers on staphylococcal airborne transmission
+text_text: See tweet by <a href='https://x.com/EvonneTCurran/status/1556277953146896389'>@EvonneTCurran</a>

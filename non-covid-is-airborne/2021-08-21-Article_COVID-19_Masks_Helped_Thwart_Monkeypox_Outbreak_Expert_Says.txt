@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Andy Miller / GPG news
+media_link: https://www.gpb.org/news/2021/08/12/covid-19-masks-helped-thwart-monkeypox-outbreak-expert-says
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/183154798-7cd87d38-d4ae-4596-9d72-143bab52dd1f.pngg
+start_date_day: 21
+start_date_month: 8
+start_date_year: 2021
+text_headline: Article: COVID-19 Masks Helped Thwart Monkeypox Outbreak, Expert Says
+text_text: "Monkeypox requires close contact over a long period of time," McCollum said. "Masks definitely helped, particularly on the flight. We do think it provided protection."’

@@ -1,0 +1,10 @@
+media_caption: Aerosol transmission of SARS-CoV-2? Evidence, prevention and control
+media_credit: 
+media_link: https://www.sciencedirect.com/science/article/pii/S0160412020319942
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S0160412020319942-ga1_lrg.jpg
+start_date_day: 7
+start_date_month: 8
+start_date_year: 2020
+text_headline: Aerosol transmission of SARS-CoV-2? Evidence, prevention and control
+text_text: "Evidence suggests the transmission of SARS-CoV-2 via aerosols is plausible under favorable conditions. We synthesized the evidence for aerosol transmission and highlight the scenarios where SARS-CoV-2 aerosols may be pertinent to transmission."

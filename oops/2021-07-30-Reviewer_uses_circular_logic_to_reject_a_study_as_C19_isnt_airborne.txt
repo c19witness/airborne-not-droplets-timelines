@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/127736897-15949598-2240-4752-a7c8-c741375479eb.png
+start_date_day: 30
+start_date_month: 7
+start_date_year: 2021
+text_headline: Reviewer uses circular logic to reject a study as C19 isn't airborne
+text_text: Reviewer to a paper claims something is off with the conclusion, given (circular logic) if it were true then Covid19 would be airborne. See <a href='https://x.com/JacobBAguilar/status/1421168616922394627'>Twitter thread</a>

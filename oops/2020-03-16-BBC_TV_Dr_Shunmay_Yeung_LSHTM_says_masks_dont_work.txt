@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: BBC news - video segment
+media_link: https://www.bbc.co.uk/news/av/health-51881555
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/113573613-626fbd80-9612-11eb-97dd-2257e0e785ac.png
+start_date_day: 16
+start_date_month: 3
+start_date_year: 2020
+text_headline: BBC TV: Dr Shunmay Yeung (LSHTM) says masks don't work
+text_text: Dr Shunmay Yeung from London School of Hygiene and Tropical Medicine (LSHTM) in BBC TV interview says (incorrectly ) that masks don't work because "It's not protecting me because it's not there [in the air].". See also LSHTM's <a href='https://x.com/LSHTM/status/1238777053106843648'>proud tweet</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.cambridge.org/core/journals/epidemiology-and-infection/article/covid19-outbreak-at-a-residential-apartment-building-in-northern-ontario-canada/E73BCBBF22BC3915686C12EB8A054BE0
+media_thumbnail: 
+media_url: /media/ontario-study.png
+start_date_day: 4
+start_date_month: 3
+start_date_year: 2024
+text_headline: Study: COVID-19 outbreak at a residential apartment building in Northern Ontario
+text_text: "Findings from the multiple components of this investigation are suggestive of aerosol transmission between units"

@@ -1,0 +1,10 @@
+media_caption: An overview of possible transmission zones one to four
+media_credit: Mingyu, Shelan, Liebo, Fengying, Kunyang, Hanqing, Xiaohua, Zhifeng, Xuanjun, Zhenyu, Min
+media_link: https://www.frontiersin.org/articles/10.3389/fpubh.2023.1153303/full
+media_thumbnail: 
+media_url: https://www.frontiersin.org/files/Articles/1153303/fpubh-11-1153303-HTML/image_m/fpubh-11-1153303-g002.jpg
+start_date_day: 4
+start_date_month: 7
+start_date_year: 2023
+text_headline: Study: Analysis of a super-transmission of SARS-CoV-2 omicron variant BA.5.2 in the outdoor night market
+text_text: “Aerosols with BA.5.2 strain released by patients could suspend in ambient air up to 1h 39min and still be contagious”. Via <a href='https://x.com/harryspoelstra/status/1676189767396884483'>@harryspoelstra tweet</a>

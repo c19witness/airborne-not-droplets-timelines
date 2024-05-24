@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO Zimbabwe
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO_Zimbabwe/status/1638783007690465287
+start_date_day: 23
+start_date_month: 3
+start_date_year: 2023
+text_headline: WHO Zimbabwe goes back to hand washing to be safe from C19
+text_text: [BOO] Cholera advice: ignoring a universal need for clean water is advice you'd follow there's an active outbreak perhaps but that doesn't **guarantee** you won't catch it. The Covid19 advice should've talked of airborne spread for 99.9% of all transmissions not the 0.1% through digits into nostrils or mouth

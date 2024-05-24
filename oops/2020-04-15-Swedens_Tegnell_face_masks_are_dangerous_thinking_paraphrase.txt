@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/EzANtqJWQAUQOPO?format=jpg&name=900x900
+start_date_day: 15
+start_date_month: 4
+start_date_year: 2020
+text_headline: Sweden's Tegnell:  "face masks are dangerous thinking" (paraphrase)
+text_text: Tegnell a year ago on TV: “it’s dangerous to think that personal protective equipment prevents anything” when discussing face masks, in care homes if my memory isn’t failing me - via <a href='https://x.com/CameliaDewan/status/1382622178856873986'>@CameliaDewan tweet</a>

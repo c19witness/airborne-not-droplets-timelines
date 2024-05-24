@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Director General
+media_link: 
+media_thumbnail: 
+media_url: /media/images/2024-01-10.png
+start_date_day: 10
+start_date_month: 1
+start_date_year: 2024
+text_headline: WHO's supremo, Dr Tedros, suggest masks and ventilation are a personal not government responsibility
+text_text: [BOO]: He says "And we continue to call on individuals to [..] ensure crowded indoor spaces are well ventilated". How the hell are they going to do that? Via <a href='https://x.com/WHO/status/1745092955558354961'>@WHO tweet</a>

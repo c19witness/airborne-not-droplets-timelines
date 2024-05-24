@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/DocJeffD/status/1771350734237573577
+start_date_day: 23
+start_date_month: 3
+start_date_year: 2024
+text_headline: CDC suggests Ventilation Can Reduce Exposure to Respiratory Viruses in Indoor Spaces
+text_text: [YAY]:  "Airborne" and "aerosol" are absent, but new <a href='https://www.cdc.gov/ncird/whats-new/ventilation-respiratory-viruses.html'>CDC advice</a> talks up fresh air ventilation and CO2 monitoring

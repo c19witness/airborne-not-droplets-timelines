@@ -1,0 +1,5 @@
+title_media_caption: 
+title_media_credit: 
+title_media_url: 
+title_text_headline: Timeline covering WHO's back and forth on covid-is-airborne (✓) or fomites & droplets (✗)
+title_text_text: Feb 8th 2020: China's CDC press conference "Covid19 is airborne". The WHO disagrees and implicates fomites & large droplets for transmission. Dec 2021: WHO begins to correct that mis-info, but don't complete the job nor publicize it. WHO maintains <a href='https://www.who.int/news/item/29-06-2020-covidtimeline'>their own pat-selves-on-back timeline</a> and <a href='https://www.who.int/emergencies/diseases/novel-coronavirus-2019/interactive-timeline'>another that's interactive</a>. They'd previously (2006) <a href='https://x.com/mdc_martinus/status/1615018898537025539'> said SARS-1 was airborne</a>, so what gives?

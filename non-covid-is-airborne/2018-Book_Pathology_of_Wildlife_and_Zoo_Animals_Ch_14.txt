@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: Kerstin Mätz-Rensing and Linda J.Lowenstine
+media_link: https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/yatapoxvirus
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/182145868-7d6044c1-7456-44fb-bd1d-750c0f1053b5.png
+start_date_year: 2018
+text_headline: Book: Pathology of Wildlife and Zoo Animals, Ch 14
+text_text: "... [Monkeypox] Transmission occurs by aerosols or direct contact ... ". Via <a href='https://x.com/dwain_campbell/status/1553989699953299457'>@dwain_campbell tweet</a>

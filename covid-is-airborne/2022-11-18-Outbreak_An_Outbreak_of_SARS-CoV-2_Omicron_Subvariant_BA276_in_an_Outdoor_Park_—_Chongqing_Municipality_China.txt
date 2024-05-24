@@ -1,0 +1,10 @@
+media_caption: distribution of sampling date for positive specimen in the outbreak
+media_credit: China CDC & Qi, Tang, Wang, Xiong, Yuan, Li, Yang, Li, Yang, Su, Li, Zhang
+media_link: https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2022.209
+media_thumbnail: 
+media_url: https://weekly.chinacdc.cn/fileCCDCW/journal/article/ccdcw/2022/46/PIC/CCDCW220227-1.jpg
+start_date_day: 18
+start_date_month: 11
+start_date_year: 2022
+text_headline: Outbreak: An Outbreak of SARS-CoV-2 Omicron Subvariant BA.2.76 in an Outdoor Park — Chongqing Municipality, China
+text_text: "Patient Zero developed symptoms of fatigue the day before his jogging. When Patient Zero jogged, the transmission of the virus increased due to the excessive heavy breathing. A study applied a model and claimed that runners, who in their exercise state produce stronger inhalation and exhalation breaths, could be more prone to being infected with COVID-19"

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.science.org/content/article/who-s-departing-chief-scientist-regrets-errors-debate-over-whether-sars-cov-2-spreads
+media_thumbnail: 
+media_url: https://www.science.org/do/10.1126/science.adf9731/full/_20221122_on_soumya_swaminathan_qa.jpg
+start_date_day: 23
+start_date_month: 11
+start_date_year: 2022
+text_headline: Article: WHO’s departing chief scientist regrets errors in debate over whether SARS-CoV-2 spreads through air
+text_text: [YAY] (WHO chief scientist announces she is leaving her post): "Soumya Swaminathan says the agency should have acknowledged aerosol transmission 'much earlier' but is proud of work on vaccine equity"

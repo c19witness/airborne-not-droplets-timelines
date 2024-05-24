@@ -1,0 +1,10 @@
+media_caption: CDC document marked 'DO NOT FORWARD'
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/F98aNzqWsAAKjDk?format=jpg&name=medium
+start_date_day: 6
+start_date_month: 1
+start_date_year: 2020
+text_headline: Unpublished doc discussing airborne nature of C19 and more
+text_text: "...Health experts locally are recommending that citizens pay attention to maintaining indoor air circulation, avoid closed and airless public places and crowded places, and wear masks when necessary...". CDC marks this document as 'do not forward'. Via <a href='https://x.com/ariccio/status/1715225432339907063'>@ariccio tweet</a>

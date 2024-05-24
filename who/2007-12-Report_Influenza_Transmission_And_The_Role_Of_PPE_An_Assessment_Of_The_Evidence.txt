@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: WHO's Conly in another committee
+media_link: https://cca-reports.ca/wp-content/uploads/2018/10/2007-12-19_influenza_ppre_final_report.pdf
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/F572Ld9agAACxJS?format=png&name=small
+start_date_month: 12
+start_date_year: 2007
+text_headline: Report: Influenza Transmission And The Role Of [PPE]: An Assessment Of The Evidence
+text_text: [BOO] WHO's Conly on a review that pushes the same 'no-evidence of airborne' points that are still pushed today <a href='https://x.com/Mark_Ungrin/status/1702069243876196835'>Via @Mark_Ungrin</a>

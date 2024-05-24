@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Dr Ryan
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=JA9TLGryLcM
+start_date_day: 8
+start_date_month: 11
+start_date_year: 2017
+text_headline: WHO: Dr Ryan talks up his knowledge that diseases can be airborne
+text_text: [YAY] Dr Mike Ryan describes his reaction to the effect on Madagascar of an AIRBORNE pathogen outbreak <a href='https://x.com/JOHNJOHNSTONED/status/1702138181720932358'>Via JOHNJOHNSTONED and mdc_martinus</a>

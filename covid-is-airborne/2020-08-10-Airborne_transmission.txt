@@ -1,0 +1,10 @@
+media_caption: Snapshots of the droplet-laden cough simulation
+media_credit: University of Twente and University of Rome Tor Vergata
+media_link: https://www.news-medical.net/news/20200810/SARS-CoV-2-droplets-travel-further-and-last-longer-than-thought-and-even-more-in-humid-air.aspx
+media_thumbnail: /media/drops.png
+media_url: https://www.news-medical.net/image.axd?picture=2020%2f8%2f%40020.08.04.20168468v1.jpg&ts=20200810021637&ri=750
+start_date_day: 10
+start_date_month: 8
+start_date_year: 2020
+text_headline: Airborne transmission
+text_text: Study: Long-distance airborne transmission through multiphase turbulent droplet cloud emission is an essential factor

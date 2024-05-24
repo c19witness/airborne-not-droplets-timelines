@@ -1,0 +1,10 @@
+media_caption: Investigated COVID-19 ward rooms of the study
+media_credit: Nissen,  Krambrich,  Akaberi,  Hoffman,  Ling,  Lundkvist,  Svensson &  Salaneck
+media_link: https://www.nature.com/articles/s41598-020-76442-2
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-76442-2/MediaObjects/41598_2020_76442_Fig1_HTML.png?as=webp
+start_date_day: 11
+start_date_month: 11
+start_date_year: 2020
+text_headline: Study: Long-distance airborne dispersal of SARS-CoV-2 in COVID-19 wards
+text_text: "Evidence suggests that SARS-CoV-2, as well as other coronaviruses, can be dispersed and potentially transmitted by aerosols directly or via ventilation systems"

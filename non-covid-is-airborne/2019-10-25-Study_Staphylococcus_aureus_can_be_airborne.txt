@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Kozajda, Jeżak and Kapsa
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6900272/#:~:text=aureus%20strains%2C%20including%20MRSA%20(methicillin,empirically%20confirmed%20in%20environmental%20studies.
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/114778424-bb56f880-9d6c-11eb-8137-db1c5948e247.png
+start_date_day: 25
+start_date_month: 10
+start_date_year: 2019
+text_headline: Study: Staphylococcus aureus can be airborne
+text_text: 57 references to airborne in the study

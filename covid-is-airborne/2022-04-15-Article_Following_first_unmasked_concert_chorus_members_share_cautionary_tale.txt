@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WBUR
+media_link: https://www.wbur.org/news/2022/04/15/tanglewood-festial-chorus-boston-symphony-orchestra-covid?linkId=161068569
+media_thumbnail: 
+media_url: https://pbs.twimg.com/card_img/1515075151662047236/BZH1OdsL?format=jpg&name=small
+start_date_day: 15
+start_date_month: 4
+start_date_year: 2022
+text_headline: Article: Following first unmasked concert, chorus members share cautionary tale
+text_text: "More than 30 members of the Tanglewood Festival Chorus and the Boston Symphony Orchestra tested positive for COVID-19 following a performance in Boston last weekend." They'd previously taken advice <a href='https://x.com/CoastalBendBern/status/1515521855192551424'>from @j_g_allen</a> who has at times said "good ventilation allows for no masks" (paraphrase).

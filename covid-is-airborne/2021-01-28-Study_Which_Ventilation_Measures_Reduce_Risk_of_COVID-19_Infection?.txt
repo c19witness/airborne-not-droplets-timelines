@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Martin Kriegel & Hermann Rietschel Institute
+media_link: https://www.tu.berlin/en/about/profile/press-releases-news/2021/januar/improved-model-for-calculating-risk-of-infection
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/129490615-5fec0a40-987b-4a25-846d-23817ca5d327.png
+start_date_day: 28
+start_date_month: 1
+start_date_year: 2021
+text_headline: Study: Which Ventilation Measures Reduce Risk of COVID-19 Infection?
+text_text: "Experts believe that SARS-CoV-2-laden aerosol particles are one of the key contributing factors to the spread of the coronavirus pandemic"

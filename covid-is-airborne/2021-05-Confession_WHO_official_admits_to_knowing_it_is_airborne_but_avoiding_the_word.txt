@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Maria Van Kerkhove
+media_link: https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/186605377-a87e7385-9689-4b3d-8bca-2879ce206f0b.png
+start_date_month: 5
+start_date_year: 2021
+text_headline: Confession: WHO official admits to knowing it is airborne but avoiding the word
+text_text: "@WHO  officials knew perfectly well that ventilation ONLY works for airborne transmission. Does NOTHING for droplets or surfaces. " <a href='https://x.com/jljcolorado/status/1562511589411921921'>@jljcolorado tweet</a>

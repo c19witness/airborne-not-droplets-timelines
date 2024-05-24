@@ -1,0 +1,10 @@
+media_caption: Speaking at Georgetown School of Foreign Service event
+media_credit: Dr Fauci
+media_link: 
+media_thumbnail: 
+media_url: https://youtu.be/kvhSJ1UOeCs?t=1054
+start_date_day: 27
+start_date_month: 3
+start_date_year: 2023
+text_headline: Event: The Maloy Distinguished Lecture in Global Health
+text_text: Dr Fauci details predominant airborne nature of transmission

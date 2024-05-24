@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: BBC
+media_link: https://www.bbc.co.uk/news/uk-england-birmingham-45101091
+media_thumbnail: 
+media_url: https://ichef.bbci.co.uk/news/976/cpsprodpb/132C/production/_102880940_gettyimages-104406532.jpg
+start_date_day: 10
+start_date_month: 8
+start_date_year: 2018
+text_headline: Article: How smallpox claimed its final victim
+text_text: "It traveled from one room to another. So... smallpox [is] airborne.". Via <a href='https://x.com/RougeMatisse/status/1527451119944966144'>@RougeMatisse tweet</a>

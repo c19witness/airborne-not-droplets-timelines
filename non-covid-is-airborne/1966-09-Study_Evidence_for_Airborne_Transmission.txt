@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: COUCH, CATE, DOUGLAS, GERONE, KNIGHT
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC378233/pdf/bactrev00060-0047.pdf1974
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133338534-19c0cd13-7bb6-4bc3-bf79-f1de6dd7a7c1.png
+start_date_month: 9
+start_date_year: 1966
+text_headline: Study: Evidence for Airborne Transmission
+text_text: (Experimental Respiratory Viral Disease in Volunteers): "... airborne transmission unquestionably occurred...."

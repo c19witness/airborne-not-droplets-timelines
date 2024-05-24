@@ -1,0 +1,10 @@
+media_caption: Drs Tedros and Ryan at the press conference
+media_credit: 
+media_link: https://www.youtube.com/watch?v=hd2QoYt5Fcw&t=1s
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/137568051-3e42f16c-d475-4c7c-9eb5-58be77e5f896.png
+start_date_day: 11
+start_date_month: 2
+start_date_year: 2020
+text_headline: WHO's Dr Tedros flip-flops on airborne
+text_text: 40:27 Dr Tedros said "COVID is airborne"<br>42:00 private talk between Dr Tedros and Dr Mike Ryan<br>46:23 Tedros said laughing "sorry, I use the military word, airborne"<br><br>In less than 7 minutes, the history of the pandemic changed dramatically.<br>Via <a href='https://x.com/Iamgoingtosleep/status/1449042048133251072'>Iamgoingtosleep</a>

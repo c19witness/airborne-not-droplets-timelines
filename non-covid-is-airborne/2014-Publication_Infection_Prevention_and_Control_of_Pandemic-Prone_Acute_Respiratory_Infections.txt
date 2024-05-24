@@ -1,0 +1,9 @@
+duplicated: in WHO and non-covid timeline
+media_caption: 
+media_credit: WHO
+media_link: https://www.ncbi.nlm.nih.gov/books/NBK214359/#!po=12.5000
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/Flip73zXwAEvuGL?format=jpg&name=large
+start_date_year: 2014
+text_headline: Publication: Infection Prevention and Control of [..] Pandemic-Prone Acute Respiratory Infections [..]
+text_text: [TB, RSV, Influenza, Measles, SARS-1, MERS]: Many references including "medical masks may not offer adequate respiratory protection against small particle aerosols (droplet nuclei)."

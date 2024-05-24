@@ -1,0 +1,10 @@
+media_caption: ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance
+media_credit: 
+media_link: https://www.ashrae.org/about/news/2021/ashrae-epidemic-task-force-releases-updated-airborne-transmission-guidance
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/113585061-b4f0b000-95f9-11eb-9d95-f50de4fa299b.png
+start_date_day: 5
+start_date_month: 4
+start_date_year: 2021
+text_headline: ASHRAE Epidemic Task Force Releases Updated Airborne Transmission Guidance
+text_text: "Airborne transmission of SARS-CoV-2 is significant and should be controlled. Changes to building operations, including the operation of heating, ventilating, and air-conditioning systems, can reduce airborne exposures."

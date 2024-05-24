@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Wang, Prather, Sznitman, Jimenez, Lakdawala, Tufekci, Marr
+media_link: http://science.sciencemag.org/content/373/6558/eabd9149.full
+media_thumbnail: 
+media_url: http://science.sciencemag.org/content/sci/373/6558/eabd9149/F2.large.jpg
+start_date_day: 27
+start_date_month: 8
+start_date_year: 2021
+text_headline: Airborne transmission of respiratory viruses
+text_text: Review: "Improved understanding of aerosol transmission brought about by studies of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection requires a reevaluation of the major transmission pathways for other respiratory viruses, which will allow better-informed controls to reduce airborne transmission."

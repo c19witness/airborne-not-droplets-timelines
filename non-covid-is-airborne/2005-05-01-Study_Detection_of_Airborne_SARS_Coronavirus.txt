@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://tspace.library.utoronto.ca/bitstream/1807/16917/1/Low_2909_3969.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133157036-a7f845f3-8861-4eee-9615-ccebebb0b04c.png
+start_date_day: 1
+start_date_month: 5
+start_date_year: 2005
+text_headline: Study: Detection of Airborne SARS Coronavirus ...
+text_text: "Confirmation that the SARS virus can be shed into the air of a patient room will guide the response to any future SARS outbreaks. The role of building ventilation rates and of the efficiency of air filtration in isolation rooms in avoiding transmission should be carefully considered, as should the avoidance of any elective procedures that could result in the generation of aerosols from patients with SARS"

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO Tweet
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/113572088-78c84a00-960f-11eb-8e3d-b76608f315f6.png
+start_date_day: 14
+start_date_month: 1
+start_date_year: 2020
+text_headline: WHO Claim: No clear evidence of human to human
+text_text: "No clear evidence of human to human " - clipped from <a href='https://x.com/WHO/status/1217043229427761152'>WHO tweet</a>.

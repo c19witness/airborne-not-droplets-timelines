@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://user-images.githubusercontent.com/82182/136089509-21fed25c-dce2-46e6-b826-c03563630d23.png
+media_url: https://user-images.githubusercontent.com/82182/136092027-4007ae1a-1cea-4af0-8ae0-7a9e6730538b.png
+start_date_day: 11
+start_date_month: 2
+start_date_year: 2021
+text_headline: Canada: "children [...] are not vectors for Covid"
+text_text: Dr. Patricia Daly was on a Covid/vaccine info zoom session tonight for BC family doctors. Asked about vaccines for children, She told them children might be vectors of transmission for other viruses, but they are not vectors for Covid. She also said they only get mild disease. Via <a href='https://x.com/InspiredAquaCA/status/1359709012527251464'>@InspiredAquaCA</a>

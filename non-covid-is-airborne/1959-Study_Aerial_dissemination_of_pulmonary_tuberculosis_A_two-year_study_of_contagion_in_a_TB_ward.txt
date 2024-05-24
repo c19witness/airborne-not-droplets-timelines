@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: Riley, Mills, Nyka, Weinstock, Storey, Sultan, Riley, Wells
+media_link: https://academic.oup.com/aje/article-abstract/70/2/185/182026?redirectedFrom=fulltext&login=false
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/155023865-20d0af00-c719-45da-b395-64c15e3cd751.png
+start_date_year: 1959
+text_headline: Study: Aerial dissemination of pulmonary tuberculosis. A two-year study of contagion in a TB ward
+text_text: Excerpt: "(c) In general, the distribution of tubercles throughout the lungs was random, indicating that airborne tuberculosis went wherever the air went, ..."

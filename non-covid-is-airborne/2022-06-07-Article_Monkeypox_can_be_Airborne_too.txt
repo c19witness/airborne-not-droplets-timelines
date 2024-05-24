@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: NYTimes
+media_link: https://www.nytimes.com/2022/06/07/health/monkeypox-masks-cdc.html
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZb3xofXoAI8rRP?format=png&name=900x900
+start_date_day: 7
+start_date_month: 6
+start_date_year: 2022
+text_headline: Article: Monkeypox can be Airborne, too
+text_text: "An abrupt change in CDC guidance underscores a little known phenomenon: On occasion, Monkeypox can be transmitted through aerosols, similar to Coronavirus"

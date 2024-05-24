@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Liu,  Ning,  Chen,  Guo,  Liu,   Gali,  Sun,  Duan,  Cai,  Westerdahl,  Liu,  Xu,  Ho,  Kan,  Fu &  Lan
+media_link: https://www.nature.com/articles/s41586-020-2271-3
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-020-2271-3/MediaObjects/41586_2020_2271_Fig1_HTML.png?as=webp
+start_date_day: 27
+start_date_month: 4
+start_date_year: 2020
+text_headline: Study: Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
+text_text: "[...] we propose that SARS-CoV-2 may have the potential to be transmitted through aerosols"

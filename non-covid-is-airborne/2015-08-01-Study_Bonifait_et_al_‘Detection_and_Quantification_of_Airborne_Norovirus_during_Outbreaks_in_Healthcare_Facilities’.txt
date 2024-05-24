@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://academic.oup.com/cid/article/61/3/299/491373
+media_thumbnail: 
+media_url: 
+start_date_day: 1
+start_date_month: 8
+start_date_year: 2015
+text_headline: Study: Bonifait et al. ‘Detection and Quantification of Airborne Norovirus during Outbreaks in Healthcare Facilities’
+text_text: Bonifait et al. ‘Detection and Quantification of Airborne Norovirus during Outbreaks in Healthcare Facilities’. Clin Inf Dis: 61, no. 3 (1 August 2015): 299–304 <a href='https://mastodon.social/@jmcrookston/110987337320790070'>Quick post here</a>

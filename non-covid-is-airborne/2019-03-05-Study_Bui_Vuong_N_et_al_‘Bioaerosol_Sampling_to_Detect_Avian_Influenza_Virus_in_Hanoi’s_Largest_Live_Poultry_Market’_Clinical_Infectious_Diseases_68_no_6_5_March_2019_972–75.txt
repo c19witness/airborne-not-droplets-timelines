@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://academic.oup.com/cid/article/68/6/972/5088836
+media_thumbnail: 
+media_url: 
+start_date_day: 5
+start_date_month: 3
+start_date_year: 2019
+text_headline: Study: Bui, Vuong N et al. ‘Bioaerosol Sampling to Detect Avian Influenza Virus in Hanoi’s Largest Live Poultry Market’. Clinical Infectious Diseases 68, no. 6 (5 March 2019): 972–75.
+text_text: Bui, Vuong N et al. ‘Bioaerosol Sampling to Detect Avian Influenza Virus in Hanoi’s Largest Live Poultry Market’. Clinical Infectious Diseases 68, no. 6 (5 March 2019): 972–75. <p>'The association between positive sample types (over time and position) was strong, with 91.7% of positive OP pooled swab samples confirmed by positive aerosol samples and 81% of influenza A positive aerosol samples confirmed by positive OP swab samples.' </a>

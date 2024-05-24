@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Ribaric, Vincent, Jonitz, Hellinger, Ribaric
+media_link: https://onlinelibrary.wiley.com/doi/10.1111/ina.12968
+media_thumbnail: 
+media_url: https://onlinelibrary.wiley.com/cms/asset/0156fba9-a773-4dcd-b6f0-0362063d4832/ina12968-fig-0001-m.png
+start_date_day: 4
+start_date_month: 12
+start_date_year: 2021
+text_headline: Study: Hidden hazards of SARS-CoV-2 transmission in hospitals: A systematic review
+text_text: "... Airborne contamination was observed in all major hospital areas and almost every subdivision of them ..."

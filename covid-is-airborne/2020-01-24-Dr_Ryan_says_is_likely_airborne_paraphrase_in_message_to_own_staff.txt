@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/F8uUKn8WIAAqedp?format=jpg&name=large
+start_date_day: 24
+start_date_month: 1
+start_date_year: 2020
+text_headline: Dr Ryan says is likely airborne (paraphrase) in message to own staff
+text_text: "This is person to person transmission likely secondary to close contact and droplet exposure. Transmission can be interrupted, and WHO will continue down that path until the data says otherwise" - did the WHO commission anything every that'd challenge their data?. Via <a href='https://x.com/mdc_martinus/status/1714626998511820871'>@mdc_martinus tweet</a>

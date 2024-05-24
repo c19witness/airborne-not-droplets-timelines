@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Nick Wilson, BMJ
+media_link: https://www.bmj.com/content/370/bmj.m3206
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/119111198-beec3800-ba1a-11eb-942f-834e0a2ef559.png
+start_date_day: 20
+start_date_month: 8
+start_date_year: 2020
+text_headline: BMJ Editorial: Airborne transmission of covid-19
+text_text: "Guidelines and governments must acknowledge the [Airborne] evidence and take steps to protect the public"

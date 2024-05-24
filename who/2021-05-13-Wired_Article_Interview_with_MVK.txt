@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147406083-9359907e-f8cc-4b02-85f1-992df4351305.png
+start_date_day: 13
+start_date_month: 5
+start_date_year: 2021
+text_headline: Wired Article Interview with MVK
+text_text: [BOO] WHO's Maria Van Kerkhove responds to Wired questions and defends not calling the pandemic primarily airborne. <a href='https://x.com/jljcolorado/status/1471160707794276353'>@jljcolorado calls this one of the LARGEST ERRORS IN THE HISTORY OF PUBLIC HEALTH</a>

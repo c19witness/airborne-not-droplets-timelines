@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Panda, Mohakud, Pena, and Kumara
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7110553/#:~:text=Being%20a%20respiratory%20infection%2C%20hMPV%20is%20transmitted%20by%20infectious%20airborne%20droplets.
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7110553/bin/gr4_lrg.jpg
+start_date_day: 14
+start_date_month: 5
+start_date_year: 2014
+text_headline: Study: Human metapneumovirus: review of an important respiratory pathogen
+text_text: "Being a respiratory infection, hMPV is transmitted by infectious airborne droplets."

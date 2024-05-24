@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/122983961-6bac3300-d394-11eb-841e-9f20d9b3c3fb.png
+start_date_day: 21
+start_date_month: 6
+start_date_year: 2021
+text_headline: Article: Airborne transmission on camera in Australia
+text_text: Infected person breaths out, someone else gets infected breathing in as they walk past. See <a href='https://x.com/DrEricDing/status/1407061226149064706'>DrEricDing thread</a>

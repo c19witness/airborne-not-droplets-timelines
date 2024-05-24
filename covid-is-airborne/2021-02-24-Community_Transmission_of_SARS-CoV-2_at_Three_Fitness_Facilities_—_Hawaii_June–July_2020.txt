@@ -1,0 +1,10 @@
+media_caption: Date of symptom onset or positive test result
+media_credit: 
+media_link: https://www.cdc.gov/mmwr/volumes/70/wr/mm7009e1.htm?s_cid=mm7009e1_e
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/70/wr/figures/mm7009e1-F.gif
+start_date_day: 24
+start_date_month: 2
+start_date_year: 2021
+text_headline: Community Transmission of SARS-CoV-2 at Three Fitness Facilities — Hawaii, June–July 2020
+text_text: "Twenty-one COVID-19 cases were linked to an index case in a fitness instructor, who, along with a patient who was also an instructor, taught classes <1 day, 1 to <2 days, and ≥2 days before symptom onset; aggregate attack rates were 95%, 13%, and 0%, respectively."

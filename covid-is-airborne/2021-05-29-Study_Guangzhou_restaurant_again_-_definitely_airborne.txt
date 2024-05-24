@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Zhang, Chen, Jia, Xie, Li, and Kang
+media_link: https://www.journalofinfection.com/article/S0163-4453(21)00273-5/fulltext
+media_thumbnail: 
+media_url: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/1f6835ea-2f3c-4248-908b-14645234a311/gr1.jpg
+start_date_day: 29
+start_date_month: 5
+start_date_year: 2021
+text_headline: Study: Guangzhou restaurant again - definitely airborne
+text_text: Guangzhou restaurant study. Scientists scrutinised CCTV footage from the restaurant & definitively ruled out close contact droplet & fomite transmission. See <a href='https://x.com/DrZoeHyde/status/1401553847412150274'>Dr Zoë Hyde tweet</a>.

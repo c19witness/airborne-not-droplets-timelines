@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO Europe
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO_Europe/status/1711693299566641589
+start_date_day: 10
+start_date_month: 10
+start_date_year: 2023
+text_headline: WHO Europe lists hand washing ahead of masks for C19 prevention
+text_text: [BOO]: In a tweet that lists five things to do to prevent Covid-19 transmission, they list ineffective hand-washing ahead of effective masking, and ventilation

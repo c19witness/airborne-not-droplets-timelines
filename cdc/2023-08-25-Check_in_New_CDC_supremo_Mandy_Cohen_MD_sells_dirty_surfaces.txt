@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC's Mandy Cohen MD
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/CDCDirector/status/1695175746094879196
+start_date_day: 25
+start_date_month: 8
+start_date_year: 2023
+text_headline: Check in: New CDC supremo Mandy Cohen MD sells dirty surfaces
+text_text: [BOO]: Reading from from a teleprompter we're told it isn't primarily airborne, and that washing our hands will save us from infection (it won't)

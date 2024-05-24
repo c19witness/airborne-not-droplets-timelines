@@ -1,0 +1,10 @@
+media_caption: Airflow simulation
+media_credit: New York Times
+media_link: https://www.nytimes.com/interactive/2021/02/26/science/reopen-schools-safety-ventilation.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114729159-ba42ae80-9d0d-11eb-808b-ebf8f9b3c27c.png
+start_date_day: 26
+start_date_month: 2
+start_date_year: 2021
+text_headline: New York Times: Why Opening Windows Is a Key to Reopening Schools
+text_text: "The C.D.C. is urging communities to reopen schools as quickly as possible, but parents and teachers have raised questions about the quality of ventilation available in public school classrooms to protect against the coronavirus.  We worked with a leading engineering firm and experts specializing in buildings systems to better understand the simple steps schools can take to reduce exposure in the classroom."

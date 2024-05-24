@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.sciencedirect.com/science/article/abs/pii/S0021850221005553?via%3Dihub
+media_thumbnail: 
+media_url: 
+start_date_day: 1
+start_date_month: 11
+start_date_year: 2021
+text_headline: Study: Dubuis, Marie-Eve et al. ‘High and Low Flowrate Sampling of Airborne Influenza in Hospital Rooms during Three Outbreaks’. Journal of Aerosol Science 158 (1 November 2021): 10582.
+text_text: Influenza RNA detected in hospital air. <p>Dubuis, Marie-Eve et al. ‘High and Low Flowrate Sampling of Airborne Influenza in Hospital Rooms during Three Outbreaks’. Journal of Aerosol Science 158 (1 November 2021): 10582.

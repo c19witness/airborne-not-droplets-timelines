@@ -1,0 +1,10 @@
+media_caption: Red is the index patient. Purple got on the bus 30 minutes after the index patient left.
+media_credit: 
+media_link: https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay
+media_thumbnail: /media/twiceAsFar.png
+media_url: https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/03/11/2367f83c-61fc-11ea-8e9f-2d196083a37c_972x_161511.jpg
+start_date_day: 9
+start_date_month: 3
+start_date_year: 2020
+text_headline: Outbreak: Hunan bus. COVID-19 can travel 'twice as far' (4.5m) and linger 30 minutes
+text_text: Newspaper article: Coronavirus can travel twice as far as official ‘safe distance’ and stay in air for 30 minutes, Chinese study finds. A number of passengers became infected during the four-hour bus journey. One was infected AFTER the index patient got off. There is CCTV on all Chinese inter-city busses, so they knew that the index patient never got out of his seat. <a href='https://www.scmp.com/news/china/science/article/3074351/coronavirus-can-travel-twice-far-official-safe-distance-and-stay'>Article in SCMP, reported March</a>. <a target='_blank' href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>Study re-published in September after an initial retraction</a>.<br><br><a href='https://x.com/jmcrookston/status/1308907690987528198'>Twitter post and original report (@jmcrookston)</a>

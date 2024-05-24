@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/Iamgoingtosleep/status/1621678009815121922
+start_date_day: 4
+start_date_month: 2
+start_date_year: 2023
+text_headline: Interview: Maria Van Kerkhove recommends N95 or FFP2 respirators to protect yourself
+text_text: [YAY] She doesn't say airborne or aerosols - too bad. On the positive side she did not tack on " aerosol generating procedures". Via <a href='https://x.com/Iamgoingtosleep'>@Iamgoingtosleep</a>

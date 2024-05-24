@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Croft, Sotir, Williams, Kazmierczak, Wegner, Rausch, Graham, Foldy, Wolters, Damon, Karem, Davis
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2828073/
+media_thumbnail: 
+media_url: /media/PMC2828073.png
+start_date_month: 8
+start_date_year: 2007
+text_headline: Report: Occupational Risks during a Monkeypox Outbreak, Wisconsin, 2003
+text_text: "Five of these 7 case-patients reported having been within 3 feet of prairie dog C, 1 reported having been in the same room as prairie dog C but not within 3 feet, and 1 reported not being in facility 4 while prairie dog C was there but being there within 48 hours of its death. "

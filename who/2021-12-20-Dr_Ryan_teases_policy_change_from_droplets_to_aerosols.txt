@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://user-images.githubusercontent.com/82182/147336836-e0a5c93c-8094-491c-a77a-2635c9b45ca2.png
+media_url: https://user-images.githubusercontent.com/82182/147336647-f8f0dcf8-c40a-4f6a-a005-3a9764dd5c83.png
+start_date_day: 20
+start_date_month: 12
+start_date_year: 2021
+text_headline: Dr Ryan teases policy change from droplets to aerosols
+text_text: [YAY] <a href='https://x.com/mdc_martinus/status/1473410068360138753'>He can't quite say "airborne" though</a>

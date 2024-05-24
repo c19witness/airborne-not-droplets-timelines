@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: http://www.xinhuanet.com/english/2020-02/19/c_138798959.htm
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/138819420-4f699fe3-3c2e-4488-a3ea-0adc0158a106.png
+start_date_day: 19
+start_date_month: 2
+start_date_year: 2020
+text_headline: Aerosol transmission added to version 6 of China's COVID-19 treatment plan
+text_text: "The novel coronavirus (COVID-19) can be transmitted when someone was exposed to high concentrations of aerosol in a relatively closed environment for a long time, according to the country's health authorities."

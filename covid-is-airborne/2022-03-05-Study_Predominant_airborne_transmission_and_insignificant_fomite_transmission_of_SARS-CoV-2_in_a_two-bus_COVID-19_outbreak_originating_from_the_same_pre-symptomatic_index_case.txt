@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Chenga, Luo, Xiao, Yang, Hangd, Ou, Cowling, Yen, Hui, Hu, Li
+media_link: https://www.sciencedirect.com/science/article/pii/S030438942103020X
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S030438942103020X-ga1.jpg
+start_date_day: 5
+start_date_month: 3
+start_date_year: 2022
+text_headline: Study: Predominant airborne transmission and insignificant fomite transmission of SARS-CoV-2 in a two-bus COVID-19 outbreak originating from the same pre-symptomatic index case
+text_text: Excerpt: "This study reveals the leading role of airborne SARS-CoV-2 transmission and negligible role of fomite transmission in a poorly ventilated indoor environment, highlighting the need for more targeted interventions in such environments."

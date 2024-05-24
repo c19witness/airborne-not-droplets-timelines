@@ -1,0 +1,10 @@
+media_caption: Diagram of room with the depiction of patient bed and air sampler locations
+media_credit: 
+media_link: https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/102145853-e6354c80-3e5f-11eb-8fc1-3f2f3ff2e5a7.png
+start_date_day: 16
+start_date_month: 9
+start_date_year: 2020
+text_headline: Study: Air sampled from room of COVID-19 patients had the virus-laden aerosols
+text_text: Viable (infectious) SARS-CoV-2 was present in aerosols within the hospital room of COVID-19 patients.<br><br>Airborne virus was detected in the absence of healthcare aerosol-generating procedures.<br><br>The virus strain detected in the aerosols matched with the virus strain isolated from a patient with acute COVID-19.

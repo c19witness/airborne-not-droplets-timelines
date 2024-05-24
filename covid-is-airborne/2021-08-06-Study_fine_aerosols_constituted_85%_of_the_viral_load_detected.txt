@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Coleman, Tay, Tan, Ong, Son, Koh, Chin, Nasir, Mak, Chu, Milton, Chow, Tambyah, Chen, and Wai
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab691/6343417
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/126384982-e6ad2cf4-28f6-4a87-b7dc-b449c80f4cf5.png
+start_date_day: 6
+start_date_month: 8
+start_date_year: 2021
+text_headline: Study: fine aerosols constituted 85% of the viral load detected
+text_text: Study on Viral Load of SARS-CoV-2 in Respiratory Aerosols Emitted by COVID-19 Patients while Breathing, Talking, and Singing.

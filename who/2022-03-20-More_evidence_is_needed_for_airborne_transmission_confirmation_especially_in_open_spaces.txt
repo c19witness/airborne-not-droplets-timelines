@@ -1,0 +1,11 @@
+media_caption: 
+media_credit: WHO
+media_link: https://www.emro.who.int/lbn/lebanon-news/mode-of-transmission-of-covid-19-what-we-know-and-what-we-dont-know.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/209586825-627d59b8-e59a-4f7b-aa98-49802796ec39.png
+start_date_day: 20
+start_date_month: 3
+start_date_year: 2022
+text_headline: "More evidence is needed for airborne transmission confirmation, especially in open spaces."
+text_text: [BOO] Lebanese WHO office suggests that there is not enough evidence of airborne spread
+unique_id: news-mode-of-transmission-of-covid-19-what-we-know-and-what-we-dont-know

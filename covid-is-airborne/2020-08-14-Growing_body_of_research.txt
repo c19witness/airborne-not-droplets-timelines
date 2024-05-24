@@ -1,0 +1,9 @@
+media_caption: Laser-induced fluorescence is a method of using lasers to cause specific substances to emit light
+media_credit: By Jan Pavelka/Wikimedia Commons, CC BY-SA
+media_link: https://theconversation.com/the-covid-19-virus-can-spread-through-the-air-heres-what-itll-take-to-detect-the-airborne-particles-140149
+media_url: https://images.theconversation.com/files/352604/original/file-20200812-20-31ojns.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=600&h=400&fit=crop&dpr=1
+start_date_day: 14
+start_date_month: 8
+start_date_year: 2020
+text_headline: Growing body of research
+text_text: Article: A growing body of research shows that SARS-CoV-2, the virus that causes COVID-19, can spread from person to person through the air. Indoor spaces with poor ventilation in areas where the virus is prevalent are particularly hazardous

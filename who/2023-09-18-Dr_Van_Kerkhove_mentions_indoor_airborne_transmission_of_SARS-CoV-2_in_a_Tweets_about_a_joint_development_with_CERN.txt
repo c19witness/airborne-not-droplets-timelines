@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Dr Van Kerkhove
+media_link: 
+media_thumbnail: 
+media_url: https://cds.cern.ch/images/CERN-HOMEWEB-PHO-2021-146-1/file?size=large
+start_date_day: 18
+start_date_month: 9
+start_date_year: 2023
+text_headline: Dr Van Kerkhove mentions 'indoor airborne transmission of SARS-CoV-2' in a Tweets about a joint development with CERN
+text_text: [YAY]: An app/tool is under development by the WHO and CERN. Dr MVK tracks its progress and acknowledges <a href='https://x.com/mvankerkhove/status/1703783446005399667'>airborne spread of Covid in a tweet</a>

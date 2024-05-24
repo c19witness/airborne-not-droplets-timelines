@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/1goodtern/status/1719301713264259421
+start_date_day: 5
+start_date_month: 3
+start_date_year: 2020
+text_headline: UK: Prime Minister says 'the single best thing you can do is wash your hands'
+text_text: Where did they get this garbage advice from? There's no study

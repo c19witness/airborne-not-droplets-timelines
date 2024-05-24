@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://reflectionsipc.com/2020/02/27/covid-19-and-my-idea-on-masks/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FivJ47JXgAQXewV?format=jpg&name=large
+start_date_day: 27
+start_date_month: 2
+start_date_year: 2020
+text_headline: WHO expected to lie about surgical masks when N95-grade are exhausted
+text_text: [BOO] Prof. Andreas Voss (WHO IPC): […] soon we will have a shortage of FFP2 (N95 grade) and will have to tell our HCWs that FFP1 and surgical masks are “equally save”. Via <a href='https://x.com/mdc_martinus/status/1597592477615423490'>@mdc_martinus</a>

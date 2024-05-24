@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Jeremy Farrar via Der Speigel
+media_link: https://www.spiegel.de/international/world/epidemiologist-jeremy-farrar-on-the-next-viral-threat-i-fear-we-are-at-the-beginning-of-an-era-of-pandemics-a-564b1dae-1c3d-4eb3-b76f-f3c5da6e8289
+media_thumbnail: 
+media_url: /media/images/farrar_spiegel.png
+start_date_day: 26
+start_date_month: 10
+start_date_year: 2022
+text_headline: Interview: Future WHO chief scientist regrets not pushing aerosol spread of C19 more
+text_text: [YAY] : Farrar speaks honestly about the UK and world's mistakes around not identifying and communicating airborne spread in early 2020 when they should have done. [BOO]: Later, as WHO chief scientist himself he would go tight-lipped about the same topics.

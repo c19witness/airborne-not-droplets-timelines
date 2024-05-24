@@ -1,0 +1,9 @@
+media_caption: Monkeypox
+media_credit: Zaucha, Jahrling, Geisbert, Swearengen & Hensley
+media_link: https://www.nature.com/articles/3780373
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Flabinvest.3780373/MediaObjects/41374_2001_Article_BF3780373_Fig1_HTML.jpg?as=webp
+start_date_month: 12
+start_date_year: 2001
+text_headline: Study on Experimental Aerosolized Monkeypox Virus Infection
+text_text: Monkeypox is believed to spread primarily by airborne route in humans according to this 2001 paper. via <a href='https://x.com/barryhunt008/status/1528216670027886593'>@barryhunt008 tweet</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Michaud, Thompson, Kaul, Espinoza, Richter, Xu, Lee, Pham, Beall, Malfatti, Azam, Knight, Burkart, Dupont, Prather
+media_link: https://www.nature.com/articles/s41467-018-04409-z
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04409-z/MediaObjects/41467_2018_4409_Fig1_HTML.jpg?as=webp
+start_date_day: 22
+start_date_month: 5
+start_date_year: 2018
+text_headline: Study: Taxon-specific aerosolization of bacteria and viruses in an experimental ocean-atmosphere mesocosm
+text_text: Need words here, team

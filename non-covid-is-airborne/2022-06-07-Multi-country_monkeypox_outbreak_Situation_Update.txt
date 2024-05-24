@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: NYTimes
+media_link: https://www.nytimes.com/2022/06/07/health/monkeypox-masks-cdc.html
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FY8nBI7VEAAwVYK?format=jpg&name=900x900
+start_date_day: 7
+start_date_month: 6
+start_date_year: 2022
+text_headline: Multi-country monkeypox outbreak: Situation Update
+text_text: "Once again, @CDCgov quickly tries to shut down any talk of scary airborne transmission.". Via <a href='https://x.com/danaparish/status/1553503301227794432'>@danaparish tweet</a>

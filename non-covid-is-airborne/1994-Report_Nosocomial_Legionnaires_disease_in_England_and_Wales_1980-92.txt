@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: JOSEPH', WATSON', HARRISON & BARTLETT'
+media_link: https://pubmed.ncbi.nlm.nih.gov/7910270/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/181102580-ccf28459-c256-428d-8eb4-676e21ce5cab.png
+start_date_year: 1994
+text_headline: Report: Nosocomial Legionnaires' disease in England and Wales, 1980-92
+text_text: [...] The source of the outbreak was identified as the wet cooling system which was producing a contaminated aerosol in the air conditioning system [...]

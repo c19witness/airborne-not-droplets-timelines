@@ -1,0 +1,11 @@
+media_caption: 
+media_credit: Lednicky, Lauzardo, Fan, Cherabuddi, Morris, and Wu
+media_link: https://news.v.daum.net/v/20200916030023673
+media_thumbnail: 
+media_url: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/fd851e8b-3097-4114-9a53-910508cddff0/fx1.jpg
+start_date_day: 16
+start_date_hour: 12
+start_date_month: 9
+start_date_year: 2020
+text_headline: Study: Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients
+text_text: Conclusion: Patients with respiratory manifestations of COVID-19 produce aerosols [that] may serve as a source of transmission of the virus.

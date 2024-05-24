@@ -1,0 +1,9 @@
+media_caption: Centers for Disease Control and Prevention Director Dr. Robert Redfield puts his mask back on after speaking at a Senate Appropriations subcommittee hearing
+media_credit: AP Photo/Andrew Harnik
+media_link: https://apnews.com/article/virus-outbreak-archive-public-health-cfb43dd5a28dd449cd1100a067cfd112
+media_thumbnail: /media/cdc_retract.jpg
+media_url: https://storage.googleapis.com/afs-prod/media/d478dedd87ee43fea2784a7a3ef02c09/800.jpeg
+start_date_month: 5
+start_date_year: 2021
+text_headline: CDC changes, then retracts, web posting on how virus spreads
+text_text: Article: The top U.S. public health agency stirred confusion by posting — and then taking down — an apparent change in its position [to aerosols] on how easily the coronavirus can spread from person to person through the air. <br>But officials at the Centers for Disease Control and Prevention say their position has not really changed ...

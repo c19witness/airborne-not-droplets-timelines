@@ -1,0 +1,10 @@
+duplicated: in WHO and non-covid timeline
+media_caption: 
+media_credit: WHO
+media_link: https://www.who.int/news/item/06-10-2014-what-we-know-about-transmission-of-the-ebola-virus-among-humans
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/EsB3zxoXEAQriX3?format=jpg&name=large
+start_date_month: 10
+start_date_year: 2014
+text_headline: Stance: No evidence that viral diseases change their mode of transmission
+text_text: [BOO] They called it as droplets/fomites and NOT airborne, yet is is primarily airborne, so the WHO should revisit this "unaware of any virus that has dramatically changed its mode of transmission" position. Via <a href='https://x.com/DRTomlinsonEP/status/1351211625081171969'>@DRTomlinsonEP</a>

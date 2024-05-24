@@ -1,0 +1,9 @@
+media_caption: clip from study
+media_credit: 
+media_link: https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0140673600945458/first-page-pdf
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/ErqJF4MXUAIAbF9?format=png&name=small
+start_date_month: 5
+start_date_year: 1938
+text_headline: Strep is airborne
+text_text: Study finds that Streptococcal 'Strep' infections can happen in enclosed spaces. This disease is caused by a bacteria not a viruses. That is important because they are bigger in size, and convention wisdom said they could stay afloat in the air. See <a href='https://x.com/jmcrookston/status/1349543268137263104'> thread by @jmcrookston</a>.

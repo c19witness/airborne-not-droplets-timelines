@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nature.com/articles/s41598-020-80078-7
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/103385120-07996800-4af1-11eb-8074-68a0c62fafb8.png
+start_date_day: 30
+start_date_month: 12
+start_date_year: 2020
+text_headline: Fluid dynamics of COVID-19 airborne infection suggests urgent data for a scientific design of social distancing
+text_text: Our results show that a single rule [like 6 feet] for social distancing may not be adequate to protect individuals in different environments. <a href='https://x.com/EricTopol/status/1344297867578548225'>Twitter thread by (@EricTopol)

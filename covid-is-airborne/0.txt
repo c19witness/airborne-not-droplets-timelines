@@ -1,0 +1,5 @@
+title_media_caption: This illustration, created at the Centers for Disease Control and Prevention (CDC)
+title_media_credit: CDC/ Alissa Eckert, MS; Dan Higgins, MAM
+title_media_url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/SARS-CoV-2_without_background.png/800px-SARS-CoV-2_without_background.png
+title_text_headline: COVID-19 always was airborne
+title_text_text: Airborne mitigations, even improvised ones, should have put in place from the start. This timeline collects evidence that COVID-19 always was airborne. It may be useful to counter future claims of politicians and public health that they did not know so. Articles are sorted by the date of their publication.

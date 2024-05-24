@@ -1,0 +1,10 @@
+media_caption: Room illustration. Index cases 1–9 are drawn according to their location in the room
+media_credit: 
+media_link: https://academic.oup.com/ofid/article/8/3/ofab036/6121257
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/112776582-14edc200-900e-11eb-96d5-6bccbea82ef9.jpg
+start_date_day: 27
+start_date_month: 1
+start_date_year: 2021
+text_headline: SARS-CoV-2 Infection Among Health Care Workers Despite the Use of Surgical Masks and Physical Distancing—the Role of Airborne Transmission
+text_text: "We report for the first time SARS-CoV-2 nosocomial infections despite using surgical masks and physical distancing. This report may provide possible evidence for airborne transmission of SARS-CoV-2."

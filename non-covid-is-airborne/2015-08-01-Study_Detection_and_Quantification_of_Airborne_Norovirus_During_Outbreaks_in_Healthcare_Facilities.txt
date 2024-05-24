@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Bonifait, Charlebois, Vimont, Turgeon, Veillette, Longtin, Jean and Duchaine
+media_link: https://watermark.silverchair.com/civ321.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/210133562-6bf7656d-9803-4841-9857-3e72ef1af364.png
+start_date_day: 1
+start_date_month: 8
+start_date_year: 2015
+text_headline: Study: Detection and Quantification of Airborne Norovirus During Outbreaks in Healthcare Facilities
+text_text: "This provides additional support to the hypothesis that human norovirus may be an airborne disease as suspected by Sawyer et al",

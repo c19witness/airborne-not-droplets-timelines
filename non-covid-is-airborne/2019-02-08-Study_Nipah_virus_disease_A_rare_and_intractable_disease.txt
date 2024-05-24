@@ -1,0 +1,10 @@
+media_caption: clinical features
+media_credit: Banerjee, Gupta, Kodan, Mittal, Ray, Nischal, Soneja, Biswas, and Wig
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6409114/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/132140562-70acc17f-63b1-43fd-846d-c47309688a33.png
+start_date_day: 8
+start_date_month: 2
+start_date_year: 2019
+text_headline: Study: Nipah virus disease: A rare and intractable disease
+text_text: "In case of NiV infection in health-care settings, additional measures, such as droplet, contact and **airborne precautions** should be applied"

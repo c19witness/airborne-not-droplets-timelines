@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Schöll,   Höhn2,   Boucsein,   Moek,   Plath,  an der Heiden,  Huska,   Kröger,   Paraskevopoulou,   Siffczyk,   Buchholz  ,  Lachmann
+media_link: https://wwwnc.cdc.gov/eid/article/30/4/23-1299_article
+media_thumbnail: 
+media_url: https://wwwnc.cdc.gov/eid/images/23-1299-F1.jpg
+start_date_day: 22
+start_date_month: 3
+start_date_year: 2024
+text_headline: Study: Bus Riding as Amplification Mechanism for SARS-CoV-2 Transmission
+text_text: "The outbreak exemplifies how an airborne agent may be transmitted effectively through (multiple) short (<20 minutes) public transport journeys and may rapidly affect many persons." <a href='https://x.com/CovidSafetyEd/status/1771029486802497919'>via @CovidSafetyEd tweet</a>

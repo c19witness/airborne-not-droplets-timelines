@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://user-images.githubusercontent.com/82182/147394738-da7f1ec8-111b-4e44-94a4-55ecdf49c3c5.png
+media_thumbnail: https://user-images.githubusercontent.com/82182/147395098-73d2ec62-9119-49cc-82fa-38ec657345da.png
+media_url: https://user-images.githubusercontent.com/82182/147394738-da7f1ec8-111b-4e44-94a4-55ecdf49c3c5.png
+start_date_day: 9
+start_date_month: 7
+start_date_year: 2020
+text_headline: Document: Transmission [and] infection prevention precautions
+text_text: [BOO] <a href='https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions'</a>[Original WHO Document]</a>. A scientific brief on transmission: Droplets and surfaces are certain, they say. Aerosol transmission routes are made to sound very hypothetical. Superspreading events are blamed on individuals not washing hands and not keeping distance.<br><nr>10-Sep-2020: CDC's Fauci <a href='https://user-images.githubusercontent.com/82182/147395157-2a2263a4-131c-4ad5-9165-3387e9e9d1c9.png'>accepts that the 5 um aerosol / droplet boundary in the WHO Scientific Brief is an error</a> <a href='https://masscpr.hms.harvard.edu/event/harvard-medical-school-grand-rounds-featuring-dr-anthony-s-fauci'>[original]</a

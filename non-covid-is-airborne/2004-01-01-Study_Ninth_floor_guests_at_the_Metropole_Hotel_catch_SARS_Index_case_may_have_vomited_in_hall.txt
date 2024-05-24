@@ -1,0 +1,10 @@
+media_caption: A man who spent one night at Hong Kong's Metropole Hotel (left) spread SARS to other ninth floor guests
+media_credit: AP PHOTO/ANAT GIVON; WHO/WPRO.
+media_link: https://science.sciencemag.org/content/339/6125/1272
+media_thumbnail: 
+media_url: https://science.sciencemag.org/content/sci/339/6125/1272/F2.large.jpg?width=800&height=600&carousel=1
+start_date_day: 1
+start_date_month: 1
+start_date_year: 2004
+text_headline: Study: Ninth floor guests at the Metropole Hotel catch SARS. Index case may have vomited in hall
+text_text: Twenty-one infected by one guest who vomited in a corridor. Excerpt: "... At the time, it was not clear if the causative agent was being transmitted by airborne particles, as measles and tuberculosis spread ..."

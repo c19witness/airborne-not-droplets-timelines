@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://aricjournal.biomedcentral.com/articles/10.1186/s13756-020-00779-6
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/114095610-87378f80-98b5-11eb-970f-f971e15bf9b0.png
+start_date_day: 20
+start_date_month: 8
+start_date_year: 2020
+text_headline: Dr John Conly et al - Medical workers are fine in surgical masks and don't need respirators (paraphrase)
+text_text: "Our view is that the weight of the scientific evidence to date indicates that particulate respirators offer no advantage over medical masks [classic surgical style masks] as a component of PPE for the prevention of respiratory viral infections [for heath care workers]" ... yet now we know that tens of thousands have been infected in hospital settings

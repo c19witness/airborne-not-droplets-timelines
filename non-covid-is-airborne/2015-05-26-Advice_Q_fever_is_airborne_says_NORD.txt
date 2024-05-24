@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://web.archive.org/web/20150526051657/http://rarediseases.org/rare-diseases/q-fever/
+media_thumbnail: 
+media_url: media/q2.png
+start_date_day: 26
+start_date_month: 5
+start_date_year: 2015
+text_headline: Advice: Q fever is airborne says NORD
+text_text: Q fever is airborne, so says the National Organization of Rare Disorders (NORD)

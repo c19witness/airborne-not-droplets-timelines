@@ -1,0 +1,10 @@
+media_caption: Multi-Unit Residential Building (MURB)
+media_credit: 
+media_link: https://ncceh.ca/documents/evidence-review/contextualizing-risks-indirect-covid-19-transmission-multi-unit
+media_thumbnail: 
+media_url: https://ncceh.ca/sites/default/files/styles/print_friendly_320px_/public/gettyimages-1262108071-170667a.jpg
+start_date_day: 24
+start_date_month: 3
+start_date_year: 2021
+text_headline: Contextualizing the risks of indirect COVID-19 transmission in multi-unit residential buildings
+text_text: "This document is intended to help public health practitioners: 1) improve their understanding of how building systems may (or may not) contribute to transmission of SARS-CoV-2; 2) learn about the environmental or other analyses to complement a thorough epidemiological investigation if indirect transmission is suspected; and 3) communicate effectively about the relative risks of indirect transmission in a MURB setting." See also <a href='https://x.com/DavidElfstrom/status/1379814589395795975'> post (@DavidElfstrom)</a>

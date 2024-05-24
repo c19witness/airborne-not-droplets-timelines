@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO Science Brief
+media_link: https://www.who.int/news-room/commentaries/detail/transmission-of-sars-cov-2-implications-for-infection-prevention-precautions
+media_thumbnail: 
+media_url: /media/images/2020-07-09.png
+start_date_day: 9
+start_date_month: 7
+start_date_year: 2020
+text_headline: Briefing: Transmission of SARS-CoV-2: implications for infection prevention precautions
+text_text: Fifteen uses of the work 'airborne', and forty-one references to 'aerosol'.

@@ -1,0 +1,10 @@
+media_caption: Schematic diagram of church layout showing seating locations of primary and secondary case-patients during an outbreak of infection with severe acute respiratory syndrome coronavirus
+media_credit: 
+media_link: https://wwwnc.cdc.gov/eid/article/27/6/21-0465_article
+media_thumbnail: 
+media_url: https://wwwnc.cdc.gov/eid/images/21-0465-F2.jpg
+start_date_day: 5
+start_date_month: 4
+start_date_year: 2021
+text_headline: Epidemiologic Evidence for Airborne Transmission of SARS-CoV-2 during Church Singing, Australia, 2020
+text_text: "An outbreak of severe acute respiratory syndrome coronavirus 2 infection occurred among church attendees after an infectious chorister sang at multiple services. We detected 12 secondary case-patients. Video recordings of the services showed that case-patients were seated in the same section, >15 m from the primary case-patient, without close physical contact, suggesting airborne transmission."

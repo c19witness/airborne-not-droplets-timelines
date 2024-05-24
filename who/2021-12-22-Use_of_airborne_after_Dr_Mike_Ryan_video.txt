@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://user-images.githubusercontent.com/82182/147405867-36e0fe79-eaa0-4843-98a3-22be59d1f355.png
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147405867-36e0fe79-eaa0-4843-98a3-22be59d1f355.png
+start_date_day: 22
+start_date_month: 12
+start_date_year: 2021
+text_headline: Use of airborne after Dr Mike Ryan video
+text_text: [YAY] @doctorsoumya Talks of <a href='https://x.com/doctorsoumya/status/1473522579096752128'>"...this airborne virus.."</a> after the Dr Mike Ryan video stream where he didn't say airborne

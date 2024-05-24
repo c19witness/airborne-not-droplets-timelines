@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Dietz, Constant, Fretz, Horve, Olsen-Martinez, Stenson, Wilkes, Martindale, Messer, and Van Den Wymelenberg
+media_link: https://www.medrxiv.org/content/10.1101/2021.03.26.21254416v1.full-text
+media_thumbnail: 
+media_url: https://www.medrxiv.org/content/medrxiv/early/2021/03/26/2021.03.26.21254416/F2.medium.gif
+start_date_day: 26
+start_date_month: 3
+start_date_year: 2021
+text_headline: Study: More virus in air samples than found in surface swabs
+text_text: "The AerosolSense active air sampler was found to detect SARS-CoV-2 in 53.8% of all samples collected compared to 12.1% detection by passive air sampling and 14.8% detection by surface swabs"

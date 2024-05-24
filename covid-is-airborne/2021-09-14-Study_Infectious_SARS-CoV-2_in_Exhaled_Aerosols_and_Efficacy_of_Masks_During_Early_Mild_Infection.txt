@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Adenaiye, Lai, Bueno de Mesquita, Hong, Youssef, German, Tai, Albert, Schanz, Weston, Hang, Fung, Chung, Coleman, Sapoval, Treangen, Berry, Mullins, Frieman, Ma, Milton
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab797/6370149
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133502192-e7e6a0cd-319e-4881-8faf-6db330c91666.png
+start_date_day: 14
+start_date_month: 9
+start_date_year: 2021
+text_headline: Study: Infectious SARS-CoV-2 in Exhaled Aerosols and Efficacy of Masks During Early Mild Infection
+text_text: "SARS-CoV-2 is evolving toward more efficient aerosol generation and loose-fitting masks provide significant but only modest source control"

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHOSEARO/status/1698275271579955575
+start_date_day: 3
+start_date_month: 9
+start_date_year: 2023
+text_headline: Tweet: ongoing vigilance and pic with masks in it
+text_text: [YAY]: WHO South-east asia shows picture of mask in tweet, and doesn't talk of hand-washing at all. The was a quick repost, as the first contained an error showing the WHO can act quickly on mistakes.

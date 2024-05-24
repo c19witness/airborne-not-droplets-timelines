@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: http://www.xinhuanet.com/english/2020-02/08/c_138766344.htm
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/137685722-25b8362a-3882-48a2-aafc-27f51bd88dca.png
+start_date_day: 8
+start_date_month: 2
+start_date_year: 2020
+text_headline: Novel coronavirus can transmit via aerosol
+text_text: Zeng Qun, deputy head of Shanghai Civil Affairs Bureau: 'The routes of the novel coronavirus infection include transmission via aerosol', and goes on to say 'residents should take a series of measures including canceling all social activities and gatherings, opening windows regularly to maintain the circulation of indoor air and focusing on household disinfection.' See articles: <a href='https://www.theepochtimes.com/chinese-officials-warns-of-aerosol-infection-as-coronavirus-spreads_3231971.html'>Epoch Times</a>, and <a href='https://hk.on.cc/hk/bkn/cnt/cnnews/20200208/bkn-20200208160141293-0208_00952_001.html'>hk.on.cc news article</a>, <a href='https://www.chinadaily.com.cn/a/202002/08/WS5e3e7d97a310128217275fc3.html'>China Daily News</a>, and <a href='http://www.nhc.gov.cn/jkj/s7915/202001/bc661e49b5bc487dba182f5c49ac445b.shtml'>National Health Commission report</a>, <a href='https://www.nzherald.co.nz/world/coronavirus-is-airborne-chinese-official-confirms/5DIR6LVQRX6YO4OL5XPRHEQITQ'>NZ Herald</a>. <a href='https://x.com/happyintheair/status/1226162442943815680'>Danny Chen is the MVP for surfacing the news and English translations</a>

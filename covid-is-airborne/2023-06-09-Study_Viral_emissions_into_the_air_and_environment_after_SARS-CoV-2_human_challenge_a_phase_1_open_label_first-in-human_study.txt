@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Zhou, Singanayagam, Goonawardane, Moshe,Sweeney, Sukhova, Killingley, Kalinova, Mann, Catchpole, Barer, Ferguson, Chiu, Barclay
+media_link: https://www.pnas.org/doi/full/10.1073/pnas.2216948120
+media_thumbnail: 
+media_url: https://www.thelancet.com/cms/attachment/501c1eaa-43b6-4d0e-a4b0-f6d22c3332ac/gr1.jpg
+start_date_day: 9
+start_date_month: 6
+start_date_year: 2023
+text_headline: Study: Viral emissions into the air and environment after SARS-CoV-2 human challenge: a phase 1, open label, first-in-human study
+text_text: "Across the whole cohort, higher airborne viral emissions correlated with 18S rRNA and baseline lung function, suggesting that participants with larger lung capacities emit more airborne virus"

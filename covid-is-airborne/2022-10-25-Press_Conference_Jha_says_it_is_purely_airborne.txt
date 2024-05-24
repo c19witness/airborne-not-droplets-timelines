@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Whitehouse: Karine Jean-Pierre & Dr. Ashish Jha
+media_link: https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/press-briefing-by-press-secretary-karine-jean-pierre-and-covid-19-response-coordinator-dr-ashish-jha-6/
+media_thumbnail: 
+media_url: /media/images/purely_airborne.png
+start_date_day: 25
+start_date_month: 10
+start_date_year: 2022
+text_headline: Press Conference: Jha says it is 'purely airborne'
+text_text: <a href='https://web.archive.org/web/20230824180714/https://www.whitehouse.gov/briefing-room/statements-releases/2022/10/25/press-briefing-by-press-secretary-karine-jean-pierre-and-covid-19-response-coordinator-dr-ashish-jha-6/'>In case that's deleted it is on the WayBackMachine too</a>

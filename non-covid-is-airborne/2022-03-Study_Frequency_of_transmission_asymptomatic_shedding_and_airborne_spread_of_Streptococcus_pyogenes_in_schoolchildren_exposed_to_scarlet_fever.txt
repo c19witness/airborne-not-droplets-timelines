@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Cordery, Purba, Begum, Mills, Mosavie, Vieira, Jauneikaite, Leung, Siggins, Ready, Hoffman, Lamagni, Sriskandan
+media_link: https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00332-3/fulltext
+media_thumbnail: 
+media_url: https://www.thelancet.com/cms/attachment/f64564d9-509f-438a-90d1-60b20a53e40d/gr3.jpg
+start_date_month: 3
+start_date_year: 2022
+text_headline: Study: Frequency of transmission, asymptomatic shedding, and airborne spread of Streptococcus pyogenes in schoolchildren exposed to scarlet fever
+text_text: "Despite guideline adherence, heavy shedding of S pyogenes by few classroom contacts might perpetuate outbreaks, and airborne transmission has a plausible role in its spread."

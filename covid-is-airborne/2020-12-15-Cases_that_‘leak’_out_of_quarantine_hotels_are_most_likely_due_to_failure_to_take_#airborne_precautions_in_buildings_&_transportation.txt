@@ -1,0 +1,10 @@
+media_caption: Peppers Waymouth Hotel (Australia)- one of many quarantine hotels
+media_credit: 
+media_link: https://www.abc.net.au/news/2020-12-15/ventilation-system-may-have-caused-hotel-quarantine-transmission/12984280
+media_thumbnail: 
+media_url: https://www.abc.net.au/cm/rimage/12895112-3x2-xlarge.jpg?v=2
+start_date_day: 15
+start_date_month: 12
+start_date_year: 2020
+text_headline: Cases that ‘leak’ out of quarantine hotels are most likely due to failure to take #airborne precautions in buildings & transportation
+text_text: "During those times it is possible for droplets and aerosol to come out of that room, and if the ventilation in the passageway is not optimal then it is possible for those droplets to concentrate". ABC article via <a href='https://x.com/Orla_Hegarty/status/1352306551118245896'>@Orla_Hegarty</a>

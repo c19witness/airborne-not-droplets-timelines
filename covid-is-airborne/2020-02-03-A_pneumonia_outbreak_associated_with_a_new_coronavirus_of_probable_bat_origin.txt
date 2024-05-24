@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Peng Zhou, Xing-Lou Yang, Xian-Guang Wang, Ben Hu, Lei Zhang, Wei Zhang, Hao-Rui Si, Yan Zhu, Bei Li, Chao-Lin Huang, Hui-Dong Chen, Jing Chen, Yun Luo, Hua Guo, Ren-Di Jiang, Mei-Qin Liu, Ying Chen, Xu-Rui Shen, Xi Wang, Xiao-Shuang Zheng, Kai Zhao, Quan-Jiao Chen, Fei Deng, Lin-Lin Liu, …Zheng-Li Shi
+media_link: https://www.nature.com/articles/s41586-020-2012-7
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/208072390-c421f04b-5fab-4d50-ac71-7163089e42ec.png
+start_date_day: 3
+start_date_month: 2
+start_date_year: 2020
+text_headline: A pneumonia outbreak associated with a new coronavirus of probable bat origin
+text_text: "On the basis of these findings, we propose that the disease could be transmitted by airborne transmission..."

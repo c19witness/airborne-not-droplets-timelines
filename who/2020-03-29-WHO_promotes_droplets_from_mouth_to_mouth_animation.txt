@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1244258441880797184
+start_date_day: 29
+start_date_month: 3
+start_date_year: 2020
+text_headline: WHO promotes droplets from mouth to mouth animation
+text_text: [BOO] "These droplets are too heavy to travel far in the air" .. crazy

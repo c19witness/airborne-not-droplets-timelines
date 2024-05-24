@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Guo,  Wang,  Zhang, Li,  Li,  Li,  Cui, Fu, Dong,  Chi,  Zhang,  Liu,  Cao,  Liu,  Zhang,  Gao, Lu, Wei
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323510/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323510/bin/20-0885-F1.jpg
+start_date_day: 26
+start_date_month: 7
+start_date_year: 2020
+text_headline: Study: Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan
+text_text: "SARS-CoV-2 was widely distributed in the air [..] the SARS-CoV-2 aerosol distribution characteristics in the ICU indicate that the transmission distance of SARS-CoV-2 might be 4 m"

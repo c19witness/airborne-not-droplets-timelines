@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://news.v.daum.net/v/20200916030023673
+media_thumbnail: 
+media_url: 
+start_date_day: 15
+start_date_month: 9
+start_date_year: 2020
+text_headline: Outbreak: 26 of 27 people in small meeting room infected. One who escaped was masked.
+text_text: 26 of 27 people in a small meeting room catch it. The one who escaped was masked. <br><a href='https://news.v.daum.net/v/20200916030023673'>News report in Korean</a>.<br><a href='https://x.com/jmcrookston/status/1306207694039248901'>Twitter thread</a>. <br>QUOTE: On the 29th of last month, 26 out of 27 people who attended the'Congchunghacho briefing session' held in a building in Buk-gu, Daegu, were confirmed as a new coronavirus infection (Corona 19). The infection rate is a whopping 97%. Most of them were in their 50s to 80s and gathered from all over the country, including Daegu, Gyeongbuk, Gyeongnam, and Chungbuk. After contact with them, the infection spread to each area.<br><br>Jeong Mo (63, Sangju, Gyeongbuk) was the only person who avoided infection even after attending the briefing session...People sat close together in a narrow space of about 100m² with poor ventilation.

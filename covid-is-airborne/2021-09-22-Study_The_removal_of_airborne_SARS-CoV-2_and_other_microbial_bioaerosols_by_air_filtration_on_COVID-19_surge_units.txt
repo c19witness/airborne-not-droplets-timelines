@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Conway-Morris, Sharrocks, Bousfield, Kermack, Maes, Higginson, Forrest, Pereira-Dias, Cormie, Old, Brooks, Hamed, Koenig, Turner, White, Floto, Dougan, Gkrania-Klotsas, Gouliouris, Baker,and Navapurkar
+media_link: https://www.medrxiv.org/content/10.1101/2021.09.16.21263684v1
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/134771309-febb66a3-9f28-470a-ab0c-d9e243a74407.png
+start_date_day: 22
+start_date_month: 9
+start_date_year: 2021
+text_headline: Study: The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units
+text_text: "This study examined the effect of air filtration and ultra-violet (UV) light sterilisation on detectable airborne SARS-CoV-2 and other microbial bioaerosols"

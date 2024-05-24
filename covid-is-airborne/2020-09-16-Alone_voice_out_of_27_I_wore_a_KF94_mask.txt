@@ -1,0 +1,11 @@
+media_caption: statista.com: South Korea within reach of 'Zero COVID' at the end Apr 2020
+media_credit: 
+media_link: https://news.v.daum.net/v/20200916030023673
+media_thumbnail: 
+media_url: https://cdn.statcdn.com/Infographic/images/normal/21095.jpeg
+start_date_day: 16
+start_date_hour: 12
+start_date_month: 9
+start_date_year: 2020
+text_headline: Alone voice out of 27... 'I wore a KF94 mask'
+text_text: Infection rate is a whopping 97% for an hour-long meeting - everyone without a mask was infected, and one person with a mask was not affected. Many people started the meeting in masks, but all bar one took them of as it progressed [Korean]

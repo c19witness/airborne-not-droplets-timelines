@@ -1,0 +1,10 @@
+media_caption: Still from JAMA Network conversation
+media_credit: 
+media_link: https://edhub.ama-assn.org/jn-learning/video-player/18554257
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101375306-1fd9e680-38a7-11eb-94c9-5a6d0529ddb5.png
+start_date_day: 26
+start_date_month: 10
+start_date_year: 2020
+text_headline: New head of US CDC acknowledges aerosol nature of COVID-19
+text_text: "...aerosols, I think, was another surprise. We thought we knew how respiratory viruses generally work. We thought it was going to be droplet, and it turns out, you know, a lot of aerosol." - Rochelle Walensky

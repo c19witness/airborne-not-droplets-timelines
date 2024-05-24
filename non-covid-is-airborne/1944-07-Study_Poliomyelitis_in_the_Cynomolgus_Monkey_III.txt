@@ -1,0 +1,9 @@
+media_caption: clip from study
+media_credit: Faber, Silverberg, Dong
+media_link: https://pubmed.ncbi.nlm.nih.gov/19871397/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZdwK5gUcAAvShv?format=png&name=small
+start_date_month: 7
+start_date_year: 1944
+text_headline: Study: Poliomyelitis in the Cynomolgus Monkey: III
+text_text: "It is suggested that inhalation of virus deserves more serious attention as a mode of human infection than it has hitherto received, since air and dust may be contaminated from fecal as well as from nasopharyngeal sources.". See <a href='https://x.com/LazarusLong13/status/1555835526933934080'> tweet by @LazarusLong13</a>.

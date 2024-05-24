@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://news.sky.com/video/coronavirus-how-effective-are-surgical-face-masks-11931175
+media_thumbnail: 
+media_url: https://e3.365dm.com/20/02/768x432/b52840c87f06325908c258f799e20b5e7c07a3fc126391a76cbeacc6aa49fa1b_4916840.jpg
+start_date_day: 10
+start_date_month: 2
+start_date_year: 2020
+text_headline: Dr Nathalie MacDermott: "no evidence surgical masks can protect the general public"
+text_text: Dr Nathalie MacDermott, a clinical lecturer at King's College London, told Sky News there is "not any good evidence" to suggest surgical masks can protect the general public from the virus but there are other methods

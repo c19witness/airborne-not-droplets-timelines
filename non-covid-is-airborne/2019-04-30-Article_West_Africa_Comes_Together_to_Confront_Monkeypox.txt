@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.cdc.gov/globalhealth/healthprotection/fieldupdates/spring-2019/west-africa-monkeypox.html
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FYy7SbLXwAAm0dV?format=jpg&name=4096x4096
+start_date_day: 30
+start_date_month: 4
+start_date_year: 2019
+text_headline: Article: West Africa Comes Together to Confront Monkeypox
+text_text: CDC team investigating Monkeypox in Africa with powered air purifying (PAPR) respirators <a href='https://x.com/tmcdonnell4/status/1552821983548776448'>via @tmcdonnell4</a>

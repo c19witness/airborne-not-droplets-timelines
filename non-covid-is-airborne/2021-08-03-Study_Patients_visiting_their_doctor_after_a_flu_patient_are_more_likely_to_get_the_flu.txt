@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Neprash, Sheridan, Jena, Grad, and Barnett
+media_link: https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2020.01594
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/137978338-6c38bec1-6fa1-40a9-aab1-b45dfe18be51.png
+start_date_day: 3
+start_date_month: 8
+start_date_year: 2021
+text_headline: Study: Patients visiting their doctor after a flu patient are more likely to get the flu
+text_text: "To inform policy for reopening outpatient care settings, we analyzed rates of potential airborne disease transmission in medical office settings, focusing on influenza-like illness."

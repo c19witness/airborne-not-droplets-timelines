@@ -1,0 +1,8 @@
+media_caption: Virus Plume crossing the sea
+media_credit: 
+media_link: https://www.jstor.org/stable/3865096?seq=1#metadata_info_tab_contents
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/E3yOl5EVcAIzrCX?format=jpg&name=large
+start_date_year: 2000
+text_headline: Book: Foot and mouth is airborne
+text_text: Foot and mouth disease is recorded to have spread across the English Channel in an airborne plume. See <a href='https://x.com/YouAreLobbyLud/status/1404153975255957504'>YouAreLobbyLud tweet</a>

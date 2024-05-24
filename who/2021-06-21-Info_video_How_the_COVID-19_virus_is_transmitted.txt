@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=oqFn6AHoJZQ
+start_date_day: 21
+start_date_month: 6
+start_date_year: 2021
+text_headline: Info video: How the COVID-19 virus is transmitted
+text_text: [Not so bad] "... this is because as a person infected with the covet-19 virus breathes talks coughs or sneezes liquid particles of various sizes are expelled into the air larger particles are called droplets smaller particles are called aerosols..."

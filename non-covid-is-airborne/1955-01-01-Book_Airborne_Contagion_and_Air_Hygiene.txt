@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://archive.org/details/airborne-contagion
+media_thumbnail: 
+media_url: 
+start_date_day: 1
+start_date_month: 1
+start_date_year: 1955
+text_headline: Book: Airborne Contagion and Air Hygiene
+text_text: William Firth Wells. Airborne Contagion and Air Hygiene: An Ecological Study of Droplet Infections. The Bible of airborne transmission of pathogens. <a href='https://mastodon.social/@jmcrookston/110847792703535137'>Quick post here</a>

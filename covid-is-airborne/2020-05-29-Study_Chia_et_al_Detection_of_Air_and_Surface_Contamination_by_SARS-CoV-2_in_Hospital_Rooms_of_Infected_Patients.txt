@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nature.com/articles/s41467-020-16670-2
+media_thumbnail: 
+media_url: 
+start_date_day: 29
+start_date_month: 5
+start_date_year: 2020
+text_headline: Study: Chia et al. Detection of Air and Surface Contamination by SARS-CoV-2 in Hospital Rooms of Infected Patients
+text_text: SARS-CoV-2 RNA in hospital air in Singapore. From Chia, Po Ying; Kristen Kelli Coleman, et al. ‘Detection of Air and Surface Contamination by SARS-CoV-2 in Hospital Rooms of Infected Patients’. Nature Communications 11, no. 1 (29 May 2020): 2800.

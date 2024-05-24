@@ -1,0 +1,10 @@
+media_caption: Man sneezing
+media_credit: Mater Misericordiae University Hospital Surgery
+media_link: https://www.reddit.com/r/CovIdiots/comments/h79eov/how_there_is_any_debate_will_always_be_a_wonder/
+media_thumbnail: 
+media_url: /media/cloud.mp4
+start_date_day: 12
+start_date_month: 6
+start_date_year: 2020
+text_headline: How there is there any debate?
+text_text: Simple social media post on Reddit, 'the front page of the internet'. (Source unknown)

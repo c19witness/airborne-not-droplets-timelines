@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Berry, Palmer, Wells, Williams, Sibal, Timms
+media_link: https://www.sciencedirect.com/science/article/pii/S2590088919300186
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S2590088919300186-gr2.jpg
+start_date_month: 6
+start_date_year: 2019
+text_headline: Nosocomial outbreak of measles amongst a highly vaccinated population in an English hospital setting
+text_text: "We suggest that transmission in these three cases was either due to a fleeting contact in the corridor or recirculation of air" Via <a href='https://x.com/moss_sphagnum/status/1759230786350276863'>@moss_sphagnum tweet</a>

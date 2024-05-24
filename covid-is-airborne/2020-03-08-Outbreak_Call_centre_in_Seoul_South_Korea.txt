@@ -1,0 +1,10 @@
+media_caption: Diagram showing arrangement of people with confirmed cases at the call centre, in blue.
+media_credit: 
+media_link: https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article
+media_thumbnail: 
+media_url: https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg
+start_date_day: 8
+start_date_month: 3
+start_date_year: 2020
+text_headline: Outbreak: Call centre in Seoul, South Korea
+text_text: Outbreak at South Korean call centre in Seoul. 1143 people tested for COVID-19. 97 had confirmed cases. 94 were working in an 11th floor call centre with 216 employees, which is a 43.5% attack rate (95% CI 36.9-50.4%). Of the 97 positives, only 4 remained asymptomatic within 14 days. No secondary infections.<br><br>Reported in the CDC Journal as <a href='https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article'>Coronavirus Disease Outbreak in Call Center, South Korea</a> in late April as early release. <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F1.jpg'>Picture 1</a>, <a href='https://wwwnc.cdc.gov/eid/images/20-1274-F2.jpg'>picture 2</a>.

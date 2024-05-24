@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's MVK
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/mvankerkhove/status/1741384947892441165
+start_date_day: 31
+start_date_month: 12
+start_date_year: 2023
+text_headline: WHO's Dr Van Kerkhove talks up masks and ventilation in a twitter thread
+text_text: [YAY]: In twitter thread, Dr Maria Van Kerkhove mentions 'improve the air we breathe, to provide access to safe, reliable & affordable PPE' and also 'grateful for science and innovation of PPE, improving ventilation'

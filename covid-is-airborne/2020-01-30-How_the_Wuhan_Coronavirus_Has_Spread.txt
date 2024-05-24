@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://time.com/5774366/how-coronavirus-spread-china/
+media_thumbnail: 
+media_url: https://api.time.com/wp-content/uploads/2020/01/3-First-fatality-travel.png?w=800&quality=85
+start_date_day: 30
+start_date_month: 1
+start_date_year: 2020
+text_headline: How the Wuhan Coronavirus Has Spread
+text_text: "Chinese health authorities announced they had isolated the pathogen. 2019-nCoV as it is called, belongs to the coronavirus family, which includes SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome), and spreads via <b>airborne</b> droplets"

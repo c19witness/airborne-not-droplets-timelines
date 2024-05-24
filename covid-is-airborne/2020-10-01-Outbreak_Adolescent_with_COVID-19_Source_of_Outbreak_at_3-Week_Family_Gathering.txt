@@ -1,0 +1,10 @@
+media_caption: Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020
+media_credit: 
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm
+media_thumbnail: 
+media_url: 
+start_date_day: 1
+start_date_month: 10
+start_date_year: 2020
+text_headline: Outbreak: Adolescent with COVID-19 Source of Outbreak at 3-Week Family Gathering
+text_text: Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020.  Adolescent was source of outbreak. Family members who visited the house but stayed outdoors were not infected. <a href='https://x.com/jmcrookston/status/1313281284249182208'>Link to Twitter thread</a>

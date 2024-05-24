@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Authors: Yuguo Li et al
+media_link: https://www.sciencedirect.com/science/article/pii/S0360132321001955?via%3Dihub#appsec4
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S0360132321001955-gr8.jpg
+start_date_month: 6
+start_date_year: 2020
+text_headline: Study: Probable airborne transmission of SARS-CoV-2 in a poorly ventilated restaurant
+text_text: "Incredibly well documented study showing the factors contributing to the airborne spread and resulting infections in a restaurant" (via <a href='https://x.com/kprather88/status/1378803080842551297'>@kprather88</a>). The same super-spreader event previously in this timeline <a href='https://its-airborne.org/covid19-timeline.html#event-outbreak-guangzhou-restaurant-circulated-by-air-conditioning'>but as a pre-print</a>.

@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Jialin Wu1, Jing Geng, Wenguo Weng, and Ming Fu
+media_link: https://iopscience.iop.org/article/10.1088/1742-6596/2478/12/122043/pdf
+media_thumbnail: 
+media_url: https://www.researchgate.net/profile/Jialin-Wu-5/publication/371785730/figure/fig1/AS:11431281169852809@1687486207345/The-computational-model-A-room-of-10-m10-m3-m-LWH-with-one-infected-person-IP.png
+start_date_month: 6
+start_date_year: 2023
+text_headline: Study: Effect of ventilation mode and rate on airborne transmission of respiratory disease in indoor environments
+text_text: “The virus conc. and infection risk were lower with displacement ventilation (DV - lower in, upper out) than mixing ventilation (top-centre in, upper out) or natural ventilation (upper in, upper out).” and “…DV facilitates the escape of exhaled viruses.” Via <a href='https://x.com/mdc_martinus/status/1673609530394005504'>@mdc_martinus tweet</a>

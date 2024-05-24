@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Lidia Morawska, William Bahnfleth, Philomena M Bluyssen, Atze Boerstra, Giorgio Buonanno, Stephanie J Dancer, Andres Floto, Francesco Franchimon, Charles Haworth, Jaap Hogeling, Christina Isaxon, Jose L Jimenez, Jarek Kurnitski, Yuguo Li, Marcel Loomans, Guy Marks, Linsey C Marr, Livio Mazzarella, Arsen Krikor Melikov, Shelly Miller, Donald K Milton, William Nazaroff, Peter V Nielsen, Catherine Noakes, Jordan Peccia, Xavier Querol, Chandra Sekhar, Olli Seppänen, Shin-ichi Tanabe, Raymond Tellier, Kwok Wai Tham, Pawel Wargocki, Aneta Wierzbicka
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciad068/7034152
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/218277156-12030daa-e6cb-4ad3-baea-ce5d2e81d27d.png
+start_date_day: 1
+start_date_month: 4
+start_date_year: 2020
+text_headline: World airborne transmission experts petition the WHO leadership directly
+text_text: They get a response too, but can't get their fact taken up and broadcast. Via <a href='https://x.com/GermHunterMD/status/1624407772321222661'>@GermHunterMD</a>

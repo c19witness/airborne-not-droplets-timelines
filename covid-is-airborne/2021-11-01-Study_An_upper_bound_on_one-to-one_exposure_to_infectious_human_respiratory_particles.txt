@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Bagheri, Thiede, Hejazi, Schlenczek, Bodenschatz
+media_link: https://www.pnas.org/content/118/49/e2110117118
+media_thumbnail: 
+media_url: https://www.pnas.org/content/pnas/118/49/e2110117118/F1.medium.gif
+start_date_day: 1
+start_date_month: 11
+start_date_year: 2021
+text_headline: Study: An upper bound on one-to-one exposure to infectious human respiratory particles
+text_text: "... We show that universal masking is the most effective method for limiting airborne transmission of SARS-CoV-2, even when face seal leaks are considered ..."

@@ -1,0 +1,10 @@
+media_caption: box fan pic
+media_credit: Immo Wegmann / unsplash
+media_link: https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/102808613-77547800-43b8-11eb-9ba9-6e0fb9a29a7d.png
+start_date_day: 15
+start_date_month: 12
+start_date_year: 2020
+text_headline: Ventilation in Buildings: CDC recommendation
+text_text: CDC now recommends good ventilation for buildings: increasing outdoor air, better filtration, importance of system maintenance, HEPA portable air cleaners, and Ultraviolet Germicidal Irradiation (UVGI) Air Purifiers

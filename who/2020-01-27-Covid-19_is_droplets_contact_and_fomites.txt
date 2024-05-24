@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FlOI8oLWAAUS2yP?format=jpg&name=large
+start_date_day: 27
+start_date_month: 1
+start_date_year: 2020
+text_headline: Covid-19 is droplets contact and fomites
+text_text: [BOO] Provisional virus name of 2019-nCoV compared to MERS and SARS-1. All three incorrectly classified in this piece. Via <a href='https://x.com/mdc_martinus/status/1608780072034656258'>@mdc_martinus</a>

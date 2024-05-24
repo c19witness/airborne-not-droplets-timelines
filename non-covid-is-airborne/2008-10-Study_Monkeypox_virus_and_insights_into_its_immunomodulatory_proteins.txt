@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Jessica R. Weaver and Stuart N. Isaacs
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2567051/pdf/nihms68262.pdf
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FWYrIQfUEAAvPEs?format=jpg&name=medium
+start_date_month: 10
+start_date_year: 2008
+text_headline: Study: Monkeypox virus and insights into its immunomodulatory proteins
+text_text: "Some cases of human monkeypox that occurred in the US revealed that respiratory transmission from an infected animal to a human was possible. Similarly, some human-to-human transmissions are thought to occur through respiratory droplets ". Via <a href='https://x.com/empathy1st1/status/1541968790568574976'>@empathy1st1 tweet</a>

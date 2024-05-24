@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: CDC Yellow book
+media_link: https://wwwnc.cdc.gov/travel/yellowbook/2020/travel-related-infectious-diseases/smallpox-and-other-orthopoxvirus-associated-infections
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/181824908-224df038-17ae-4fcc-a362-d23bd8c21504.png
+start_date_year: 2020
+text_headline: CDC 'Yellow Book': Orthopoxvirus can be principally respiratory
+text_text: Smallpox, Vaccinia, Monkeypox (but not Cowpox) are "spread from person to person is principally respiratory; contact with infectious skin lesions or scabs is an uncommon mode of transmission"

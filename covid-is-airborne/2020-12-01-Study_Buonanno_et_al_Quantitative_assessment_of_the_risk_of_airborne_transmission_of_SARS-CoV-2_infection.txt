@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: G.Buonannoa, L.Morawskab, L. Stabile
+media_link: https://www.sciencedirect.com/science/article/pii/S0160412020320675?via%3Dihub
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S0160412020320675-ga1.jpg
+start_date_day: 1
+start_date_month: 12
+start_date_year: 2020
+text_headline: Study: Buonanno et al. Quantitative assessment of the risk of airborne transmission of SARS-CoV-2 infection
+text_text: "Airborne transmission represents the main route of contagion in [the cases studies]"

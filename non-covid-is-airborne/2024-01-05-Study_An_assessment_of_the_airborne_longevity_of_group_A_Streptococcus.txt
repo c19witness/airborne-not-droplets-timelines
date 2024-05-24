@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Oswin1, Blake, Haddrell, Finn, Sriskandan, Reid, Halliday and Goenka
+media_link: https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001421
+media_thumbnail: 
+media_url: https://www.microbiologyresearch.org/docserver/ahah/fulltext/micro/170/1/mic001421-f2_thmb.gif
+start_date_day: 5
+start_date_month: 1
+start_date_year: 2024
+text_headline: Study: An assessment of the airborne longevity of group A Streptococcus
+text_text: "Results   emm1 and emm83 GAS show similar [indoor] airborne stability"

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Dr Conly
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/FraukeMattnerf/status/1701861501764555049
+start_date_day: 13
+start_date_month: 9
+start_date_year: 2023
+text_headline: Tweet: Study that would weaken case for 'not airborne' omitted
+text_text: [BOO]: Dr Conly (?) presents a table ot evidence for Covid-19 not being airborne, that cherry picks studies that support his hypothesis and omits ones that would sink it. Thanks @FraukeMattnerf

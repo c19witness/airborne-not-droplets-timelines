@@ -1,0 +1,10 @@
+media_caption: Tweet pic
+media_credit: @WHO
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/119129737-388e2100-ba2f-11eb-840e-8cedde62f616.png
+start_date_day: 29
+start_date_month: 6
+start_date_year: 2019
+text_headline: Flu & Ebola: WHO's Dr Tedros says they are airborne and warns of more airborne diseases to come
+text_text: "Investing in preparedness saves lives, and it saves money. It's only a question of when, not whether, the world suffers the next pandemic of influenza or another airborne virus - which is more difficult than #Ebola. We are not ready. We must invest now"- @DrTedros. See <a href='https://x.com/WHO/status/1144848451966066688'>their tweet</a>

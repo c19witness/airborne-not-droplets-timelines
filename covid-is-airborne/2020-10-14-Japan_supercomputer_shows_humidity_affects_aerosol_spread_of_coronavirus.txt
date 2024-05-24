@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.reuters.com/article/us-health-coronavirus-japan-supercompute-idUKKBN26Z0PI
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/187077593-b6c5a182-3191-491e-9628-358698cb86a7.png
+start_date_day: 14
+start_date_month: 10
+start_date_year: 2020
+text_headline: Japan supercomputer shows humidity affects aerosol spread of coronavirus
+text_text: "People’s blind fear or unfounded confidence against the infection of COVID-19 is simply because it is invisible", [research lead Makoto] Tsubokura said.

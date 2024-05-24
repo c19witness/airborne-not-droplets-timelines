@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Vuylsteke, Cuypers, Baele, Stranger, Paralovo, André, Dirks, Maes, Laga
+media_link: https://www.medrxiv.org/content/10.1101/2021.12.17.21267362v1.full.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147226515-b7972790-5473-41a0-97a1-f0a3bb33a93c.png
+start_date_day: 21
+start_date_month: 12
+start_date_year: 2021
+text_headline: Study: The role of airborne transmission in a large single source outbreak of SARS-CoV-2 in a Belgian nursing home in 2020
+text_text: From the Conclusion: "Our investigation shows a rapid and widespread single source outbreak of SARS-CoV-2 in a nursing home, in which airborne transmission was the most plausible explanation for the massive intra-facility spread"

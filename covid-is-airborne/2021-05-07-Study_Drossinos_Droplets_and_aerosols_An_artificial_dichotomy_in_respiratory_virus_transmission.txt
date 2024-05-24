@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Drossinos, Weber,and Stilianakis
+media_link: https://onlinelibrary.wiley.com/doi/10.1002/hsr2.275
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/134031813-e570b24f-75e8-4613-8070-daa155fb6e9b.png
+start_date_day: 7
+start_date_month: 5
+start_date_year: 2021
+text_headline: Study: Drossinos. Droplets and aerosols: An artificial dichotomy in respiratory virus transmission
+text_text: "We propose instead that droplet and aerosol transmission should be replaced by a unique airborne transmission mode, to be distinguished from contact transmission."

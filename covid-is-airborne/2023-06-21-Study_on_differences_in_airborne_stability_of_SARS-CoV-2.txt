@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Haddrell,  Otero-Fernandez,  Oswin,  Cogan,  Bazire,  Tian,  Alexander,  Mann,  Hill,  Finn,  Davidson and Reid
+media_link: https://royalsocietypublishing.org/doi/10.1098/rsif.2023.0062
+media_thumbnail: 
+media_url: https://royalsocietypublishing.org/cms/asset/6020e627-72e8-41fd-b0bd-9ae04d6b29ee/rsif20230062f01.jpg
+start_date_day: 21
+start_date_month: 6
+start_date_year: 2023
+text_headline: Study on differences in airborne stability of SARS-CoV-2
+text_text: "In our study we use next generation aero-virology technology (CELEBS) to systematically probe the aero-stability of SARSCoV2 as a function of environmental conditions and particle type. We  systematically identified the parameters that do, and do not, affect virus aerostability" Via <a href='https://x.com/ukhadds/status/1671827660421447681'>@ukhadds tweet</a>

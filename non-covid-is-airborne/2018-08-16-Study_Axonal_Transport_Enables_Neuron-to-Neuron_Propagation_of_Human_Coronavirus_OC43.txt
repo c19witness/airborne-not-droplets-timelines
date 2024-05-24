@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Dub&eacute;, Coupanec, Wong, Rini, Desforges, Talbot
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6096804/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/135536353-8df32f58-5473-48ae-b2f8-ceb976de18fe.png
+start_date_day: 16
+start_date_month: 8
+start_date_year: 2018
+text_headline: Study: Axonal Transport Enables Neuron-to-Neuron Propagation of Human Coronavirus OC43
+text_text: "Intranasal inoculation of HCoV OC43 has successfully been used in mice to mimic infection of humans by aerosol droplets"

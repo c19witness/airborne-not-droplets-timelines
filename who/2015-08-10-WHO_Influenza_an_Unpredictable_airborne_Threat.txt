@@ -1,0 +1,11 @@
+duplicated: in WHO and non-covid timeline
+media_caption: 
+media_credit: 
+media_link: https://www.youtube.com/watch?v=yhhJfT86Bgg&t=220s
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/137356514-d08c4b49-3cf4-4483-992e-71960a0c68bb.png
+start_date_day: 10
+start_date_month: 8
+start_date_year: 2015
+text_headline: WHO: Influenza, an Unpredictable [airborne] Threat
+text_text: [YAY] The WHO confirms the airborne nature of the flu - in this video

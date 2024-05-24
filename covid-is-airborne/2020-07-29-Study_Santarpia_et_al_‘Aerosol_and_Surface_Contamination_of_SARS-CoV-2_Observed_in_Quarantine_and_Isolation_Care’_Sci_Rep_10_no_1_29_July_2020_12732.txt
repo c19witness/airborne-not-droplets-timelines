@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nature.com/articles/s41598-020-69286-3
+media_thumbnail: 
+media_url: 
+start_date_day: 29
+start_date_month: 7
+start_date_year: 2020
+text_headline: Study: Santarpia et al. ‘Aerosol and Surface Contamination of SARS-CoV-2 Observed in Quarantine and Isolation Care’ Sci Rep 10, no 1 (29 July 2020): 12732
+text_text: Santarpia, which originally reported RNA only, then amended because they cultured viable SARS-CoV-2 virus. <p> Santarpia et al.‘Aerosol and Surface Contamination of SARS-CoV-2 Observed in Quarantine and Isolation Care’ Sci Rep 10, no 1 (29 July 2020): 12732

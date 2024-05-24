@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Dr Hans Kluge
+media_link: 
+media_thumbnail: 
+media_url: /media/images/hans_k.png
+start_date_day: 20
+start_date_month: 9
+start_date_year: 2023
+text_headline: WHO Europe's (Hans Kluge) talks up ventilation at a WHO indoor air mini-conference
+text_text: [YAY]: “The COVID-19 pandemic truly brought home the importance of good ventilation (…) from the perspective of infection prevention & interrupting onward transmission.”. Via <a href='https://x.com/mdc_martinus/status/1704534028865454334'>@mdc_martinus</a>

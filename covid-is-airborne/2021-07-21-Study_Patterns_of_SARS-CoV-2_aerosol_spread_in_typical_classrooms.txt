@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Rencken, Rutherford, Ghanta, Kongoletos, and Glicksman
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8294611/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/129459222-f53d4471-8641-411a-a738-bb99067f7f53.png
+start_date_day: 21
+start_date_month: 7
+start_date_year: 2021
+text_headline: Study: Patterns of SARS-CoV-2 aerosol spread in typical classrooms
+text_text: Conclusion: "COVID-19 is an aerosolized virus. With such small particle sizes, the established six-foot (~1.8 m) spacing guidelines and heightened air change rates are an incomplete picture" <a href='https://x.com/citlanx/status/1426622366986117122'>Via @citlanx</a>

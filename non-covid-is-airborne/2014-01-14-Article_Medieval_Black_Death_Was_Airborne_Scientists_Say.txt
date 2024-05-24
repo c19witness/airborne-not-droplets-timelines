@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: history.com
+media_link: https://www.history.com/news/medieval-black-death-was-airborne-scientists-say
+media_thumbnail: 
+media_url: https://imgur.com/QQyvnO9.png
+start_date_day: 14
+start_date_month: 1
+start_date_year: 2014
+text_headline: Article: Medieval 'Black Death' Was Airborne, Scientists Say
+text_text: "[..] Therefore, rather than bubonic plague, which is transmitted to humans through bites from infected rat fleas (and then can be transmitted between humans, according to some research), they concluded that this must have been a pneumonic plague that made its way into the lungs of the infected and spread through coughs and sneezes."

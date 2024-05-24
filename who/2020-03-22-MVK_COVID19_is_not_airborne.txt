@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://user-images.githubusercontent.com/82182/147353996-e00e10c5-a71b-45fc-92b1-9281e8aa8f8f.png
+media_url: https://user-images.githubusercontent.com/82182/147353556-7c88d16a-60af-4344-b302-0d9718d02faa.png
+start_date_day: 22
+start_date_month: 3
+start_date_year: 2020
+text_headline: MVK: COVID19 is not airborne
+text_text: [BOO] Technical Lead of WHO Health Emergencies Programme, Maria Van Kerkhove <a href='https://x.com/mvankerkhove/status/1241830233101275137'>tells the world</a> (incorrectly) that COVID19 is transmitted in droplets and fomites and that standard masks are mostly fine for health care workers (they are not now and never were)

@@ -1,0 +1,10 @@
+media_caption: Transmission of SARS-COV2 during Border Quarantine and Air Travel, New Zealand
+media_credit: 
+media_link: https://wwwnc.cdc.gov/eid/article/27/5/21-0514_article
+media_thumbnail: 
+media_url: https://wwwnc.cdc.gov/eid/images/21-0514-F1.jpg
+start_date_day: 18
+start_date_month: 3
+start_date_year: 2021
+text_headline: Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 during Border Quarantine and Air Travel, New Zealand
+text_text: "By combining genomic sequence analysis and epidemiologic investigations, we identified a multibranched chain of transmission of this virus, including on international and domestic flights, as well as a probable case of aerosol transmission without direct person-to-person contact."

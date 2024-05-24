@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=w1jvJjZZeM4
+start_date_day: 8
+start_date_month: 6
+start_date_year: 2023
+text_headline: Guidance: Surgical masks as good as N95 apparently
+text_text: [BOO]: Obviously incorrect but promoted in a draft that's to be completed and pushed in November. Note that NBC News would later discus the impending disaster on <a href='https://www.nbcnews.com/health/health-news/expected-cdc-guidance-n95-masks-outrages-health-care-workers-rcna104854'>Sept 16th</a>

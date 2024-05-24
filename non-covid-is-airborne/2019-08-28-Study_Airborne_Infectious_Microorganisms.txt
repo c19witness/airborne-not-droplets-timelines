@@ -1,0 +1,10 @@
+media_caption: table of diseases
+media_credit: Cristina Gonzalez-Martin
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150194
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/140260548-dea94e86-526a-4c7c-95e0-a569d4eac38e.png
+start_date_day: 28
+start_date_month: 8
+start_date_year: 2019
+text_headline: Study: Airborne Infectious Microorganisms
+text_text: "Inhalation of microbial aerosols can elicit adverse human health effects including infection, allergic reaction, inflammation, and respiratory disease."

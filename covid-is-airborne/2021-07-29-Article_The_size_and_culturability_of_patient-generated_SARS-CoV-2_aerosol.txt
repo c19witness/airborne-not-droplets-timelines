@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Santarpia, Herrera, Rivera, Ratnesar-Shumate, Reid, Ackerman, Denton, Martens, Fang, Conoan, Callahan, Lawler, Brett-Major, and Lowe
+media_link: https://www.nature.com/articles/s41370-021-00376-8.epdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/129965274-c7076ebc-7b5a-46f1-8066-069e59ad33d3.png
+start_date_day: 29
+start_date_month: 7
+start_date_year: 2021
+text_headline: Article: The size and culturability of patient-generated SARS-CoV-2 aerosol
+text_text: "... evidence that airborne transmission of COVID-19 is possible. These results support the use of efficient respiratory protection in both healthcareand by the public to limit transmission."

@@ -1,0 +1,9 @@
+media_caption: Removal of upper 2/3 of windows from frames mitigated TB infection
+media_credit: 
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217216/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/104116944-0c41f580-5315-11eb-8b93-8808280e540c.png
+start_date_month: 7
+start_date_year: 2018
+text_headline: Study: Improving ventilation resulted in a 97% drop in cases in a TB outbreak at a university in Taiwan
+text_text: "Maintaining adequate indoor ventilation could be a highly effective strategy for controlling TB outbreaks". Study had stats for the university covering 8 or so years. See <a href='https://x.com/Orla_Hegarty/status/1347937626196750336'>@Orla_Hegarty tweets</a>

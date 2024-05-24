@@ -1,0 +1,10 @@
+media_caption: Clip from Japanese video on computer modelling of aerosol nature of COVID-19
+media_credit: 
+media_link: https://www.cbsnews.com/news/coronavirus-japan-has-long-accepted-covids-airborne-spread-and-scientists-say-ventilation-is-key/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/102695187-a4205800-421d-11eb-9d7c-60243676e463.png
+start_date_day: 13
+start_date_month: 7
+start_date_year: 2020
+text_headline: Article: Japan has long accepted COVID's airborne spread
+text_text: Article: 'If the WHO recognizes what we did in Japan, then maybe in other parts of the world, they will change (their antiviral procedures),' said Shin-Ichi Tanabe, a professor in the architecture department of Japan's prestigious Waseda University. He was one of the 239 international scientists who co-wrote an open letter to the WHO urging the United Nations agency to revise its guidelines on how to stop the virus spreading.

@@ -1,0 +1,10 @@
+media_caption: Chinese mall
+media_credit: 
+media_link: https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/EWD_1l2XgAMpMZC?format=jpg&name=medium
+start_date_day: 20
+start_date_month: 1
+start_date_year: 2020
+text_headline: Outbreak: Indirect spread at a Chinese mall
+text_text: Study: Indirect spread at a Chinese mall. Postulated either fomite in elevator or, you guessed it, aerosol. <a href='https://wwwnc.cdc.gov/eid/article/26/6/20-0412_article'>Article in the EID Journal, reported mid-March</a>. See <a href='https://x.com/jmcrookston/status/1252290275512377350'>single post (@jmcrookston)</a>.

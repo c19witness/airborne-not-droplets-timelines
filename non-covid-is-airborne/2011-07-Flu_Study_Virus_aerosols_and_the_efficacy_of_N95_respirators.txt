@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://pubmed.ncbi.nlm.nih.gov/21673029/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3164472/bin/infdisjir238f01_ht.jpg
+start_date_month: 7
+start_date_year: 2011
+text_headline: Flu Study: [...] Virus aerosols and the efficacy of N95 respirators [...]
+text_text: Conclusions included: "...The most surprising finding of this study is very high rates of transocular transmission in subjects exposed to aerosols containing LAIV..."

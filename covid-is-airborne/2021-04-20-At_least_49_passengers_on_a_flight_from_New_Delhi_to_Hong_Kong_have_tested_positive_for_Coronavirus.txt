@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://timesofindia.indiatimes.com/india/scores-test-positive-for-covid-19-on-india-flight-to-hong-kong/articleshow/82158057.cms
+media_thumbnail: 
+media_url: https://static.toiimg.com/thumb/msid-82158035,imgsize-260021,width-400,resizemode-4/82158035.jpg
+start_date_day: 20
+start_date_month: 4
+start_date_year: 2021
+text_headline: At least 49 passengers on a flight from New Delhi to Hong Kong have tested positive for Coronavirus
+text_text: All of the passengers who tested positive flew into Hong Kong from New Delhi. See also <a href='https://www.news.com.au/travel/travel-updates/health-safety/52-passengers-on-india-flight-to-hong-kong-test-positive-to-covid/news-story/58150b4c97c49fca89fbd95b87d756d2'>news.com.au article</a>

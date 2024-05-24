@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Jaax. Jahrling, Geisbert, Geisbert, Steele, McKee, Nagley, Johnson, Jaax, Peters
+media_link: https://www.sciencedirect.com/science/article/pii/S0140673695928413
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/197636620-71244867-b46f-41c0-80e6-2cc533e39797.png
+start_date_day: 30
+start_date_month: 12
+start_date_year: 1995
+text_headline: Study: Transmission of Ebola virus to uninfected control monkeys in a biocontainment laboratory
+text_text: Jaax article in the Lancet. "We report transmission of Ebola virus (Zaire strain) to two of three control rhesus monkeys (Macaca mulatta) that did not have direct contact with experimentally inoculated monkeys held in the same room." and "Our present findings emphasise the advisability of at-risk personnel employing precautions to safeguard against ocular, oral, and nasopharyngeal exposure to the virus. The Centers for Disease Control has since incorporated recommendations for eye and oronasal mask protection in its updated guide for the management of viral haemorrhagic fever patients". Another link https://pubmed.ncbi.nlm.nih.gov/8551825/.

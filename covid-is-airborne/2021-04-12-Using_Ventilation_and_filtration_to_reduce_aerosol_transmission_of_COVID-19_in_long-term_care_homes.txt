@@ -1,0 +1,10 @@
+media_caption: Using Ventilation and filtration to reduce aerosol transmission of COVID-19 in long-term care homes
+media_credit: 
+media_link: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/guide-ltch-ventilation-covid-19-pandemic.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114724574-b2810b00-9d09-11eb-9e46-fc2b5c554bfa.png
+start_date_day: 12
+start_date_month: 4
+start_date_year: 2021
+text_headline: Using Ventilation and filtration to reduce aerosol transmission of COVID-19 in long-term care homes
+text_text: "In Canada and worldwide, COVID-19 has disproportionately affected residents and staff in long-term care homes (LTCH). Interim guidance on infection prevention and control (IPC) for COVID-19 within LTCHs has been developed to protect LTCH staff and residents. The following guidance on ventilation aims to potentially reduce the risk of COVID-19 transmission within LTCHs and, should be used jointly with the LTCH IPC guidance, not as a replacement."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Raymond Tellier
+media_link: https://royalsocietypublishing.org/doi/full/10.1098/rsfs.2021.0072
+media_thumbnail: 
+media_url: https://www.rehva.eu/fileadmin/_processed_/6/a/csm_Interface_Focus_f2023e7504.jpg
+start_date_day: 11
+start_date_month: 2
+start_date_year: 2022
+text_headline: Article: COVID-19: the case for aerosol transmission
+text_text: Excerpt: "The COVID-19 pandemic is the most severe pandemic caused by a respiratory virus since the 1918 influenza pandemic"

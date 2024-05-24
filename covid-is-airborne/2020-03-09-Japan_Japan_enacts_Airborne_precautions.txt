@@ -1,0 +1,10 @@
+media_caption: Letter to citizens after expert meeting
+media_credit: 
+media_link: https://www.mhlw.go.jp/content/10900000/000608425.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/111904439-f7818c80-8a3e-11eb-99a3-abed6aebfdfa.png
+start_date_day: 9
+start_date_month: 3
+start_date_year: 2020
+text_headline: Japan: Japan enacts Airborne precautions
+text_text: "The locations where mass infections were confirmed so far are places where the following three conditions were met simultaneously: (1) closed space with poor ventilation, (2) crowded with many people and (3) conversations and vocalization in close proximity (within arm's reach of one another). It is believed that more people were infected in such places. Therefore, we ask that you predict locations and settings where these three conditions could occur simultaneously and avoid them"

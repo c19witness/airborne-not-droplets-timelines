@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147890497-fc524417-944c-4240-bd41-a7b032a93fa1.png
+start_date_day: 23
+start_date_month: 3
+start_date_year: 2020
+text_headline: MVK at WHO Q&A: COVID19 is not airborne
+text_text: [BOO] Technical Lead of WHO Health Emergencies Programme, Maria Van Kerkhove <a href='https://x.com/DrBeniRusani/status/1242045219656183808'>in a Q&A from a WHO office</a> details incorrectly the non-airborne nature of COVID19. @drbenirusani deletes the tweet Feb/Mar 2022. See <a href='https://web.archive.org/web/20200325054347/https://x.com/drbenirusani/status/1242045219656183808'>Way back machine</a>

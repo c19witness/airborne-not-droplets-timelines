@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Peng, Pineda Rojas, Propff, Bahnfleth, et al
+media_link: https://pubs.acs.org/doi/full/10.1021/acs.est.1c06531
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/148662401-757b89c4-90fb-4fec-a038-03937416e245.gif
+start_date_day: 5
+start_date_month: 1
+start_date_year: 2022
+text_headline: Practical Indicators for Risk of Airborne Transmission in Shared Indoor Environments and Their Application to COVID-19 Outbreaks
+text_text: Conclusion: Our analysis shows that mitigation measures to limit shared-room airborne transmission are needed in most indoor spaces whenever COVID-19 is spreading in a community. Among effective measures are reducing vocalization, avoiding intense physical activities, shortening the duration of occupancy, reducing the number of occupants, wearing high-quality well-fitting masks, increasing ventilation, improving ventilation effectiveness, and applying additional virus removal measures (such as HEPA filtration and UVGI disinfection).

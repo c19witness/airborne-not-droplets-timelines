@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://user-images.githubusercontent.com/82182/147405180-a7ae7dfe-4125-4f1f-810f-a98cb17ccfaa.png
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147405180-a7ae7dfe-4125-4f1f-810f-a98cb17ccfaa.png
+start_date_day: 25
+start_date_month: 1
+start_date_year: 2021
+text_headline: First tangential mention of aerosols
+text_text: [KEEP GOING] <a href='https://web.archive.org/web/20211118042235/https://www.who.int/publications/i/item/WHO-2019-nCoV-clinical-2021-1'>[Original document now deleted]</a>. WHO mentions aerosols as contributing to COVID transmission for the first time. But tangentially so, in a document about clinical practice (deleted on TBD)

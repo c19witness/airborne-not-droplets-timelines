@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: CDC
+media_link: https://wwwnc.cdc.gov/eid/article/15/6/08-1196_article
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/212366395-81ca6230-fd5c-4e0e-82a8-6fff5ec7205f.png
+start_date_month: 6
+start_date_year: 2009
+text_headline: Report: Stockpiling Supplies for the Next Influenza Pandemic
+text_text: CDC wrote about the need to switch HCWs from N95s to elastomeric respirators & using airborne precautions during future pandemics. via <a href='https://x.com/PPEtoheros/status/1613910991707963392'>@PPEtoheros</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1740326727677616410
+start_date_day: 28
+start_date_month: 12
+start_date_year: 2023
+text_headline: WHO again elevates masks to be above hand washing for 'protect yourself' actions
+text_text: [YAY]: Infographic shows masks but likely surgical instead of N95/KN95/FFP2/KF94 etc, and doesn't talk about fit

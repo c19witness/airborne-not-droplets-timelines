@@ -1,0 +1,10 @@
+media_caption: GAeF is Gesellschaft für Aerosolforschung based in Germany
+media_credit: [GAeF leadership] Christof Asbach, Andreas Held, Astrid Kiendler-Scharr, Gerhard Scheuch, Hans-Joachim Schmid, Sebastian Schmitt, Stefan Schumacher, Birgit Wehner, Ernest Weingartner, Bernadett Weinzierl
+media_link: https://zenodo.org/record/4350494#.Y-3vOOzP1qv
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/219319698-a7bdd1e4-6166-48b9-b5eb-788ccbfb18a2.png
+start_date_day: 18
+start_date_month: 12
+start_date_year: 2020
+text_headline: Position paper of the GAeF on understanding the role of aerosol particles in SARS-CoV-2 infection
+text_text: "[This] paper summarises a large number of studies on the formation of virus-laden aerosol particles and their spread. Based on this, it can be concluded that exhaled aerosol particles may play a prominent role in the spread of viruses in the corona pandemic"

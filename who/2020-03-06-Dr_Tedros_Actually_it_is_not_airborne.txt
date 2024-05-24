@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147906588-b41858ac-64a1-47c1-b9c6-37900262cc73.png
+start_date_day: 6
+start_date_month: 3
+start_date_year: 2020
+text_headline: Dr Tedros: Actually it is not airborne
+text_text: [BOO] Dr Tedros tweets "<a href='https://x.com/drtedros/status/1236037605101314053'>Thanks for your question but actually it’s not airborne...</a>" (a lie) in response to a question

@@ -1,0 +1,10 @@
+media_caption: New WHO publication
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FugyE69aIAAMZOm?format=jpg&name=large
+start_date_day: 24
+start_date_month: 4
+start_date_year: 2023
+text_headline: WHO coins 'inhalation long range' to avoid 'airborne'
+text_text: <a href='https://x.com/mvankerkhove/status/1650608042772242448'>MVK tweet linking to publication</a>. And <a href='https://x.com/JOHNJOHNSTONED/status/1650625521947123712'>@JOHNJOHNSTONED</a> one of many who found this attempt to change the language of airborne/aerosols to avoid being called to account and cuts to the key excerpts

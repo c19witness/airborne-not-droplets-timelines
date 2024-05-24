@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Landry,  Subedi,  Barr,  MacDonald,  Dix,  Kutey,  Mansfield,  Hamilton,  Edwards,  Joosten
+media_link: https://academic.oup.com/jid/article/226/2/199/6582941?login=false
+media_thumbnail: 
+media_url: /media/images/jiac195f1.jpeg
+start_date_day: 15
+start_date_month: 5
+start_date_year: 2022
+text_headline: Study: Fit-Tested N95 Masks Combined With Portable High-Efficiency Particulate Air Filtration Can Protect Against High Aerosolized Viral Loads Over Prolonged Periods at Close Range
+text_text: Conclusions: "N95 masks that have passed a quantitative fit-test combined with HEPA filtration protects against high virus aerosol loads at close range and for prolonged periods of time."

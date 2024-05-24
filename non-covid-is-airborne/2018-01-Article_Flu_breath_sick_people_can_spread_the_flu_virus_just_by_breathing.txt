@@ -1,0 +1,9 @@
+media_caption: Dr Milton, Gesundheit II machine, and test subject
+media_credit: 
+media_link: https://www.cbc.ca/radio/quirks/flu-breath-sick-people-can-spread-the-flu-virus-just-by-breathing-1.4502558
+media_thumbnail: 
+media_url: https://sph.umd.edu/sites/default/files//styles/300-wide/public/news/images/Balt_Sun_G-II.jpg?itok=8CkcfiUl
+start_date_month: 1
+start_date_year: 2018
+text_headline: Article: Flu breath: sick people can spread the flu virus just by breathing
+text_text: CDC Canada: A person infected with the flu who's not even coughing still emits fine aerosolized particles in their breath by simply sitting there, breathing and talking. Dr Don Milton: "We were seeing lots of virus — maybe a thousand particles in some cases in a half an hour.". See also <a href='https://sph.umd.edu/news-item/flu-may-be-spread-just-breathing-new-study-shows-coughing-and-sneezing-not-required'>umd.edu article</a>

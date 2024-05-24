@@ -1,0 +1,10 @@
+media_caption: Skagit Choir seatmap: infection distance
+media_credit: CDC.gov
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm
+media_thumbnail: /media/choir.png
+media_url: https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6919e6_ChoirPracticeCOVID19_IMAGE_12May20_1200x675-medium.jpg
+start_date_day: 15
+start_date_month: 5
+start_date_year: 2020
+text_headline: Outbreak: Skagit choir attendees infected at a distance
+text_text: Following a 2.5-hour choir practice attended by 61 people, including a symptomatic index patient, 32 confirmed and 20 probable secondary COVID-19 cases occurred (attack rate = 53.3% to 86.7%); three patients were hospitalized, and two died. Transmission was likely facilitated by close proximity (within 6 feet for some) during practice and augmented by the act of singing. Reported in: <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6919e6.htm'>CDC Journal May 15, 2020</a> as well as a <a href='https://academic.oup.com/ofid/article/7/10/ofaa430/5905033'>larger study that was available much later in September</a>. See also a <a href='https://x.com/jljcolorado/status/1335754175066611713'>one-slide summary (@jljcolorado)</a>

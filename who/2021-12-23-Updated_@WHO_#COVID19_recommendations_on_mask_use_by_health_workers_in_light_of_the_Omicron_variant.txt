@@ -1,0 +1,10 @@
+media_caption: FFP3 masks recommended
+media_credit: 
+media_link: https://www.who.int/publications/i/item/WHO-2019-nCoV-IPC_Masks-Health_Workers-Omicron_variant-2021.1
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FHRYWRhX0AAsUMe?format=jpg&name=medium
+start_date_day: 23
+start_date_month: 12
+start_date_year: 2021
+text_headline: Updated @WHO #COVID19 recommendations on mask use by health workers, in light of the Omicron variant
+text_text: [YAY] WHO's <a href='https://x.com/mvankerkhove/status/1473900121821691906'>@mvankerkhove shares a new publication</a> that talks up FFP2, FFP3 and N95 masks. Also adequate ventilation.

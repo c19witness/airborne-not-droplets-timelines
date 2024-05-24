@@ -1,0 +1,10 @@
+media_caption: Diagram showing arrangement of restaurant tables and air conditioning airflow at site of outbreak
+media_credit: Yuguo Li, Hua Qian, Jian Hang, Xuguang Chen, Ling Hong, Peng Liang, Jiansen Li, Shenglan Xi, Jianjian We, Li Li, Min Kang
+media_link: https://www.medrxiv.org/content/10.1101/2020.04.16.20067728v1.full.pdf
+media_thumbnail: /media/restaurant.png
+media_url: https://user-images.githubusercontent.com/82182/101359313-fd8a9d80-3893-11eb-9432-4a5b7815e7ab.png
+start_date_day: 26
+start_date_month: 1
+start_date_year: 2020
+text_headline: Outbreak: Guangzhou restaurant, circulated by air conditioning
+text_text: Everybody infected at a Chinese restaurant was sitting in the path of the air conditioning.<br><br>Reported in the CDC Journal in April as <a href='https://wwwnc.cdc.gov/eid/article/26/7/20-0764_article'>COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020</a>. <a href='https://wwwnc.cdc.gov/eid/images/20-0764-F1.jpg'>Picture from that article</a>

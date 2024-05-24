@@ -1,0 +1,10 @@
+media_caption: Transmission of SARS-CoV-2 from asymptomatic and presymptomatic individuals in healthcare settings despite medical masks and eye protection
+media_credit: 
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab218/6168040
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/113224092-a0f32a00-9258-11eb-91a3-57a317a96b2f.png
+start_date_day: 11
+start_date_month: 3
+start_date_year: 2021
+text_headline: Transmission of SARS-CoV-2 from asymptomatic and presymptomatic individuals in healthcare settings despite medical masks and eye protection
+text_text: "We describe 3 instances of SARS-CoV-2 transmission despite medical masks and eye protection, including transmission despite the source person being masked, transmission despite the exposed person being masked, and transmission despite both parties being masked. Whole genome sequencing confirmed perfect homology between source and exposed persons’ viruses in all cases."

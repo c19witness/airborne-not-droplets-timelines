@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.who.int/news/item/13-01-2023-who-updates-covid-19-guidelines-on-masks--treatments-and-patient-care
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/212569325-9730d819-69e3-4aa2-a28f-e3afb79f6cd5.png
+start_date_day: 13
+start_date_month: 1
+start_date_year: 2023
+text_headline: News: Broader recommendation for masking than before
+text_text: [YAY] Masks for a bunch of old niche reasons PLUS "and for anyone in a crowded, enclosed, or poorly ventilated space". No mention or grade of mask though

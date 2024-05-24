@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: Chapin
+media_link: https://archive.org/details/howtoavoidinfect00chap
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/159760082-4693ad64-0fab-47b4-85c7-68c696d67a33.png
+start_date_year: 1917
+text_headline: Book: Chapin's How to Avoid Infection
+text_text: His germ theory even "encouraged belief in air infection, for, when it was suggested that bacteria are the real cause of disease, it was assumed that such tiny particles could easily float in the air." Via <a href='https://thebaffler.com/salvos/airborne-toxic-events-ehrenreich'>The Baffler eZine</a>. Unfortunately The Baffler eZine gets it a bit wrong, because the thrust of Chapin's talk was that most disease is spread by droplets.

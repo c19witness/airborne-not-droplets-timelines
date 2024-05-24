@@ -1,0 +1,8 @@
+media_caption: from study
+media_credit: Halliday
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982891/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZdwJW8UYAEz4Yx?format=png&name=small
+start_date_year: 1931
+text_headline: Study: The Epidemiology of Poliomyelitis
+text_text: "..there are grounds for assuming that the virus lurks LURKS) in the upper respiratory passages of man, and is given off in the air by acts of respiration." Via <a href='https://x.com/LazarusLong13/status/1555835500186849283'>@LazarusLong13 tweet</a>

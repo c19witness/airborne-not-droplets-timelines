@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.theguardian.com/world/2020/may/05/just-273-people-arriving-in-uk-in-run-up-to-lockdown-quarantined
+media_thumbnail: https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/32px-Flag_of_the_United_Kingdom.svg.png
+media_url: https://i.guim.co.uk/img/media/b547dddb1944047e5816a6a081fac07d98ae85b7/100_325_4370_2621/master/4370.jpg?width=620&quality=85&auto=format&fit=max&s=860a5d9971743ffae1cb0ef2edb49617
+start_date_day: 5
+start_date_month: 5
+start_date_year: 2020
+text_headline: UK: Up to 1st lockdown, UK quarantines only 273 of 18.1m air passengers
+text_text: The UK government insisted that the scientific advice showed that placing restrictions at the border would not have had a significant impact on the spread of the virus in the UK. Their first lockdown was the 16 March, 2020. See also <a href='https://www.theguardian.com/world/2020/jun/11/british-clampdown-on-non-essential-travel-came-a-week-too-late'>No 'patient zero' as Covid-19 came into UK at least 1,300 times</a>

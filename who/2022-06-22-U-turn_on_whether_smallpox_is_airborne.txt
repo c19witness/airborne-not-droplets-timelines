@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/GGFdXQtaoAASEKK?format=jpg&name=large
+start_date_day: 22
+start_date_month: 6
+start_date_year: 2022
+text_headline: U-turn on whether smallpox is airborne
+text_text: [BOO] WHO disappears smallpox and MPX from their own 'airborne list' after @mdc_martinus noticed they were on there.  Via <a href='https://x.com/LazarusLong13/status/1756787989727117499'>@LazarusLong13 and @mdc_martinus tweet</a>

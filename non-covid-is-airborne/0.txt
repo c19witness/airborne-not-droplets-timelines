@@ -1,0 +1,5 @@
+title_media_caption: Old problem, new challenge!
+title_media_credit: The legendary Yuguo Li of the University of Hong Kong
+title_media_url: https://user-images.githubusercontent.com/82182/101088239-43511880-35ab-11eb-8219-a2045be30d0d.png
+title_text_headline: Evidence that other diseases are primarily airborne
+title_text_text: Airborne mitigations, even improvised ones, should have put in place from the start for Covid-19. That, to allow as much normalcy as possible. The rationale for THIS timeline is to show evidence that other diseases were always airborne, and that Covid-19 should have been expected to be from hour-1 analysis. This to counter the future claims of public health (and politicians) that they did not know about airborne. Articles added by date of their publication.

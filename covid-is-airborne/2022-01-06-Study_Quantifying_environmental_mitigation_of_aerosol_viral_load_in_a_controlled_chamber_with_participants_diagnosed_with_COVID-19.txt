@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Parhizkar, Dietz, Olsen-Martinez, Horve, Barnatan, Northcutt, Van Den Wymelenberg
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciac006/6498295#.Ydd47HK6qn1.twitter
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/148467012-97cbf9a9-9740-43a6-8264-304e571dea01.png
+start_date_day: 6
+start_date_month: 1
+start_date_year: 2022
+text_headline: Study: Quantifying environmental mitigation of aerosol viral load in a controlled chamber with participants diagnosed with COVID-19
+text_text: Conclusion: Our findings indicate that building operation practices such as ventilation, filtration, and humidification substantially reduce the environmental aerosol viral load, and therefore inhalation dose, and should be prioritized to improve building health and safety

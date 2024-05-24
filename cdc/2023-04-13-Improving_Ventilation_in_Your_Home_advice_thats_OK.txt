@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/Improving-Ventilation-Home.html
+media_thumbnail: 
+media_url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/images/new-ventilation/Ventilation_in_homes_furnace_stacked-medium.png
+start_date_day: 13
+start_date_month: 4
+start_date_year: 2023
+text_headline: Improving Ventilation in Your Home advice that's OK
+text_text: [YAY]: Article goes into fresh air and filtration

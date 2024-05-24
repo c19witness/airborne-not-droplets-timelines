@@ -1,0 +1,10 @@
+media_caption: High COVID-19 attack rate at a Church in Arkansas
+media_credit: CDC.gov
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6920e2_ChurchEventsArkansasCOVID19_IMAGE_19May20_1200x675-medium.jpg
+start_date_day: 16
+start_date_month: 5
+start_date_year: 2020
+text_headline: Outbreak: High COVID-19 attack rate at a church in Arkensas
+text_text: Two symptomatic people attended church events March 6-8. From that, 35 of 92 people were infected and 3 died. <br><br><a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6920e2.htm'>Reported in the MMWR journal</a>.

@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://www.medrxiv.org/content/10.1101/2020.08.17.20176842v1.full.pdf
+media_url: https://user-images.githubusercontent.com/82182/108630493-ea5e8700-7419-11eb-99f5-8883c7b96268.png
+start_date_day: 18
+start_date_month: 8
+start_date_year: 2020
+text_headline: Study: Respirators and surgical masks reducing risks for Health Care Workers
+text_text: Finish Study released showing no staff wearing an N95 at minimum were infected but that those that used surgical masks or less had a 63% chance of being infected at work

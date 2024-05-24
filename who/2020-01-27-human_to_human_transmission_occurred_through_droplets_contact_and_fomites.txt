@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: https://apps.who.int/iris/bitstream/handle/10665/330771/nCoVsitrep27Jan2020-eng.pdf?sequence=1&isAllowed=y
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FkgqE7NXgAAZVuy?format=jpg&name=large
+start_date_day: 27
+start_date_month: 1
+start_date_year: 2020
+text_headline: "human to human transmission occurred through droplets, contact and fomites"
+text_text: [BOO] Comment: language of this publication undoes some of the airborne language of priore MERS and SARS years

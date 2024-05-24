@@ -1,0 +1,10 @@
+media_caption: Cold storage units, workers, their trucks, and elevators
+media_credit: 
+media_link: https://translate.google.com/translate?sl=auto&tl=en&u=https://mp.weixin.qq.com/s/idDDTMQVSKTVyLUBwciy3A
+media_thumbnail: 
+media_url: https://mmbiz.qpic.cn/mmbiz_jpg/OoyyicmZojqEOlZrb5wvc7rhnRCuOd8PVagkrrQuz6PANSbB1zic19O7W1ZydBIsOwGLAML6G5nccde4w3kWVMLA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
+start_date_day: 24
+start_date_month: 11
+start_date_year: 2020
+text_headline: Article: Tianjin China: Injection in elevator holding an aerosol cloud
+text_text: Article: The infected person coughed in an elevator, and the neighbor entered without a mask two minutes later and became infected! Other incidents too. [Unconfirmed - waiting on formal study]

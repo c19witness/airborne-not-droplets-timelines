@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nature.com/articles/s41598-018-33061-2
+media_thumbnail: 
+media_url: 
+start_date_day: 5
+start_date_month: 10
+start_date_year: 2018
+text_headline: Study: Traxler, Selina et al ‘VOC Breath Profile in Spontaneously Breathing Awake Swine during Influenza A Infection’. Scientific Reports 8, no. 1 (5 October 2018): 14857.
+text_text: Traxler, Selina et al ‘VOC Breath Profile in Spontaneously Breathing Awake Swine during Influenza A Infection’. Scientific Reports 8, no. 1 (5 October 2018): 14857.  <a href='https://mastodon.social/@jmcrookston/110987338449346805'>Quick post here</a>

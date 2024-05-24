@@ -1,0 +1,10 @@
+media_caption: Airflow study of MERS in South Korean hospital
+media_credit: 
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458380/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101265672-331e7200-3740-11eb-95bd-61809d2a526b.png
+start_date_day: 15
+start_date_month: 3
+start_date_year: 2019
+text_headline: South Korean Hospital (MERS)
+text_text: Airflow analysis of Pyeongtaek St Mary's Hospital during hospitalization of the first Middle East respiratory syndrome patient in Korea

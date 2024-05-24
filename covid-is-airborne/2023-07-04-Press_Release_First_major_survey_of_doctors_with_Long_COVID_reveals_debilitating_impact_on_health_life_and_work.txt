@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: BMA
+media_link: https://www.bma.org.uk/bma-media-centre/first-major-survey-of-doctors-with-long-covid-reveals-debilitating-impact-on-health-life-and-work-and-wider-implications-for-workforce-and-health-services
+media_thumbnail: 
+media_url: https://www.bma.org.uk/media/2382/media-centre_v3.png?anchor=center&mode=crop&width=505&height=379&rnd=132784215070000000
+start_date_day: 4
+start_date_month: 7
+start_date_year: 2023
+text_headline: Press Release: First major survey of doctors with Long COVID reveals debilitating impact on health, life and work
+text_text: Dr Fearnley quoted in the study: “Infection control guidelines are fundamentally flawed: SARS-CoV-2 is airborne. It is outrageous that three-and-a-half years into this pandemic, staff and patients are still, knowingly and repeatedly, being exposed to a level-3 biohazard – a virus known to cause brain damage and significantly increased risk of life-threatening blood complications even in those recovered. Healthcare workers must be provided with respiratory protection and the air quality in hospitals be monitored and improved through the installation of ventilation systems and air filter units.”

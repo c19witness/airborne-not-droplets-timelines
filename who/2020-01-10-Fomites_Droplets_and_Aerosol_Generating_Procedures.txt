@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: https://apps.who.int/iris/bitstream/handle/10665/332447/WHO-2019-nCoV-IPC-2020.1-eng.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/209586438-d6264060-3409-49e8-9aeb-6f418287c63e.png
+start_date_day: 10
+start_date_month: 1
+start_date_year: 2020
+text_headline: Fomites, Droplets and Aerosol Generating Procedures
+text_text: [BOO] ... bot not aerosols from talking or simple breathing. WHO would late link to this document in a <a href='https://www.who.int/news/item/15-09-2022-who-responds-to-the-lancet-covid-19-commission'>Sept 2022 rebuttal</a> of a <a href='https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01585-9/fulltext'>Lancet Covid19 Commission report.</a>

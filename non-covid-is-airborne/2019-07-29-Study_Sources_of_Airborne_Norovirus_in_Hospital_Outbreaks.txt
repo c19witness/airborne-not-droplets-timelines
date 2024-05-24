@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Malin Alsved, Carl-Johan Fraenkel, Mats Bohgard, Anders Widell, Anna Söderlund-Strand, Peter Lanbeck, Torsten Holmdahl, Christina Isaxon, Anders Gudmundsson, Patrik Medstrand, Blenda Böttiger, Jakob Löndahl
+media_link: https://pubmed.ncbi.nlm.nih.gov/31257413/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7201413/bin/ciz584f0001.jpg
+start_date_day: 29
+start_date_month: 7
+start_date_year: 2019
+text_headline: Study: Sources of Airborne Norovirus in Hospital Outbreaks
+text_text: "Norovirus RNA was found in 21 (24%) of 86 air samples from 10 different patients. Only air samples during outbreaks, or before a succeeding outbreak, tested positive for norovirus RNA"

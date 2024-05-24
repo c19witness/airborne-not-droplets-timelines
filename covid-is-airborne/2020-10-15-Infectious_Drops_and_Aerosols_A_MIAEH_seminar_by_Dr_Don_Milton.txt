@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=veaaX2hJ7aw&feature=emb_logo
+start_date_day: 15
+start_date_month: 10
+start_date_year: 2020
+text_headline: Infectious Drops and Aerosols: A MIAEH seminar by Dr. Don Milton
+text_text: Dr. Don Milton, professor of applied environmental health at the University of Maryland, gave a seminar about infectious aerosols and their role in the spread of viruses, including SARS-CoV-2. He is Principal Investigator of the UMD StopCOVID study which is examining how much airborne virus an a person infected with COVID-19 exhales

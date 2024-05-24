@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Gould,  Byrne,   Edwards,  Aljayyoussi,  Wooding,  Buist,  Kontogianni,  M Bennett,  Atkinson,  Moore,  Dunning,  Todd, Hoyle,  Turtle,  Solomon,  Fitzgerald,  Beadsworth,  Garner,  Adams,  Fletcher
+media_link: https://www.medrxiv.org/content/10.1101/2022.09.07.22279662v1
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/189481089-bdd5fd78-7d1d-4da3-b3dc-58a205bc12d1.png
+start_date_day: 7
+start_date_month: 9
+start_date_year: 2022
+text_headline: Study: AGPs are not worse than breathing for putting SARS-CoV-2 into the air of a room
+text_text: The same amount of viral RNA was detected in the air of patients' hospital rooms when they were breathing room air, when they were on oxygen, and when AGPs are being conducted. No difference ... via <a href='https://x.com/DGBassani/status/1568329787701084160'>DGBassani tweet</a>

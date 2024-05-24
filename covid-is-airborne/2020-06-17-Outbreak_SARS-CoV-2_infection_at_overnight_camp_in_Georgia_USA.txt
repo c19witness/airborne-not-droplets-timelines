@@ -1,0 +1,10 @@
+media_caption: Generic tug-of-war pic, typical of campers
+media_credit: PHOTOGRAPH: MARTIN BARRAUD/GETTY IMAGES
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm
+media_thumbnail: 
+media_url: https://media.wired.com/photos/5f21b7edfd6517d6ce008a7e/master/w_2560%2Cc_limit/Science_summercamp_83266659.jpg
+start_date_day: 17
+start_date_month: 6
+start_date_year: 2020
+text_headline: Outbreak: SARS-CoV-2 infection at overnight camp in Georgia, USA
+text_text: SARS-CoV-2 Transmission and Infection Among Attendees of an Overnight Camp — Georgia, June 2020. 597 Georgia residents attended camp A. Median camper age was 12 years. 344 were tested and 260 (76%) were positive. The overall attack rate was 44% (260 of 597). <a href='https://www.cdc.gov/mmwr/volumes/69/wr/mm6931e1.htm'>Reported in MMWR journal in August</a>. See <a href='https://www.wired.com/story/a-summer-camp-covid-19-outbreak-offers-back-to-school-lessons/'>Wired Article</a> too.

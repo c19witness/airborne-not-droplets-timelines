@@ -1,0 +1,10 @@
+media_caption: Wells curves modified by accounting for droplet cloud aerodynamics, thermodynamics, and droplet desiccation
+media_credit: Diagram from Chaudhuri, Basu &amp; Saha's study
+media_link: https://aip.scitation.org/doi/full/10.1063/5.0034032
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101584992-c5d83e80-39d6-11eb-99c9-2737f87b3915.png
+start_date_day: 4
+start_date_month: 12
+start_date_year: 2020
+text_headline: Study: Analyzing the dominant SARS-CoV-2 transmission routes
+text_text: Study excerpt: At typical, air-conditioned yet quiescent indoor space, for average viral loading, cough droplets of initial diameter between 10 µm and 50 µm are found to have the highest infection probability. However, by the time they are inhaled, the diameters reduce to about 1/6th of their initial diameters

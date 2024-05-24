@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://user-images.githubusercontent.com/82182/147337632-6bf5a0d7-1385-41a2-b82e-5de1151c5ad7.png
+media_url: https://user-images.githubusercontent.com/82182/147335249-69adda16-290a-42b1-871d-77903c35f8f1.png
+start_date_day: 11
+start_date_month: 2
+start_date_year: 2020
+text_headline: Is airborne - no isn't airborne
+text_text: [BOO] In a double act, Dr Tedros says "it is airborne", Dr Ryan flinches, writes on his paper pad, shows Dr Tedros while underlining something a few times. Dr Tedros then walks the "it is airborne" statement back. This was three days after China CDC said it was airborne (see <a href='https://its-airborne.org/covid19-timeline.html#event-novel-coronavirus-can-transmit-via-aerosol'>other timeline</a>). There is a transcript in the <a href='https://www.youtube.com/watch?v=hd2QoYt5Fcw'>official Youtube video</a>. Relevant minute markers are <a href='https://youtu.be/hd2QoYt5Fcw?t=2429'>40.29 (the disclosure)</a>, <a href='https://youtu.be/hd2QoYt5Fcw?t=2521'>42.00 (the whispered instruction)</a> and <a href='https://youtu.be/hd2QoYt5Fcw?t=2779'>46.20 (the retraction)</a>

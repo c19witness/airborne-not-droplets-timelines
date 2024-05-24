@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/CDCgov/status/1740434209557127227
+start_date_day: 28
+start_date_month: 12
+start_date_year: 2023
+text_headline: CDC talks up ventilation for holiday gatherings
+text_text: [YAY]: Good job but a little late for Christmas

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: LA Times article
+media_link: https://www.latimes.com/world-nation/story/2020-07-04/coronavirus-airborne-spread
+media_thumbnail: 
+media_url: https://i.guim.co.uk/img/media/2bed7ae4443ed4cacf304458538535e9b7834403/0_0_1920_1080/1920.jpg?width=1280&quality=85&auto=format&fit=max&s=563cb2e20cb734df646f48817385657d
+start_date_day: 4
+start_date_month: 7
+start_date_year: 2020
+text_headline: WHO: Benedetta Allegranzi dismisses Lidia Morawska's evidence
+text_text: Dr. Benedetta Allegranzi, a top WHO expert on infection prevention and control, said in responses to questions from The Times that [top world aerosol expert] Morawska and her group presented theories based on laboratory experiments rather than evidence from the field.

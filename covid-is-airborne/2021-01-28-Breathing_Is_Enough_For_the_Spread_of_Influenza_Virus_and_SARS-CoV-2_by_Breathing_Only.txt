@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.liebertpub.com/doi/10.1089/jamp.2020.1616
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/105900579-27e71480-6014-11eb-9e1b-2efb683fe281.png
+start_date_day: 28
+start_date_month: 1
+start_date_year: 2021
+text_headline: Breathing Is Enough: For the Spread of Influenza Virus and SARS-CoV-2 by Breathing Only
+text_text: Conclusion after literature search: [Flu and SARS-CoV-2] aerosol particles are difficult to filter out of the air; because of their physical properties, new strategies must be developed to protect people from these virus aerosols.

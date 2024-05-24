@@ -1,0 +1,10 @@
+media_caption: Tiny soap bubbles accumulate in a room, in an experiment meant to explore how open windows and different levels of air filtration affect concentrations of virus particles.
+media_credit: Delft University of Technology
+media_link: https://www.nature.com/articles/d41586-021-00810-9
+media_thumbnail: 
+media_url: https://media.nature.com/lw800/magazine-assets/d41586-021-00810-9/d41586-021-00810-9_19005386.gif
+start_date_day: 30
+start_date_month: 3
+start_date_year: 2021
+text_headline: Why indoor spaces are still prime COVID hotspots
+text_text: "One of the problems is that governments and businesses are still spending millions of dollars on surface disinfection, says Jimenez, despite evidence that it is rare for SARS-CoV-2 to pass from one person to another through contaminated surfaces. By contrast, few countries have invested in measures to improve indoor air quality."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Iwamura & Tsutsumi
+media_link: https://link.springer.com/article/10.1007/s11356-023-27944-9
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11356-023-27944-9/MediaObjects/11356_2023_27944_Fig1_HTML.png?as=webp
+start_date_day: 7
+start_date_month: 6
+start_date_year: 2023
+text_headline: Study: SARS-CoV-2 airborne infection probability estimated by using indoor carbon dioxide
+text_text: Conclusion: "... Organizations and individuals can efficiently recognize the risk of SARS-CoV-2 airborne transmission in a room and thus take preventive measures such as maintaining good ventilation, wearing masks, or shortening the exposure time to an infected individual by simply using a CO2 monitor..."

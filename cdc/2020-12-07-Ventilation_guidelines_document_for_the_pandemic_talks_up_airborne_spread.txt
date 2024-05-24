@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html
+media_thumbnail: 
+media_url: media/images/cdc-venti.png
+start_date_day: 7
+start_date_month: 12
+start_date_year: 2020
+text_headline: Ventilation guidelines document for the pandemic talks up airborne spread
+text_text: YAY: Revised a few times since, a CDC document on ventilation talks up fresh air and filtration.

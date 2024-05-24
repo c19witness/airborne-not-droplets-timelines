@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: https://user-images.githubusercontent.com/82182/147337288-237a411f-fa77-4861-8f4f-df05eb6202d1.png
+media_url: https://user-images.githubusercontent.com/82182/147284849-b4e4bf6d-ff08-4f7b-88e8-4f15c8d81c4f.png
+start_date_day: 22
+start_date_month: 12
+start_date_year: 2021
+text_headline: WHO Media Briefing to acknowledge airborne transmission
+text_text: [YAY] <a href='https://x.com/WHO/status/1473666303437148164'>Tweet series</a> including videos.

@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: Riley, Mills, O'Grady, Sultan, Wittstadt, Shivpuri
+media_link: https://pubmed.ncbi.nlm.nih.gov/14492300/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/GB5asI1WkAE7JDH?format=jpg&name=small
+start_date_year: 1962
+text_headline: Study: Infectiousness of air from a tuberculosis ward. Ultraviolet irradiation of infected air: comparative infectiousness of different patients
+text_text: Despite all the resistance, the Wellses, Robert Riley, and Cretyl Mills succeed in demonstrating aiborne transmission of tuberculosis in 1962, from people to guinea pigs. via <a href='https://x.com/jljcolorado/status/1391194014834122754'>@jljcolorado tweet</a>

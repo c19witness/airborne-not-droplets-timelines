@@ -1,0 +1,8 @@
+media_caption: Charles Chapin MD - Sources and modes of infection (1910)
+media_credit: 
+media_link: https://ia802703.us.archive.org/15/items/sourcesmodesofin00chaprich/sourcesmodesofin00chaprich.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101091779-95486d00-35b0-11eb-8b6c-83be3a549dc7.png
+start_date_year: 1910
+text_headline: Chapin's book, Sources and Modes of Infection
+text_text: Charles Chapin, medical doctor in Rhode Island, proposed in his groundbreaking book the radical notion that pathogens don't live long outside the body and were therefore transmitted person to person, and not simply freely floating in the air (miasma theory). He focussed therefore on stopping chains of transmission. Because he saw most transmission happening at short-range, which he called 'close contact', he suggested it was reasonable to him that this meant diseases were transmitted by droplets. He is wrong about this last part but the rest was brilliant. As an aside, he did not think fomites accounted for much transmission. See <a href='https://mastodon.social/@jmcrookston/111207639313057374'> thread by @jmcrookston

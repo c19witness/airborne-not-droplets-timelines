@@ -1,0 +1,10 @@
+media_caption: Major modes of transmission of respiratory viruses during short-range and long-range transmission.
+media_credit: 
+media_link: https://www.nature.com/articles/s41579-021-00535-6
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41579-021-00535-6/MediaObjects/41579_2021_535_Fig1_HTML.png
+start_date_day: 22
+start_date_month: 3
+start_date_year: 2021
+text_headline: Transmissibility and transmission of respiratory viruses
+text_text: "Respiratory viruses can be transmitted via four major modes of transmission: direct (physical) contact, indirect contact (fomite), (large) droplets and (fine) aerosols. We know little about the relative contribution of each mode to the transmission of a particular virus in different settings, and how its variation affects transmissibility and transmission dynamics. Discussion on the particle size threshold between droplets and aerosols and the importance of aerosol transmission for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and influenza virus is ongoing."

@@ -1,0 +1,10 @@
+media_caption: Mean risk of illness from SARS-CoV-2 for different scenarios, in which one infected person was expelling virus for 20 min or 2 h, without or with ventilation
+media_credit: 
+media_link: https://ehp.niehs.nih.gov/doi/10.1289/EHP7886
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114728354-050ff680-9d0d-11eb-9fff-e0be17da42de.jpg
+start_date_day: 1
+start_date_month: 4
+start_date_year: 2021
+text_headline: Quantitative Microbial Risk Assessment for Airborne Transmission of SARS-CoV-2 via Breathing, Speaking, Singing, Coughing, and Sneezing
+text_text: "Evidence for indoor airborne transmission of SARS-CoV-2 is accumulating. We assessed of the risk of illness due to airborne SARS-CoV-2 particles from breathing, speaking, singing, coughing, and sneezing in indoor environments."

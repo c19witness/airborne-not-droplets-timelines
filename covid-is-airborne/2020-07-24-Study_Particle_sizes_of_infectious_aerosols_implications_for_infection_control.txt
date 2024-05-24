@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Fennelly
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7380927/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7380927/bin/gr1_lrg.jpg
+start_date_day: 24
+start_date_month: 7
+start_date_year: 2020
+text_headline: Study: Particle sizes of infectious aerosols: implications for infection control
+text_text: Excerpt: Particles that are 5 μm or smaller in size can remain airborne indefinitely under most indoor conditions16 unless there is removal due to air currents or dilution ventilation

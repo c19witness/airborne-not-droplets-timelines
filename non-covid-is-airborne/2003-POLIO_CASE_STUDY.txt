@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: David Male and Basiro Davey of The Open University
+media_link: https://www.open.edu/openlearn/ocw/pluginfile.php/625079/mod_resource/content/1/polio_case_study.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133859002-ebb23ca9-6766-473b-b814-833e048d5590.png
+start_date_year: 2003
+text_headline: POLIO CASE STUDY
+text_text: [minor transmission route, perhaps] "In the early stages of an infection, the virus may also be passed on via the respiratory route, when aerosol droplets of infected saliva are coughed or sneezed into the local atmosphere"

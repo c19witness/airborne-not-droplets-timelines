@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Weingartl, Embury-Hyatt, Nfon, Leung, Smith & Kobinger
+media_link: https://www.nature.com/articles/srep00811
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/146970095-3689afc6-1426-4bc5-901b-012b6ece13f8.png
+start_date_month: 11
+start_date_year: 2012
+text_headline: Study: Transmission of Ebola virus from pigs to non-human primates
+text_text: Conclusions: "Infection of all four macaques in an environment, preventing direct contact between the two species and between the macaques themselves, supports the concept of airborne transmission"

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: DHS
+media_link: https://www.dhs.gov/science-and-technology/sars-airborne-calculator
+media_thumbnail: 
+media_url: https://www.dhs.gov/sites/default/files/images/st/20_0612_st_observed-vs-predicted-half-life_v3.jpg
+start_date_day: 14
+start_date_month: 6
+start_date_year: 2020
+text_headline: Estimated Airborne Decay of SARS-CoV-2 (virus that causes COVID-19)
+text_text: By US Department of Homeland Security. Put up in <a href='https://web.archive.org/web/20200614113230/https://www.dhs.gov/science-and-technology/sars-airborne-calculator'>June of 2020</a>

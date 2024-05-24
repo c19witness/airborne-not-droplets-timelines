@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Cheng, Fung, Siu, Wong, Cheng, Wong, Lee, Chan, Chau, and Leung
+media_link: https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab313/6225253?searchresult=1
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/114819779-e154bb00-9db5-11eb-92ad-faf089de1fa2.png
+start_date_day: 14
+start_date_month: 4
+start_date_year: 2021
+text_headline: Study: Nosocomial outbreak of COVID-19 by possible airborne transmission leading to a superspreading event
+text_text: "Conclusion: This nosocomial point source superspreading due to possible airborne transmission demonstrated the need for stringent SARS-CoV-2 screening at admission to healthcare facilities and better architectural design of the ventilation system to prevent such outbreaks. Portable high-efficiency particulate filters were installed in each cubicle to improve ventilation before resumption of clinical service."

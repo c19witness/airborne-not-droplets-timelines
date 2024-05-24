@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://icjournal.org/DOIx.php?id=10.3947/ic.2021.0046#F2
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/E5fs7cpXwAACPCg?format=jpg&name=medium
+start_date_day: 22
+start_date_month: 6
+start_date_year: 2021
+text_headline: Study: Malfunctioning bathroom air-exhaust causes airborne spread
+text_text: Conclusion: Transmission of SARS-CoV-2 in the hematologic ward occurred rapidly in the multi-patient room and shared bathroom settings. In addition, there was a case of possible airborne transmission due to unexpected airflow.

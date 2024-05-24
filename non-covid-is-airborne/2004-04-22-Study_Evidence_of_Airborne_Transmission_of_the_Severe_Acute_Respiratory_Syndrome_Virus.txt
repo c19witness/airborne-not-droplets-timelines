@@ -1,0 +1,10 @@
+media_caption: Fig1: Distribution of Cases of SARS Infection in Buildings A to G in the Amoy Gardens Housing Estate.
+media_credit: Ignatius T.S. Yu, Yuguo Li, Tze Wai Wong, Wilson Tam, Andy T. Chan, Joseph H.W. Lee, Dennis Y.C. Leung, Tommy Ho
+media_link: https://www.nejm.org/doi/full/10.1056/nejmoa032867
+media_thumbnail: 
+media_url: https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2004/nejm_2004.350.issue-17/nejmoa032867/production/images/img_medium/nejmoa032867_f1.jpeg
+start_date_day: 22
+start_date_month: 4
+start_date_year: 2004
+text_headline: Study: Evidence of Airborne Transmission of the Severe Acute Respiratory Syndrome Virus
+text_text: Conclusion: "Airborne spread of the virus appears to explain this large community outbreak of SARS, and future efforts at prevention and control must take into consideration the potential for airborne spread of this virus."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CGC.GOV
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6943a4.htm
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6943a4_HighSchoolSummerCampCOVID19_IMAGE_30Oct20_1200x675-medium.jpg
+start_date_day: 30
+start_date_month: 10
+start_date_year: 2020
+text_headline: Outbreak at an Overnight Summer School Retreat
+text_text: July 2–August 11, 2020, an outbreak of coronavirus disease 2019 (COVID-19) occurred at a boys’ overnight summer school retreat in Wisconsin. There was a 76% infection rate.<br><br>See <a href='https://x.com/jmcrookston/status/1356940611870425088'>76% attack rate sure doesn't look like your grandpa's flu now does it? thread by @jmcrookston<a/>.

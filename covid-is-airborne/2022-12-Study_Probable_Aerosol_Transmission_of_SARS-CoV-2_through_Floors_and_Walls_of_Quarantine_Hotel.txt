@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Hsin-Yi Wei, Cheng-Ping Chang, Ming-Tsan Liu, Jung-Jung Mu, Yu-Ju Lin, Yu-Tung Dai, and Chia-ping Su
+media_link: https://wwwnc.cdc.gov/eid/article/28/12/22-0666_article
+media_thumbnail: 
+media_url: https://wwwnc.cdc.gov/eid/images/22-0666-F3.jpg
+start_date_month: 12
+start_date_year: 2022
+text_headline: Study: Probable Aerosol Transmission of SARS-CoV-2 through Floors and Walls of Quarantine Hotel
+text_text: "Aerosol transmission through structural defects in floors and walls in this poorly ventilated hotel was the most likely route of virus transmission"

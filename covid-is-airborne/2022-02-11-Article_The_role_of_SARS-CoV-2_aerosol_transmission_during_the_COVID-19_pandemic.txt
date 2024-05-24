@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Julian W. Tang, Linsey C. Marr, Yuguo Li and Ian Eames.
+media_link: https://royalsocietypublishing.org/doi/10.1098/rsfs.2022.0003
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/153698972-479e2d30-18e4-44c9-a105-c45da12146e5.png
+start_date_day: 11
+start_date_month: 2
+start_date_year: 2022
+text_headline: Article: The role of SARS-CoV-2 aerosol transmission during the COVID-19 pandemic
+text_text: Excerpt: "it quickly emerged that populations that reacted promptly by imposing universal masking, along with early border closures, and a rapid expansion of testing with enforced isolation for those infected and quarantine for their contacts, had the lowest COVID-19 case numbers and deaths."

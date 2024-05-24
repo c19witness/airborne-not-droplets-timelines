@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://web.archive.org/web/20200331060605/https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/about-the-disease/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/110258727-fe6ac280-7f9b-11eb-8671-334578064ae8.png
+start_date_day: 31
+start_date_month: 3
+start_date_year: 2020
+text_headline: Swedish Folkhalsomynd:  "face masks are not needed in in the community"
+text_text: Swedish Folkhalsomynd: "Do face masks protect against transmission? [...] However, face masks are not needed in in the community"

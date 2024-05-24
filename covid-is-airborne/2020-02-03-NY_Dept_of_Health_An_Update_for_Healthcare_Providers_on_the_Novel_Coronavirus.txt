@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: NY state and city
+media_link: https://coronavirus.health.ny.gov/system/files/documents/2020/03/2020-02-03_provider_webinar.pdf
+media_thumbnail: 
+media_url: /media/images/nyc2020-02.png
+start_date_day: 3
+start_date_month: 2
+start_date_year: 2020
+text_headline: NY Dept of Health: An Update for Healthcare Providers on the Novel Coronavirus
+text_text: Airborne infection protocols recommended: masks, hepa filtration, isolation rooms. Via <a href='https://x.com/ariccio/status/1710104083485348208'>@ariccio tweet</a>

@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://www.coronavirus.vic.gov.au/sites/default/files/2021-06/Attachment%201_Full%20Report%20%281%29.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/123421657-0aaf7580-d5b5-11eb-9e17-b84b5f9f7c96.png
+start_date_month: 4
+start_date_year: 2021
+text_headline: Report: Airborne transmission factor in Australians catching COVID-19 in hospital
+text_text: Ventilation assessments need to be done in all sensitive settings to ensure #SafeIndoorAir. Pleased to see this Victorian report on patients who caught COVID-19 in hospital acknowledging the role of airborne transmission. Sadly, 85 (30.7%) died. Via <a href='https://x.com/venessb/status/1408357498612969475'>@venessb tweet</a>

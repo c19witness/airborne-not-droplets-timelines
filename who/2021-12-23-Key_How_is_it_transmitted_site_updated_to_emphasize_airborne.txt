@@ -1,0 +1,10 @@
+media_caption: changes called out in yellow
+media_credit: 
+media_link: https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-how-is-it-transmitted
+media_thumbnail: https://user-images.githubusercontent.com/82182/147338030-a8041cfd-11e3-422a-87b7-544d5a338a4e.png
+media_url: https://pbs.twimg.com/media/FHUSIwdXoAEfm-b?format=jpg&name=large
+start_date_day: 23
+start_date_month: 12
+start_date_year: 2021
+text_headline: Key 'How is it transmitted' site updated to emphasize airborne
+text_text: [SNEAKY] The site existed for some time, but was tactically updated to change some items from fomites/droplets language to aerosols/airborne language

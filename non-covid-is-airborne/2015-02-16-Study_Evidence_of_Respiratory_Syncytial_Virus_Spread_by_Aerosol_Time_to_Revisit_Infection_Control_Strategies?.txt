@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Kulkarni, Smith, Lee, Hirst, Easton, O’Callaghan
+media_link: https://www.atsjournals.org/doi/full/10.1164/rccm.201509-1833OC
+media_thumbnail: 
+media_url: https://www.atsjournals.org/na101/home/literatum/publisher/thoracic/journals/content/ajrccm/2016/ajrccm.2016.194.issue-3/rccm.201509-1833oc/20160719/images/medium/rccm.201509-1833oc_f1.gif
+start_date_day: 16
+start_date_month: 2
+start_date_year: 2015
+text_headline: Study: Evidence of Respiratory Syncytial Virus Spread by Aerosol. Time to Revisit Infection Control Strategies?
+text_text: It is likely that [aerosolized particles that contained RSV in the air] leads to spread of infection to others, with dissemination of infection throughout the respiratory tract.

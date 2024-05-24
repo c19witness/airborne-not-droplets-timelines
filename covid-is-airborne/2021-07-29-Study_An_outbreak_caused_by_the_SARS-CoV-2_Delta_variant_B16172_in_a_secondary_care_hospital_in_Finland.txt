@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Hetemäki1, Kääriäinen, Alho1, Mikkola1, Savolainen-Kopra, Ikonen4, Nohynek4, Lyytikäinen4
+media_link: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.30.2100636
+media_thumbnail: 
+media_url: https://www.eurosurveillance.org/docserver/ahah/fulltext/eurosurveillance/26/30/2100636-f1_thmb.gif
+start_date_day: 29
+start_date_month: 7
+start_date_year: 2021
+text_headline: Study: An outbreak caused by the SARS-CoV-2 Delta variant (B.1.617.2) in a secondary care hospital in Finland
+text_text: "To control the outbreak, surgical masks were replaced by FFP2 respirators when HCW are in close contact with a laboratory-confirmed COVID-19 patient..."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.fauske.com/blog/analyzing-a-simplified-airborne-infection-model-with-fate-nuclear-safety-software
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/111084844-5b222c00-850c-11eb-9723-34906a79f20f.png
+start_date_day: 29
+start_date_month: 10
+start_date_year: 2014
+text_headline: Simplified Airborne Infection Model with FATE Nuclear Safety Software
+text_text: The nuclear field has used risk modelling software to model infectious diseases in waiting rooms. Excerpt: "This model is more appropriate for modeling diseases which spread through inhalation such as whooping cough (pertussis), measles (rubeola), tuberculosis, or influenza" See <a href='https://x.com/jmcrookston/status/1371193772608999425'>@jmcrookston tweet</a>

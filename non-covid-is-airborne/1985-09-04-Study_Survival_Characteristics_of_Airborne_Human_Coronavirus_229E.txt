@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Ijaz, Brunner, Sattar, Nair and Johnson-Lussenburg
+media_link: https://www.microbiologyresearch.org/docserver/fulltext/jgv/66/12/JV0660122743.pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/135535004-0791de1b-84e4-4520-bb44-7067332daa41.png
+start_date_day: 4
+start_date_month: 9
+start_date_year: 1985
+text_headline: Study: Survival Characteristics of Airborne Human Coronavirus 229E
+text_text: "These results demonstrate clearly that, at 20 °C, coronavirus has great potential for airborne transmission"

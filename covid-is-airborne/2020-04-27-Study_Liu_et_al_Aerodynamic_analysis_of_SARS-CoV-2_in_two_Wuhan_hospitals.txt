@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nature.com/articles/s41586-020-2271-3
+media_thumbnail: 
+media_url: 
+start_date_day: 27
+start_date_month: 4
+start_date_year: 2020
+text_headline: Study: Liu et al. Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals
+text_text: Found SARS-CoV-2 RNA in hospital air, China. <p>From Liu, Yuan, Zhi Ning, Yu Chen, Ming Guo, Yingle Liu, Nirmal Kumar Gali, Li Sun, et al. ‘Aerodynamic Analysis of SARS-CoV-2 in Two Wuhan Hospitals’. Nature 582, no. 7813 (April 2020): 557–60.

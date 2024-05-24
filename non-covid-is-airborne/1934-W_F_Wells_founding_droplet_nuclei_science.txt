@@ -1,0 +1,8 @@
+media_caption: Wells curves for different relative humidity
+media_credit: 
+media_link: https://en.wikipedia.org/wiki/Wells_curve
+media_thumbnail: 
+media_url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Droplet_falling-evaporation_curves_for_different_humidities.png/1280px-Droplet_falling-evaporation_curves_for_different_humidities.png
+start_date_year: 1934
+text_headline: W. F. Wells founding droplet nuclei science
+text_text: Wells thought that droplets smaller than a certain size would quickly evaporate, leaving a dry residue that drifts in the air. Since droplets from an infected person may contain infectious bacteria or viruses, these processes influence transmission of respiratory diseases

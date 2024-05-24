@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1495060603907543041
+start_date_day: 19
+start_date_month: 2
+start_date_year: 2022
+text_headline: Dr Ryan: says the right thing for the next pandemic
+text_text: [YAY] Paraphrase: "Are we going to be able to ventilate quicker and distribute masks instantly?"

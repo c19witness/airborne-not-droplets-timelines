@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Authors: Jing Yan, Grantham, Pantelic, Bueno de Mesquita, Albert, Liu, Ehrman, Milton, and EMIT Consortium
+media_link: https://www.pnas.org/content/115/5/1081
+media_thumbnail: 
+media_url: https://www.pnas.org/cms/10.1073/pnas.1716561115/asset/747a6b50-3e2a-480c-8920-ec9c53697eeb/assets/graphic/pnas.1716561115fig02.jpeg
+start_date_day: 30
+start_date_month: 1
+start_date_year: 2018
+text_headline: Study: Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community
+text_text: "We provide overwhelming evidence that humans generate infectious aerosols and quantitative data to improve mathematical models of transmission and public health interventions" Via <a href='https://x.com/jljcolorado/status/1244252661530017794'>@jljcolorado</a>

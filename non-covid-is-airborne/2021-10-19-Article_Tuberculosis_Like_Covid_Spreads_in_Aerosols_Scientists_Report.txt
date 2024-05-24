@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html
+media_thumbnail: 
+media_url: https://static01.nyt.com/images/2021/10/19/science/19tb/19tb-jumbo.jpg?quality=75&auto=webp
+start_date_day: 19
+start_date_month: 10
+start_date_year: 2021
+text_headline: Article: Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report
+text_text: "Upending centuries of medical dogma, a team of South African researchers has found that breathing may be a bigger contributor to the spread of tuberculosis than coughing, the signature symptom."

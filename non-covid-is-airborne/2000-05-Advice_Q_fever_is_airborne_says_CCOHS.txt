@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://web.archive.org/web/20000601064740/https://www.ccohs.ca/oshanswers/diseases/qfever.html
+media_thumbnail: 
+media_url: media/q.png
+start_date_month: 5
+start_date_year: 2000
+text_headline: Advice: Q fever is airborne says CCOHS
+text_text: Q fever is airborne, so says the Canadian Centre for Occupational Health & Safety (CCOHS)

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Chen, Bobrovitz, Premji, Koopmans, Fisman, and Gu
+media_link: https://elifesciences.org/articles/65774
+media_thumbnail: 
+media_url: https://iiif.elifesciences.org/lax:65774%2Felife-65774-fig2-v2.tif/full/617,/0/default.webp
+start_date_day: 16
+start_date_month: 4
+start_date_year: 2021
+text_headline: Study: Chen. Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols
+text_text: "[...] Highly infectious individuals shed tens to thousands of SARS-CoV-2 virions/min via droplets and aerosols while breathing, talking and singing"

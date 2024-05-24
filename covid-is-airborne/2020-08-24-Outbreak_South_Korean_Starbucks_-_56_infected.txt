@@ -1,0 +1,9 @@
+media_caption: Generic pic of a Starbucks
+media_credit: Dogyun Kim/Reuters
+media_link: http://webcache.googleusercontent.com/search?q=cache:jgZQOBFDBg0J:www.cdc.go.kr/board/board.es%3Fmid%3Da30402000000%255C%26bid%3D0030%26act%3Dview%26list_no%3D368221%26tag%3D%26nPage%3D1+&cd=1&hl=en&ct=clnk&gl=uk
+media_url: https://i.insider.com/5f43d80c42f43f001ddfe9a0?width=1000&format=jpeg&auto=webp
+start_date_day: 24
+start_date_month: 8
+start_date_year: 2020
+text_headline: Outbreak: South Korean Starbucks - 56 infected
+text_text: Study: 56 coronavirus cases were linked to a Starbucks in South Korea. But employees who were wearing masks didn't get infected.<br><br>Read More: <a target='_blank' href='https://www.businessinsider.com/56-got-coronavirus-south-korea-starbucks-mask-wearers-did-not-2020-8'>Business Insider</a> or <a target='_blank' href='https://fortune.com/2020/08/25/covid-outbreak-starbucks-seoul-masks-employees/'>Fortune.com</a> or <a target='_blank' href='https://edition.cnn.com/world/live-news/coronavirus-pandemic-08-25-20-intl/h_d88a8d6e5ee96dd569bd1be5d494de45'>CNN</a>

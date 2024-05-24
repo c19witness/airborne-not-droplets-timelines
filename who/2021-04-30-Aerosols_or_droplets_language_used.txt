@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://user-images.githubusercontent.com/82182/147405466-6fa38763-3266-4fc7-8c5f-c346b911878f.png
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147405466-6fa38763-3266-4fc7-8c5f-c346b911878f.png
+start_date_day: 30
+start_date_month: 4
+start_date_year: 2021
+text_headline: Aerosols or droplets language used
+text_text: [YAY] <a href='https://web.archive.org/web/20210531215224/https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-how-is-it-transmitted'>[Original document, updated since]</a>. WHO accepts aerosols as important for transmission while keeping droplets language, too.

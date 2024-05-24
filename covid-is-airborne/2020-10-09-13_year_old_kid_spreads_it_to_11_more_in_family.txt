@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm
+media_thumbnail: 
+media_url: https://www.cdc.gov/mmwr/volumes/69/wr/social-media/mm6940e2_FamilyGatheringCOVID19_IMAGE_05Oct20_Social_1200x675-medium.jpg
+start_date_day: 9
+start_date_month: 10
+start_date_year: 2020
+text_headline: 13 year old kid spreads it to 11 more in family
+text_text: Index case was 13 y.o. Spread to 11 more. [ed: kids transmit]. Twelve of the 14 who stayed INSIDE at the house (sleeping there) caught it. Six who came to the house, but remained distant outdoors did NOT. [ed: one more for indoor = bad, outdoor = good]. Via <a href='https://x.com/jmcrookston/status/1313281284249182208'>@jmcrookston</a>

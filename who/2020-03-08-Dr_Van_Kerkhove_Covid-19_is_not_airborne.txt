@@ -1,0 +1,10 @@
+media_caption: Dr Maria Van Kerkhove (WHO's COVID-19 Technical Lead). Also present: Dr David Hawley (Ecolint) and Melinda Frost (Technical Officer for Risk Communication & Community Engagement at the WHO)
+media_credit: 
+media_link: https://www.youtube.com/watch?v=7M1t20AK1sM
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/222077100-d322e493-6937-417b-938a-b75069b91692.png
+start_date_day: 8
+start_date_month: 3
+start_date_year: 2020
+text_headline: Dr Van Kerkhove: Covid-19 is not airborne
+text_text: [BOO] Confidently incorrect in lengthy interview for the 'Ecolint' international school in Geneva that many WHO employees send their kids to. Not airborne, two-meters is safe and more - many times in a 44 min interview.

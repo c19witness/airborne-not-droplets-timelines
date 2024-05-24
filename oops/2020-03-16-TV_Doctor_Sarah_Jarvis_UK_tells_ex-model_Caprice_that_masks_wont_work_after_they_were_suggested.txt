@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://metro.co.uk/2021/03/16/caprice-fans-demand-apology-from-dr-sarah-jarvis-a-year-on-from-covid-clash-14254906/
+media_thumbnail: 
+media_url: https://i2-prod.manchestereveningnews.co.uk/incoming/article17932000.ece/ALTERNATES/s810/0_MAIN-Caprice.jpg
+start_date_day: 16
+start_date_month: 3
+start_date_year: 2020
+text_headline: TV Doctor Sarah Jarvis (UK) tells ex-model Caprice that masks won't work after they were suggested
+text_text: One year later citizen rage continues:‘The anger I feel watching this! The patronising condescending tone from Vine, the contempt from Jarvis, the poise from Caprice…,’ a fan penned. ‘To underestimate her was a mistake, and all too often happens to women, and by women siding with the power dominant in the room.’ See also <a href='https://x.com/carolecadwalla/status/1371750637050945542'>@carolecadwalla tweet</a>

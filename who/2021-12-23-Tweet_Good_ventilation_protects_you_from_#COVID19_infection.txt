@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1474013179394998274
+start_date_day: 23
+start_date_month: 12
+start_date_year: 2021
+text_headline: Tweet: 'Good ventilation protects you from #COVID19 infection'
+text_text: [YAY] ✅ Open window. ✅ Create a cross breeze. ✅ Place a fan in front of a window facing the outside. ✅ If it's very hot or cold, open windows for a few minutes every hour

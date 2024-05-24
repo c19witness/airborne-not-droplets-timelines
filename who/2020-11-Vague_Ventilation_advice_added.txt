@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://user-images.githubusercontent.com/82182/147395184-2a601c28-adac-43db-bfc8-c1e9a8ae3d49.png
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/147395184-2a601c28-adac-43db-bfc8-c1e9a8ae3d49.png
+start_date_month: 11
+start_date_year: 2020
+text_headline: Vague Ventilation advice added
+text_text: [KEEP GOING] Two top WHO officials start saying that ventilation is very important. But they do NOT say why. But ventilation does nothing for droplets or surfaces, but is very effective for aerosols. #1 <a href='https://x.com/jljcolorado/status/1323279393725194240'>@jljcolorado on MVK</a>, #2 <a href='https://www.youtube.com/watch?v=XJC1f7F4qtc'>Christen Drosten video</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Nalca, Livingston, Garza, Zumbrun, Frick, Chapman, Hartings
+media_link: https://pubmed.ncbi.nlm.nih.gov/20862223/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/2942837/bin/pone.0012880.g001.jpg
+start_date_day: 20
+start_date_month: 9
+start_date_year: 2010
+text_headline: Study: Experimental infection of cynomolgus macaques (Macaca fascicularis) with aerosolized monkeypox virus
+text_text: "Aerosol is a route of secondary transmission for monkeypox, and a primary route of smallpox transmission in humans". Via <a href='https://x.com/empathy1st1/status/1535113231517110273'>@empathy1st1 tweet</a>

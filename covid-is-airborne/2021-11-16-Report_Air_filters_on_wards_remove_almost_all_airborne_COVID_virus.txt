@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: NHS UK
+media_link: https://www.cuh.nhs.uk/news/air-filters-on-wards-remove-almost-all-airborne-covid-virus/
+media_thumbnail: 
+media_url: https://buckup-cuh-production.s3.amazonaws.com/images/Vilas_1_sV9PpyZ.width-840.jpg
+start_date_day: 16
+start_date_month: 11
+start_date_year: 2021
+text_headline: Report: Air filters on wards remove almost all airborne COVID virus
+text_text: "Research carried out on COVID wards at Addenbrooke's Hospital suggests that air filter machines removed almost all traces of airborne COVID virus."

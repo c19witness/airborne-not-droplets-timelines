@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Schuit,  Ratnesar-Shumate,  Yolitz,  Williams,  Weaver,  Green,  Miller,  Krause,  Beck,  Wood,  Holland,  Bohannon,  Freeburger,  Hooper,  Biryukov,  Altamura,  Wahl,  Hevey, and Dabisch
+media_link: https://academic.oup.com/jid/article/222/4/564/5856149
+media_thumbnail: 
+media_url: https://pbs.twimg.com/card_img/1670720133331922944/WjW9oKiH?format=jpg&name=small
+start_date_day: 11
+start_date_month: 6
+start_date_year: 2020
+text_headline: Study: Airborne SARS-CoV-2 Is Rapidly Inactivated by Simulated Sunlight
+text_text: Rotating drum aerosol chambers [..] were used in the present study to expose aerosols containing SARS-CoV-2 to controlled levels of temperature, relative humidity, and simulated sunlight [..] then <air samples taken have their protein content quantified in lab equipment>

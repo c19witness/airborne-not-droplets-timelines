@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: WHO's Gabby Stern
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/mdc_martinus/status/1718568880891736387
+start_date_month: 7
+start_date_year: 2023
+text_headline: WHO communication officer evades misinformation question
+text_text: [BOO]: @WHO's Dir. of Communications, Gabby Stern, in a disinformation summit is confronted with WHO’s own misinformation by famous film producer Gale Anne Hurd. Stern gives a word salad non-answer.

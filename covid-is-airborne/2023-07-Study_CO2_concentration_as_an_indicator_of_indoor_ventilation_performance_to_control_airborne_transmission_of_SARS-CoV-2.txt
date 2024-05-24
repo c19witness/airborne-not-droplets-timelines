@@ -1,0 +1,9 @@
+media_caption: mean CO2 concentration threshold depending on the number of occupants and exposure time
+media_credit: Sowoo Park and Doosam Song
+media_link: https://www.sciencedirect.com/science/article/pii/S187603412300165X?via%3Dihub
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S187603412300165X-gr1.jpg
+start_date_month: 7
+start_date_year: 2023
+text_headline: Study: CO2 concentration as an indicator of indoor ventilation performance to control airborne transmission of SARS-CoV-2
+text_text: Conclusion: Given the conditions of the occupancy environment, it is possible to determine an indoor CO2 concentration threshold, and keeping the CO2 concentration lower than a certain threshold could help reduce the risk of COVID-19 infection.

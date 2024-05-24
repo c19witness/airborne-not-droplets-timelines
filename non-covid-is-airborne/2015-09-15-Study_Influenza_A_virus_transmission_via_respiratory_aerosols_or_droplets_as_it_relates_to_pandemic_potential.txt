@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Mathilde Richard and Ron A.M. Fouchier
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5006288/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5006288/bin/fuv039fig1.jpg
+start_date_day: 15
+start_date_month: 9
+start_date_year: 2015
+text_headline: Study: Influenza A virus transmission via respiratory aerosols or droplets as it relates to pandemic potential
+text_text: "CONCLUDING REMARKS: It is without any doubt that influenza viruses of subtypes H1N1, H2N2 and H3N2 can be transmitted via respiratory droplets or aerosols between humans and other mammals, as it has been shown during previous pandemics and outbreaks in animals, and in the laboratory using animal models". @jmcrookston points out that <a href='https://x.com/jmcrookston/status/1396636603637014528'>this research was playing with fire</a> though

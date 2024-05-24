@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Maria Van Kerkhove speaking to Scientific American
+media_link: https://www.scientificamerican.com/article/rampant-covid-poses-new-challenges-in-the-fifth-year-of-the-pandemic/
+media_thumbnail: 
+media_url: /media/images/mvk202403.png
+start_date_day: 6
+start_date_month: 2
+start_date_year: 2024
+text_headline: Scientific American gets MVK to admit masks might be useful for respiratory pathogens
+text_text: [HMM]: She says masks and ventilation might be generally good for respiratory pathogens but doesn't call out Covid-19, then also something about ventilation. Via <a href='https://x.com/SleepyJim0/status/1769765293339865099'>@SleepyJim0 tweet</a>

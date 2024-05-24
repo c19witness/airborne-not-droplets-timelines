@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Wired.com
+media_link: https://www.wired.com/story/to-beat-covid-19-you-have-to-know-how-a-virus-moves/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/111067825-ddcfca80-84bd-11eb-924f-fde97afcd46f.png
+start_date_day: 28
+start_date_month: 5
+start_date_year: 2020
+text_headline: To beat COVID-19, you have to know how a virus moves
+text_text: Wired Article: "As public spaces reopen, scientists are racing to understand the mysterious and turbulent way the disease spreads through air—from person to person, and place to place."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Duval, Palmer, Tudge, Pearce-Smith, O’Connell, Bennett, Clark
+media_link: https://www.bmj.com/content/377/bmj-2021-068743
+media_thumbnail: 
+media_url: https://sandpit.bmj.com/site_images/2022/duvd06874.va.png
+start_date_day: 22
+start_date_month: 4
+start_date_year: 2022
+text_headline: Review: Long distance airborne transmission of SARS-CoV-2
+text_text: "Conclusion This rapid systematic review found evidence suggesting that long distance airborne transmission of SARS-CoV-2 might occur in indoor settings such as restaurants, workplaces, and venues for choirs, and identified factors such as insufficient air replacement that probably contributed to transmission. These results strengthen the need for mitigation measures in indoor settings, particularly the use of adequate ventilation."

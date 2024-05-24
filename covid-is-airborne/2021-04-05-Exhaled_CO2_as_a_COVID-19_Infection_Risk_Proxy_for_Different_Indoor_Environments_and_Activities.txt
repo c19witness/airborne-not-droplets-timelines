@@ -1,0 +1,10 @@
+media_caption: Mutiple low-cost CO2 sensors
+media_credit: 
+media_link: https://pubs.acs.org/doi/10.1021/acs.estlett.1c00183
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114725317-66829600-9d0a-11eb-82a0-f8d19abdb4ef.jpg
+start_date_day: 5
+start_date_month: 4
+start_date_year: 2021
+text_headline: Exhaled CO2 as a COVID-19 Infection Risk Proxy for Different Indoor Environments and Activities
+text_text: "Indoor CO2 measurements by low-cost sensors hold promise for mass monitoring of indoor aerosol transmission risk for COVID-19 and other respiratory diseases. We derive analytical expressions of CO2-based risk proxies and apply them to various typical indoor environments.." See also <a href='https://x.com/jljcolorado/status/1379940559763214339?s=21'> post (@jljcolorado)</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://hub.jhu.edu/2020/07/16/evidence-coronavirus-is-airborne/
+media_thumbnail: 
+media_url: https://api.hub.jhu.edu/factory/sites/default/files/styles/full_width/public/masks_071620.jpg?itok=69yxQW9s
+start_date_day: 16
+start_date_month: 7
+start_date_year: 2020
+text_headline: Mounting evidence suggests coronavirus is airborne
+text_text: 239 scientists signed an open letter to the transnational organization urging it to consider emerging evidence that the virus can be considered airborne and to adjust its guidance accordingly.

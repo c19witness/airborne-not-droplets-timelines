@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Public Health Ontario
+media_link: https://www.publichealthontario.ca/-/media/Documents/M/2020/monkeypox-ipac-recommendations-healthcare-settings.pdf?sc_lang=en
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/182021046-c0a290e0-ffe0-44eb-a818-b82e3f9adfa0.png
+start_date_month: 5
+start_date_year: 2022
+text_headline: Ontario: Infection Prevention and Control (IPAC) Recommendations for Monkeypox in Health Care Settings
+text_text: ".. Fit-tested and seal checked N-95 respirator (or equivalent); perform seal check after donning N95 respirator... "

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Leung, Chu, Shiu, Chan, McDevitt, Hau, Yen, Li, Ip, Peiris, Seto, Leung, Milton, and Cowling
+media_link: https://www.nature.com/articles/s41591-020-0843-2#maskeauf
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0843-2/MediaObjects/41591_2020_843_Fig1_HTML.png?as=webp
+start_date_day: 3
+start_date_month: 4
+start_date_year: 2020
+text_headline: Study: Respiratory virus shedding in exhaled breath and efficacy of face masks
+text_text: "We identified seasonal human coronaviruses, influenza viruses and rhinoviruses in exhaled breath and coughs of children and adults with acute respiratory illness"

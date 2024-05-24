@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
+media_thumbnail: 
+media_url: https://www.cdc.gov/respiratory-viruses/images/6.png?_=15437
+start_date_day: 1
+start_date_month: 3
+start_date_year: 2024
+text_headline: CDC shortens isolation period
+text_text: [BOO]: "You can go back to your normal activities if your symptoms are getting better overall (at least 24 hours) and you have not had a fever and are not using fever-reducing medication". At least the page talks up ventilation.

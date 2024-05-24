@@ -1,0 +1,9 @@
+media_caption: clip from study
+media_credit: Faber and Silverberg
+media_link: https://www.science.org/doi/abs/10.1126/science.94.2450.566
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZdwIYEVsAAfWZh?format=png&name=small
+start_date_month: 12
+start_date_year: 1941
+text_headline: Study: Experimental Air-Borne Infection with Poliomyelitis Virus
+text_text: "The experiments open up the possibility that human poliomyelitis may, at least sometimes, be an air-borne infection and that the lungs may be a portal of entry". See <a href='https://x.com/LazarusLong13/status/1555835481237049344'> tweet by @LazarusLong13</a>.

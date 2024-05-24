@@ -1,0 +1,10 @@
+media_caption: CBS news feed pic
+media_credit: 
+media_link: https://www.cbc.ca/news/health/coronavirus-canada-aerosol-transmission-covid-19-1.5789906
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/EopQAewW4AAlotN?format=jpg&name=small
+start_date_day: 4
+start_date_month: 11
+start_date_year: 2020
+text_headline: Canada acknowledges aerosol transmission
+text_text: Official Guidance: "SARS-CoV-2, the virus that causes COVID-19, spreads from an infected person to others through respiratory droplets and aerosols created when an infected person coughs, sneezes, sings, shouts, or talks," the updated guidance said. <br><br>"The droplets vary in size from large droplets that fall to the ground rapidly (within seconds or minutes) near the infected person, to smaller droplets, sometimes called aerosols, which linger in the air under some circumstances."

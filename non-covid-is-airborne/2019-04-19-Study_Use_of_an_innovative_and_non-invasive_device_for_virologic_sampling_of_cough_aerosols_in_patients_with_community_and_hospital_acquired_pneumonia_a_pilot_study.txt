@@ -1,0 +1,10 @@
+media_caption: PneumoniaCheck™ and bronchoalveolar lavage (BAL)
+media_credit: Filippo Patrucco, Francesco Gavelli, Paolo Ravanini, Matteo Daverio, Giulia Statti, Luigi Mario Castello, Stefano Andreoni, and Piero Emilio Balbo
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7106764/#!po=26.6129
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7106764/bin/jbraaf010f1.jpg
+start_date_day: 19
+start_date_month: 4
+start_date_year: 2019
+text_headline: Study: Use of an innovative and non-invasive device for virologic sampling of cough aerosols in patients with community and hospital acquired pneumonia: a pilot study
+text_text: From Table 2, test results: Rhinovirus, HSV1, EBV, CMV, HHV6, FluA, HHV6, Parainfluenzae, Coronavirus NL63, RSV, Rhinovirus - found in aerosols from different patients

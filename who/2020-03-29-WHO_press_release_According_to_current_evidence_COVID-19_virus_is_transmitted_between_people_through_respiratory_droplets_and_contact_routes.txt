@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Kai Kupferschmidt tweet
+media_link: https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/160273997-15e869e0-db39-4f40-9d47-2ac2550778ee.png
+start_date_day: 29
+start_date_month: 3
+start_date_year: 2020
+text_headline: WHO press release:  "According to current evidence, COVID-19 virus is transmitted between people through respiratory droplets and contact routes."
+text_text: [BOO] Press release bangs on about respiratory droplets and fomites. Kao's <a href='https://x.com/kakape/status/1243859013776932864'>tweet on this</a>

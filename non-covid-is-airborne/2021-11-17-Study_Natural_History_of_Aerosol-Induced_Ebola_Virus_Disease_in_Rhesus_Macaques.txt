@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Downs, Johnson, Rossi, Dyer, Saunders, Twenhafel, Esham, Pratt, Trefry, Zumbrun, Facemire, Johnston, Tompkins, Jansen, Honko, Cardile
+media_link: https://pubmed.ncbi.nlm.nih.gov/34835103/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/8619410/bin/viruses-13-02297-g001.jpg
+start_date_day: 17
+start_date_month: 11
+start_date_year: 2021
+text_headline: Study: Natural History of Aerosol-Induced Ebola Virus Disease in Rhesus Macaques
+text_text: "shortened timeframe for clinical detection of the aerosol-induced disease [vs intra-muscular]"

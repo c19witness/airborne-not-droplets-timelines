@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Tang, Marr, Li, Dancer
+media_link: https://www.bmj.com/content/373/bmj.n913
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114892397-be88cd80-9dda-11eb-9555-3ffe8775ca2c.png
+start_date_day: 14
+start_date_month: 4
+start_date_year: 2021
+text_headline: COVID-19 has redefined airborne transmission
+text_text: "The confusion has emanated from traditional terminology introduced during the last century. This created poorly defined divisions between "droplet", "airborne", and "droplet nuclei" transmission, leading to misunderstandings over the physical behaviour of these particles. Essentially, if you can inhale particles—regardless of their size or name—you are breathing in aerosols."

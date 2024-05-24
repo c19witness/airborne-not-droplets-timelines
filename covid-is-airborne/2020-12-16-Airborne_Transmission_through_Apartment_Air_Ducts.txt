@@ -1,0 +1,10 @@
+media_caption: Structure of the apartment building where the infection outbreaks occurred in two vertical line
+media_credit: 
+media_link: https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext
+media_thumbnail: 
+media_url: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/05d942d9-3ffa-4e9f-a6af-e016d1bc029b/gr1.jpg
+start_date_day: 16
+start_date_month: 12
+start_date_year: 2020
+text_headline: Airborne Transmission through Apartment Air Ducts
+text_text: Possible #Airborne #SARSCoV2 Transmission through Air Ducts (August): after a series of infections, all 437 residents of an apt building were tested. 10 infections uncovered, all living on different floors but along two vertical lines with openings through their bathrooms. See also <a href='https://x.com/AliNouriPhD/status/1341193351014572032'>Twitter thread by (@AliNouriPhD)

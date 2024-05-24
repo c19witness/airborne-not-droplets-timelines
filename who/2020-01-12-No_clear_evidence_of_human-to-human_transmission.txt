@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHO/status/1216397232427147264
+start_date_day: 12
+start_date_month: 1
+start_date_year: 2020
+text_headline: No clear evidence of human-to-human transmission
+text_text: [BOO] Official tweet: "At this stage, there is no clear evidence of human-to-human transmission in the novel #coronavirus (2019-nC0V) outbreak in #Wuhan, #China🇨🇳. However, the Chinese authorities continue intensive surveillance and follow-up measures, including environmental investigations."

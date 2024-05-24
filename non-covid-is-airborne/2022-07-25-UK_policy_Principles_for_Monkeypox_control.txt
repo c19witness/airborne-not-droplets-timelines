@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: UK Health Security Agency
+media_link: https://www.gov.uk/government/publications/principles-for-monkeypox-control-in-the-uk-4-nations-consensus-statement/principles-for-monkeypox-control-in-the-uk-4-nations-consensus-statement
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/181905487-590771c6-7d96-49ba-ab9b-53e6e56fd0d7.png
+start_date_day: 25
+start_date_month: 7
+start_date_year: 2022
+text_headline: UK policy: Principles for Monkeypox control
+text_text: ".. the possibility of airborne transmission has not been excluded..."

@@ -1,0 +1,10 @@
+media_caption: raw data in which a participant (F4) said 'ɑ' for 5 seconds, followed by 15 seconds of nose breathing
+media_credit: 
+media_link: https://www.nature.com/articles/s41598-019-38808-z
+media_thumbnail: 
+media_url: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-019-38808-z/MediaObjects/41598_2019_38808_Fig1_HTML.png?as=webp
+start_date_day: 19
+start_date_month: 2
+start_date_year: 2019
+text_headline: Study: Aerosol emission and superemission during human speech increase with voice loudness
+text_text: "The existence of speech superemitters motivates consideration of a new hypothesis: that speech superemitters contribute to "super-spreading" of infectious diseases transmitted by emitted airborne particles.". See also <a href='https://eu.usatoday.com/in-depth/graphics/2020/10/18/improving-indoor-air-quality-prevent-covid-19/3566978001'>article in USA Today</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO
+media_link: https://worldhealthorganizationdepartmentofcommunications.cmail20.com/t/d-e-vkkjyud-jyyhcddb-f/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/GBzPFdmX0AAxXXh?format=jpg&name=medium
+start_date_day: 19
+start_date_month: 12
+start_date_year: 2023
+text_headline: WHO elevates mask to position 1 for C19 'take measures' risk reduction
+text_text: [YAY]: Its in the middle of a JN.1 varint 'be alert' press release, but this is good. It could be even better if it called out N95 respirators as better than surgical masks as better than cloth masks.

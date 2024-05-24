@@ -1,0 +1,8 @@
+media_caption: from study
+media_credit: Bryant
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5982891/
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZdwJthVUAIXt8x?format=png&name=small
+start_date_year: 1937
+text_headline: Study: Epidemic acute Poliomyelitis and Encephalitis, both Air-Borne Infections
+text_text: "NORN and MOLLER (Ugeskrift for Lzger, 26-3374. Actu pcediutrica. Vol. XIX. 394 W. SOHIER BRYANT 33: 841, 1935) say the virus may enter via the lungs as shown by commencing with cough, bronchitis, or even pneumonia, and in some cases via the tonsils, commencing with tonsillitis." Via <a href='https://x.com/LazarusLong13/status/1555835512719495168'>@LazarusLong13 tweet</a>

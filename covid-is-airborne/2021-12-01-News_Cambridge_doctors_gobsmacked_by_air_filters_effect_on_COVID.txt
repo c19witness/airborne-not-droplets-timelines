@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.bbc.co.uk/news/av/uk-england-cambridgeshire-59490424
+media_thumbnail: 
+media_url: https://buckup-cuh-production.s3.amazonaws.com/images/Vilas_1_sV9PpyZ.width-840.jpg
+start_date_day: 1
+start_date_month: 12
+start_date_year: 2021
+text_headline: News: Cambridge doctors gobsmacked by air filter's effect on COVID
+text_text: "A team of doctors and scientists have found that a standard, off-the-shelf air filter was able to remove most airborne virus particles such as coronavirus on an intensive care ward."

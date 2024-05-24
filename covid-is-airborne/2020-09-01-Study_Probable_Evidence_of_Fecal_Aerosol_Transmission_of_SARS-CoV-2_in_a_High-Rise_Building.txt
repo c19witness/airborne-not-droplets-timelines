@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Min Kang et al.
+media_link: https://www.acpjournals.org/doi/10.7326/m20-0928
+media_thumbnail: 
+media_url: 
+start_date_day: 1
+start_date_month: 9
+start_date_year: 2020
+text_headline: Study: Probable Evidence of Fecal Aerosol Transmission of SARS-CoV-2 in a High-Rise Building
+text_text: Results: 9 infected patients in 3 families were identified. The first family had a history of travel to the coronavirus disease 2019 (COVID-19) epicenter Wuhan, whereas the other 2 families had no travel history and a later onset of symptoms. No evidence was found for transmission via the elevator or elsewhere. The families lived in 3 vertically aligned flats connected by drainage pipes in the master bathrooms. Both the observed infections and the locations of positive environmental samples are consistent with the vertical spread of virus-laden aerosols via these stacks and vents.

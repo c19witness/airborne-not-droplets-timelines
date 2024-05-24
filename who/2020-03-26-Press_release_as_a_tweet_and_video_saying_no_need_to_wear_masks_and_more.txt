@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO Western Pacific
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/WHOWPRO/status/1243171683067777024
+start_date_day: 26
+start_date_month: 3
+start_date_year: 2020
+text_headline: Press release as a tweet and video saying no need to wear masks (and more)
+text_text: [BOO] Tho incorrect claims: "If you do not have any respiratory symptoms, such as fever, cough, or runny nose, you do not need to wear a medical mask. When used alone, masks can give you a false feeling of protection and can even be a source of infection when not used correctly". Video does well to show how to put on a surgical mask, but then ends with some massively overstated hand-sani recommendation

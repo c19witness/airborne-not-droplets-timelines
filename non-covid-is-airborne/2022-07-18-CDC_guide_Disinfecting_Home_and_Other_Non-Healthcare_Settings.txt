@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.cdc.gov/poxvirus/monkeypox/specific-settings/home-disinfection.html
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZcWdlSWYAEZc9r?format=png&name=medium
+start_date_day: 18
+start_date_month: 7
+start_date_year: 2022
+text_headline: CDC guide: Disinfecting Home and Other Non-Healthcare Settings
+text_text: Note the importance of wearing a respirator or well-fitted mask and that dusting/sweeping are inappropriate since they spread the virus

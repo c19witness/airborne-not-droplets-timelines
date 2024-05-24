@@ -1,0 +1,9 @@
+media_caption: Modified Andersen Sampler used to collect viral RNA in expelled particles produced on breathing and coughing
+media_credit: Gralton et al, 2013
+media_link: https://www.researchgate.net/publication/255986671_Respiratory_Virus_RNA_Is_Detectable_in_Airborne_and_Droplet_Particles
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/107283262-0e05f280-6a54-11eb-890d-5f70b1220d2a.png
+start_date_month: 8
+start_date_year: 2013
+text_headline: Respiratory Virus RNA Is Detectable in Airborne and Droplet Particles
+text_text: By using viral RNA as a marker of virus presence, findings in this study show many symptomatic individuals produce both small and large particles on both breathing and coughing, and that hRV and parainfluenza viruses may be present in both small and large particles. Given that airborne-sized and droplet-sized particles contain viral RNA, the use of droplet precautions exclusively may be insufficient to protect healthcare workers from exposure to virus in airborne-sized particles

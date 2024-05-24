@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: The Royal Society
+media_link: https://royalsociety.org/-/media/policy/projects/impact-non-pharmaceutical-interventions-on-covid-19-transmission/the-royal-society-covid-19-examining-the-effectiveness-of-non-pharmaceutical-interventions-report.pdf
+media_thumbnail: 
+media_url: /media/images/rs-report.png
+start_date_day: 24
+start_date_month: 8
+start_date_year: 2023
+text_headline: Report: COVID-19: examining
+text_text: Clear airborne language throughout this 80-page report

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=bsCShaibO6M
+start_date_day: 22
+start_date_month: 8
+start_date_year: 2023
+text_headline: Public Comment Highlights HICPAC meeting
+text_text: CDC took down the video with plenty of covid-is-airborne commentary in read out feedback, but citizens preserved that section

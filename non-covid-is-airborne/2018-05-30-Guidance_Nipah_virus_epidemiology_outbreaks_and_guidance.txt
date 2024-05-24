@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: UK's Public Health England
+media_link: https://www.gov.uk/guidance/nipah-virus-epidemiology-outbreaks-and-guidance
+media_thumbnail: 
+media_url: /media/images/niv-ukgov.png
+start_date_day: 30
+start_date_month: 5
+start_date_year: 2018
+text_headline: Guidance: Nipah virus: epidemiology, outbreaks and guidance
+text_text: "Nipah virus is classed as an airborne high consequence infectious disease (HCID) in England and clinical assessment should be performed by specialist hospital staff, with adherence to strict infection prevention and control precautions to prevent secondary transmission"

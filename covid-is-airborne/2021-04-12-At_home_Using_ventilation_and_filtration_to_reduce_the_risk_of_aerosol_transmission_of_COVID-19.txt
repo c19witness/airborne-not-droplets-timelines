@@ -1,0 +1,10 @@
+media_caption: At home: Using ventilation and filtration to reduce the risk of aerosol transmission of COVID-19
+media_credit: 
+media_link: https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/guidance-documents/guide-home-ventilation-covid-19-pandemic.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114724247-5b7b3600-9d09-11eb-991a-705e8b74a66a.png
+start_date_day: 12
+start_date_month: 4
+start_date_year: 2021
+text_headline: At home: Using ventilation and filtration to reduce the risk of aerosol transmission of COVID-19
+text_text: "Improving indoor air quality is particularly important at this time because Canadians are spending more of their time at home and indoors. The recommendations below will help to improve the overall air quality in the home, as well as help reduce the risk of aerosol transmission of COVID-19 by reducing the number of viruses suspended in the air. This is particularly important when people from outside your immediate household are present."

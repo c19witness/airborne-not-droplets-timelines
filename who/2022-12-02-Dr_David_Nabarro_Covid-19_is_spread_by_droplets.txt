@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/DoctorsInUnite/status/1621178688233697280
+start_date_day: 2
+start_date_month: 12
+start_date_year: 2022
+text_headline: Dr David Nabarro: Covid-19 is spread by droplets.
+text_text: [BOO] At the 2 Dec 2022 Independent SAGE (UK) briefing, Dr David Nabarro, WHO Special Envoy on Covid-19, said: “…Covid is primarily, primarily, a droplet-borne infection, it may be airborne in certain circumstances, but we still in WHO contexts say its primarily droplet-borne“. Via <a href='https://x.com/DoctorsInUnite/status/1621178688233697280'>@DoctorsInUnite</a>

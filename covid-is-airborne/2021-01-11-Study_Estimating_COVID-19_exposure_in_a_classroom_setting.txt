@@ -1,0 +1,10 @@
+media_caption: CAD representation of a classroom & Description of boundary conditions
+media_credit: Foster and Kinzel
+media_link: https://aip.scitation.org/doi/10.1063/5.0040755
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/129490322-e7bd0961-32be-4249-a8f8-61928b4fc87d.png
+start_date_day: 11
+start_date_month: 1
+start_date_year: 2021
+text_headline: Study: Estimating COVID-19 exposure in a classroom setting
+text_text: "As the COVID-19 pandemic has progressed, there has been increasingly widespread use of calculators for estimating airborne exposure risk for indoor spaces"

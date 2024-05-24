@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: G.Buonannoa, L.Morawskab, L. Stabile
+media_link: https://pubmed.ncbi.nlm.nih.gov/32416374/
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S0160412020320675-ga1.jpg
+start_date_day: 11
+start_date_month: 5
+start_date_year: 2020
+text_headline: Estimation of airborne viral emission: Quanta emission rate of SARS-CoV-2 for infection risk assessment
+text_text: "... airborne transmission of SARS-CoV-2 by an asymptomatic subject within pharmacies, supermarkets, restaurants, banks, and post offices were simulated, and the reduction in the average number of infected people from one contagious person, R0, was estimated"

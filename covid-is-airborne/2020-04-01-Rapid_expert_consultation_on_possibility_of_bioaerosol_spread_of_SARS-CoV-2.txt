@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: https://www.nap.edu/read/26100/chapter/8#33
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FEzLbuxXsAk6D1L?format=jpg&name=large
+start_date_day: 1
+start_date_month: 4
+start_date_year: 2020
+text_headline: Rapid expert consultation on possibility of bioaerosol spread of SARS-CoV-2
+text_text: Excerpt: "results of available studies are consistent with aerosolization of virus from normal breathing". Via <a href='https://x.com/NinaScience/status/1462767711809945601'>@NinaScience</a>

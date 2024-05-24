@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Wong, Au, Chen, Yuen, Li, Lung, Chu, Ip, Chan, Tsoi, To, Yuen, Cheng
+media_link: https://www.thelancet.com/action/showPdf?pii=S2666-6065%2821%2900269-8
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/149642084-00c58d6f-8731-4a41-8392-2925ba19b6a6.jpg
+start_date_day: 23
+start_date_month: 12
+start_date_year: 2021
+text_headline: Study: Transmission of Omicron (B.1.1.529) - SARS-CoV-2 Variant of Concern in a designated quarantine hotel for travelers
+text_text: From the Conclusion: "Smoke tests in DQHs demonstrated that aerosols could leak out from guest rooms to the corridors, and guests in neighboring rooms may inhale the infectious aerosols when the doors were opened."

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: TedMed 2018
+media_link: 
+media_thumbnail: 
+media_url: https://www.youtube.com/watch?v=fJ1NN0HZWcQ
+start_date_day: 22
+start_date_month: 7
+start_date_year: 2019
+text_headline: TedMed Talk: Lydia Bourouiba describes airborne transmission for generic epidemics
+text_text: Lydia, details the ridicule of Wells and the mistakes that medicine has been making for 70 years focussing on everything but aerosols

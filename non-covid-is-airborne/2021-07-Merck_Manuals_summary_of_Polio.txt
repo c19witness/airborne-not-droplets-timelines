@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: 
+media_link: https://www.msdmanuals.com/en-gb/home/infections/enteroviruses/polio
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/183380241-8e1280cd-c97e-4d39-ac74-d20a68fbb6b6.png
+start_date_month: 7
+start_date_year: 2021
+text_headline: Merck Manuals summary of Polio
+text_text: "People become infected when they inhale airborne droplets or touch something contaminated with the infected saliva or droplets"

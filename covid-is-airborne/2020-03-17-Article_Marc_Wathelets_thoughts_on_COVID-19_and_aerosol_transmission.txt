@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Marc Wathelet, researcher during the SARS outbreak in 2003
+media_link: https://www.lespecialiste.be/fr/debats/quelques-pensees-sur-covid-19-et-la-transmission-par-aerosol-marc-wathelet.html
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/135961869-378a0628-43a2-4478-b795-0ad9a5eb2401.png
+start_date_day: 17
+start_date_month: 3
+start_date_year: 2020
+text_headline: Article: Marc Wathelet's thoughts on COVID-19 and aerosol transmission
+text_text: Accomplished academic, Marc Wathelet, lists eight points of evidence available in March 2020 to indicate SARS-CoV-2 virus in transmitted in airborne particles. French article

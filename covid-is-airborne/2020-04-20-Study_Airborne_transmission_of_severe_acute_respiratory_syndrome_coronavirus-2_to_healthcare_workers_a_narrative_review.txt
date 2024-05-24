@@ -1,0 +1,10 @@
+media_caption: Key determinants of healthcare worker aerosol transmission in spontaneously breathing patient. RTLF, respiratory tract lining fluid; HCW, healthcare worker; PPE, personal protective equipment
+media_credit: Study: N. M. Wilson, A. Norton, F. P. Young, and D. W. Collins
+media_link: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/full/10.1111/anae.15093
+media_thumbnail: 
+media_url: https://associationofanaesthetists-publications.onlinelibrary.wiley.com/cms/asset/1d916740-5690-4a05-bbce-beed80d96123/anae15093-fig-0001-m.png
+start_date_day: 20
+start_date_month: 4
+start_date_year: 2020
+text_headline: Study: Airborne transmission of severe acute respiratory syndrome coronavirus-2 to healthcare workers: a narrative review
+text_text: "Three mechanisms have been described for the production [aerosols]: laryngeal activity such as talking and coughing; high velocity gas flow; and cyclical opening and closure of terminal airways."

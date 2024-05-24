@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Curran
+media_link: https://journals.sagepub.com/doi/epub/10.1177/1757177412460896
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FjXXFjNXgAAveWz?format=jpg&name=large
+start_date_month: 11
+start_date_year: 2012
+text_headline: Study: Outbreak column 5: Streptococcus pyogenes (Group A Streptococci) (GAS)
+text_text: Healthcare worker to patient, patient to patient, environment to patient - airborne transmission documented

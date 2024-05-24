@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Huang, Wang, Li, Ren, Zhao, Hu, Zhang, Fan, Xu, Gu, Cheng, Yu, Xia, Wei, Wu, Xie, Yin, Li, Liu, Xiao, Gao, Guo, Xie, Wang, Jiang, Gao, Jin, Wang, Cao
+media_link: https://www.thelancet.com/article/S0140-6736(20)30183-5/fulltext
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/F93MjHjXYAALtSL?format=jpg&name=large
+start_date_day: 24
+start_date_month: 1
+start_date_year: 2020
+text_headline: Study from China that mentions airborne transmission
+text_text: "We are concerned that 2019-nCoV could have acquired the ability for efficient human transmission.19 Airborne precautions, such as a fit-tested N95 respirator, and other personal protective equipment are strongly recommended"

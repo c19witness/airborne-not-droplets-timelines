@@ -1,0 +1,10 @@
+media_caption: Gross lesions from monkeys exposed to lethal aerosol doses of monkeypox virus
+media_credit: Zaucha, Jahrling, Geisbert, Swearengen & Hensley
+media_link: https://www.nature.com/articles/3780373#:~:text=The%20clinicopathologic%20features%20of%20aerosolized,as%20a%20principal%20cellular%20target
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZb9CkyXEAIUV-z?format=png&name=small
+start_date_day: 1
+start_date_month: 12
+start_date_year: 2001
+text_headline: Study: The Pathology of Experimental Aerosolized Monkeypox Virus Infection in Cynomolgus Monkeys
+text_text: "The clinicopathologic features of aerosolized monkeypox in cynomolgus monkeys resemble the reported features of monkeypox and smallpox in humans. Death after high-dose aerosol exposure was attributable to bronchopneumonia, with airway epithelium serving as a principal cellular target"

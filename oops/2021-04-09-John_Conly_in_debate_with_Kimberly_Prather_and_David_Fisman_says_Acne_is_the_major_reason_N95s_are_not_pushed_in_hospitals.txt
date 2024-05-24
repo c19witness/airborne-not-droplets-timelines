@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/EyjtW6qUYAQpQXU?format=jpg&name=medium
+start_date_day: 9
+start_date_month: 4
+start_date_year: 2021
+text_headline: John Conly, in debate with Kimberly Prather and David Fisman says Acne is the major reason N95s are not pushed in hospitals
+text_text: [Two Dr's and a Prof] He says wearing N95s comes with an acne 'harm' and that's important enough for health care workers to avoid them in the workplace. See <a href='https://x.com/Lidsville/status/1380614281020940288'>@Lidsville tweet</a>

@@ -1,0 +1,8 @@
+media_caption: Account title
+media_credit: Richard L Riley
+media_link: https://www.atsjournals.org/doi/full/10.1164/ajrccm.163.1.hh11-00
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/101093907-74354b80-35b3-11eb-8cf8-048386de5215.png
+start_date_year: 2001
+text_headline: Guinea pigs proof of airborne transmission of Tuberculosis (TB)
+text_text: Richard L. Riley - first hand account of 1962 proof by Riley, Mills, O'Grady, Sultan, Willstadt, Shivpuri, and Wells: 'Infectiousness of air from a tuberculosis ward'. That study: <a href='https://pubmed.ncbi.nlm.nih.gov/14492300/'>here</a>

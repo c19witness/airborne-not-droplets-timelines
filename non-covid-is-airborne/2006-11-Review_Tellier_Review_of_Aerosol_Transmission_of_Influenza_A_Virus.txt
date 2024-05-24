@@ -1,0 +1,9 @@
+media_caption: 
+media_credit: Tellier
+media_link: https://pubmed.ncbi.nlm.nih.gov/17283614/
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/133337422-d90b793f-1c1a-4740-84bf-85c1d5780a34.png
+start_date_month: 11
+start_date_year: 2006
+text_headline: Review: Tellier. Review of Aerosol Transmission of Influenza A Virus
+text_text: "Despite the evidence cited in support of aerosol transmission, many guidelines or review articles nevertheless routinely state that "large droplets transmission is thought to be the main mode of influenza transmission" (or similar statements) without providing supporting evidence"

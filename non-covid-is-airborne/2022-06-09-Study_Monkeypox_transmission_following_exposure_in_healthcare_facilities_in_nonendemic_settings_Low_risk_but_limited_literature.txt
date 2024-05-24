@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Zachary & Shenoy
+media_link: https://www.nytimes.com/2022/06/07/health/monkeypox-masks-cdc.html
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/FZb5sSnXkAEGrV4?format=jpg&name=medium
+start_date_day: 9
+start_date_month: 6
+start_date_year: 2022
+text_headline: Study: Monkeypox transmission following exposure in healthcare facilities in nonendemic settings: Low risk but limited literature
+text_text: "A case of transmission to a health care who had contact transmission precaution but NOT respiratory protection (an N95 mask).", Via <a href='https://x.com/RougeMatisse/status/1555705916556812288'>@RougeMatisse</a>

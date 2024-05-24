@@ -1,0 +1,9 @@
+media_caption: Dr Wu Lien-Teh aged 41
+media_credit: 
+media_link: https://biblioasia.nlb.gov.sg/vol-16/issue-2/jul-sep-2020/plague
+media_thumbnail: 
+media_url: https://d33wubrfki0l68.cloudfront.net/d83c86839baad943e2019d73d1979ac7f7dd4250/f536f/images/vol-16-issue-2/plague/portrait.png
+start_date_month: 12
+start_date_year: 1910
+text_headline: Dr Wu Lien-Teh used gauze masks to fight bubonic plague in Manchuria
+text_text: "Suddenly, everyone wanted the simple cotton and gauze mask that Wu had used and recommended. Volunteers were soon producing them by the thousands." See longer writeups <a href='https://www.webmd.com/lung/news/20200826/the-forgotten-science-behind-face-masks'>on WebMD</a> and at <a href='https://www.nytimes.com/2021/05/19/health/wu-lien-teh-china-masks.html'>NYT</a>

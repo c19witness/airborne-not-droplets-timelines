@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Jeffrey Richman
+media_link: https://modernfamily.fandom.com/wiki/A_Stereotypical_Day
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/177215737-d119b58f-d319-44d1-8294-cddcd14b0817.png
+start_date_day: 28
+start_date_month: 9
+start_date_year: 2016
+text_headline: Episodal TV: Modern Family's Alex Dunphy has mono (EBV)
+text_text: "In the Dunphy house, the entire family is using Alex's recent bout of mono to their advantage, and yelling mask whenever she lets it slip."

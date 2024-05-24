@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: European Centre for Disease Prevention and Control
+media_link: https://www.ecdc.europa.eu/en/poliomyelitis/facts
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/183383098-f1ca9afc-14f9-4996-892d-d1528d907260.png
+start_date_day: 15
+start_date_month: 9
+start_date_year: 2021
+text_headline: Factsheet: ECDC - Disease factsheet about poliomyelitis
+text_text: "The virus is transmitted via droplets or aerosols from the throat and by faecal contamination of hands, utensils, food and water"

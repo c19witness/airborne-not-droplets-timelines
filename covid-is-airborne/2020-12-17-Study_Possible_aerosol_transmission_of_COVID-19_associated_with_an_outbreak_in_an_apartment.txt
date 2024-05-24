@@ -1,0 +1,10 @@
+media_caption: Structure of the apartment building where the infection outbreaks occurred
+media_credit: Seo Eun Hwang, Je Hwan Chang, Bumjo Oh, and Jongho Heo
+media_link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7834623/
+media_thumbnail: 
+media_url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7834623/bin/gr1_lrg.jpg
+start_date_day: 17
+start_date_month: 12
+start_date_year: 2020
+text_headline: Study: Possible aerosol transmission of COVID-19 associated with an outbreak in an apartment
+text_text: Our study also implies that the rigid rules of safe distancing that stick to droplet and contact transmission based on an outdated dichotomous notion of respiratory droplet or aerosols should be reconsidered

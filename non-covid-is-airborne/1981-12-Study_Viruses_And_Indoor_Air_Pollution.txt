@@ -1,0 +1,9 @@
+media_caption: Lots are airborne, study says
+media_credit: 
+media_link: https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC1805417&blobtype=pdf
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/104123936-d9fcbc00-5345-11eb-9598-9ebf039f736c.png
+start_date_month: 12
+start_date_year: 1981
+text_headline: Study: Viruses And Indoor Air Pollution
+text_text: "Microbiologic and epidemiologic data have shown that a number of viruses may contaminate the air of rooms and be capable of initiating disease in those who inhale them. However, with the exception of lymphocytic choriomeningitis virus, all are viruses transmitted from person to person." See <a href='https://x.com/jmcrookston/status/1314220831032193024'>@jmcrookston tweet</a>.

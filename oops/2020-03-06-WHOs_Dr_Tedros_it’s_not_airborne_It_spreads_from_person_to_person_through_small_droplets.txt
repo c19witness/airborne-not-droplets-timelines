@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/138399468-3716da57-354d-4f3c-b62a-6ef380ee813a.png
+start_date_day: 6
+start_date_month: 3
+start_date_year: 2020
+text_headline: WHO's Dr Tedros: "it’s not airborne. It spreads from person to person through small droplets"
+text_text: <a href='https://x.com/DrTedros/status/1236037605101314053'>Responding to a tweet</a> Dr Tedros cements WHO thinking around droplets and all that

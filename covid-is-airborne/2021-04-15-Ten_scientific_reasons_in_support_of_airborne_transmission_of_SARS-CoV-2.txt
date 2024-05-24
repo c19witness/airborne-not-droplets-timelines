@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Greenhalgh, Jimenez, Prather, Tufekci, Fisman, Schooley
+media_link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/114960081-54047b80-9e34-11eb-9741-93292acaf69f.png
+start_date_day: 15
+start_date_month: 4
+start_date_year: 2021
+text_headline: Ten scientific reasons in support of airborne transmission of SARS-CoV-2
+text_text: "Decades of painstaking research, which did not include capturing live pathogens in the air, showed that diseases once considered to be spread by droplets are airborne. Ten streams of evidence collectively support the hypothesis that SARS-CoV-2 is transmitted primarily by the airborne route."

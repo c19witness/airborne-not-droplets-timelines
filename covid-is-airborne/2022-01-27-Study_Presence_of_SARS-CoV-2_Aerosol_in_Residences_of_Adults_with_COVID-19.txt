@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Laumbach, Mainelis, Black, Myers, Ohman-Strickland, Alimokhtari, Hastings, Legard, de Resende, Calderón, Lu, Kipen
+media_link: https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202107-847RL
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/152533038-dd9cc9f3-1304-4901-bb96-4bd80cee24b8.png
+start_date_day: 27
+start_date_month: 1
+start_date_year: 2022
+text_headline: Study: Presence of SARS-CoV-2 Aerosol in Residences of Adults with COVID-19
+text_text: Conclusion: Our results provide strong empirical support that aerosols of small respiratory droplets and nuclei containing airborne SARS-CoV-2 RNA are present both within and outside of home isolation rooms, presenting infection risk beyond close contact with other occupants

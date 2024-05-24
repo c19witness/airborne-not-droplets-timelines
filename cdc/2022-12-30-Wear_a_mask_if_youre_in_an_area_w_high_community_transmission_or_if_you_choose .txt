@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: CDC
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/CDCgov/status/1608875618497867776
+start_date_day: 30
+start_date_month: 12
+start_date_year: 2022
+text_headline: "Wear a mask if you're in an area w/ high community transmission or if you choose  "
+text_text: YAY: decent pack of advice for citizens.

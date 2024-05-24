@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: WHO's Director General
+media_link: 
+media_thumbnail: 
+media_url: https://x.com/DrTedros/status/1743327662897082640
+start_date_day: 5
+start_date_month: 1
+start_date_year: 2024
+text_headline: WHO's supremo, Dr Tedros, lists masks and ventilation as useful
+text_text: [YAY]: 'Continue to use masks, ventilation..' ahead of all else and no mention of hand washing. Would be better if respirators were called out

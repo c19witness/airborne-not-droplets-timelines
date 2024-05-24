@@ -1,0 +1,8 @@
+media_caption: 
+media_credit: 
+media_link: https://erj.ersjournals.com/content/38/Suppl_55/1722
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/82182/127815980-29ec264d-3ed7-4fb4-b6d9-f84e45b2118a.png
+start_date_year: 2011
+text_headline: Study: respiratory syncytial virus (RSV) is airborne
+text_text: Conclusions: "Infants with RSV bronchiolitis produce aerosols that contain infectious RSV in aerosols small enough to deposit in the lower airways. These findings may influence infection control strategies to prevent aerosol transmission of RSV in a hospital setting"

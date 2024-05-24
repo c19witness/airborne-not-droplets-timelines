@@ -1,0 +1,10 @@
+media_caption: The layout of the workplace.
+media_credit: Kitamura,  Ishigaki,  Ohashi &  Yokogawa
+media_link: https://www.nature.com/articles/s41598-022-22764-2
+media_thumbnail: 
+media_url: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-22764-2/MediaObjects/41598_2022_22764_Fig1_HTML.png?as=webp
+start_date_day: 21
+start_date_month: 11
+start_date_year: 2022
+text_headline: Report: Ventilation improvement &amp; evaluation of its effectiveness in a Japanese factory
+text_text: After a COVID-19 breakout in a 🇯🇵 factory, the ventilation system was upgraded to make it 10 times more effective. Private-sector investments are being made all over the world. Via <a href='https://x.com/nousaerons/status/1642805090229665792'>@nousaerons tweet</a>

@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Allen, Ibrahim
+media_link: https://jamanetwork.com/journals/jama/fullarticle/2779062
+media_thumbnail: 
+media_url: https://user-images.githubusercontent.com/74545833/115098308-61d20380-9efd-11eb-962b-c286068e80b1.png
+start_date_day: 16
+start_date_month: 4
+start_date_year: 2021
+text_headline: Indoor Air Changes and Potential Implications for SARS-CoV-2 Transmission
+text_text: "Buildings have been associated with spread of infectious diseases, such as outbreaks of measles, influenza, and Legionella. With SARS-CoV-2, the majority of outbreaks involving 3 or more people have been linked with time spent indoors, and evidence confirms that far-field airborne transmission (defined as within-room but beyond 6 feet) of SARS-CoV-2 is occurring."

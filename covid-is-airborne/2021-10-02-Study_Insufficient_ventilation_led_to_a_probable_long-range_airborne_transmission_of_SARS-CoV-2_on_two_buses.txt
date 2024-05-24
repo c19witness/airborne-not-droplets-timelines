@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Ou, Hu, Luo, Yang, Hang, Chenf, Hai, Xiao, Qian, Xiao, Jing, Xie, Ling, Liu, Gao, Deng, Cowling, and Li
+media_link: https://www.sciencedirect.com/science/article/pii/S0360132321008118
+media_thumbnail: 
+media_url: https://ars.els-cdn.com/content/image/1-s2.0-S0360132321008118-ga1.jpg
+start_date_day: 2
+start_date_month: 10
+start_date_year: 2021
+text_headline: Study: Insufficient ventilation led to a probable long-range airborne transmission of SARS-CoV-2 on two buses
+text_text: "Airborne transmission due to poor ventilation below 3.2 L/s played a role in this two-bus outbreak of COVID-19."
