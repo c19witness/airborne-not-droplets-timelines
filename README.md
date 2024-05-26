@@ -24,7 +24,7 @@ You may want to ensure your email is protected from the history of the changes m
 
 ![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/10435a76-d155-45e7-8afd-e337b366a332)
 
-### Making a change to a timeline entry (clicking the pen ion)
+# Making a change to a timeline entry (clicking the pen ion)
 
 Find the entry you want to change, click the pen icon at the bottom of the text explanation of the entry/event.
 Next, you'll see a page on GitHub that suggests you "fork" the repository that hold the site source code, and you'd click 
@@ -58,3 +58,36 @@ Finally, on a "Open a pull request" page, hit "create pull request" again - gree
 
 Now the change you propose will be considered by the team maintaining the site. Watch out for emails - you might get 
 pulled into a conversation on the change.
+
+# Anatomy of a timeline text file
+
+```
+media_caption: a short description of the pic a person may be looking at, like dog on bicycle (optional)
+media_credit: a list of people, or non-person entities like BBC media (optional)
+media_link: <a url beginning https>
+media_thumbnail: <a url beginning http> for to a tiny 16x16 pic of the event (optional)
+media_url: <a url beginning https to the study, or article, or authoratative source>
+start_date_day: day in month - (1 thru 31) - delete the whole line iof you don't know the day
+start_date_month: month in year (1 thru 12)
+start_date_year: year of event, like 2020
+text_headline: short-ish description - it will be capitalized in the timeline, but not in the table of events.
+text_text: much longer description of the even/study/article/video - has some additionals rules
+```
+
+## Additional rules for the longer text
+
+### Quote characters
+
+This does not need a quote character like " for anying, but if you're quoting somebody or the text of an article you make like to do that: 
+
+```
+text_text: Dr Mike Ryan in a tearful press conference, "I have deep regret telling Dr Tedros to walk back the it's airborne comment on Feb 11th, 2020", before being led away by prosecutors.
+```
+(note Mike Ryan has not apologised for this real moment)
+
+### Hyperlinks to secondary, tertiary online resources
+
+```
+text_text: Dr Mike Ryan apologized profusely in this tearful press conference for telling Dr Tedros to walk back his <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
+```
+Note: The link MUST be href='url' and not the more usual href=""
