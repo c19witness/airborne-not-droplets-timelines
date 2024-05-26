@@ -74,6 +74,10 @@ text_headline: short-ish description - it will be capitalized in the timeline, b
 text_text: much longer description of the even/study/article/video - has some additionals rules
 ```
 
+These key:value lines are long. Don't insert carriage returns (newlines). If there are some for things you paste in, take them out.
+
+You don't have to sweat the order of these key:values.  And optional ones can be blank if you wish
+
 ## Additional rules for the longer text
 
 ### Quote characters
