@@ -85,16 +85,18 @@ You don't have to sweat the order of these key:values.  And optional ones can be
 
 ### Quote characters
 
-This does not need a quote character like " for anying, but if you're quoting somebody or the text of an article you make like to do that: 
+Events/entries do not need a quote character like " for anying, but if you're quoting somebody directly or the text of an article you make like to do that: 
 
 ```
 text_text: Dr Mike Ryan in a tearful press conference, "I have deep regret telling Dr Tedros to walk back the it's airborne comment on Feb 11th, 2020", before being led away by prosecutors.
 ```
 (note Mike Ryan has not apologised for this real moment)
 
-### Hyperlinks to secondary, tertiary online resources
+### Hyperlinks to secondary and tertiary online resources
+
+Insert `<a href='URL'>title</a>` in the text_text section:
 
 ```
 text_text: Blh blah <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
 ```
-Note: The link MUST be href='url' and not the more usual href=""
+Note: The link MUST be href='URL' and not the more usual href="URL"
