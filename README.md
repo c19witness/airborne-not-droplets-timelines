@@ -28,7 +28,8 @@ You may want to ensure your email is protected from the history of the changes m
 
 Find the entry you want to change, click the pen icon at the bottom of the text explanation of the entry/event:
 
-![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/b5c5cf71-6a75-475c-90f5-084fd167159c)
+![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/e1987be2-ba6b-4563-bc7b-93f09d2f3da2)
+
 
 Next, you'll see a page on GitHub that suggests you "fork" the repository that hold the site source code, and you'd click it to do so:
 
