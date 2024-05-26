@@ -18,12 +18,15 @@ suggested actions. It could be they accept your contribution them immediately ma
 ## Self setup for making changes on GitHub
 
 First, Make an account on [GitHub.com](https://github.com). Please use a real name or something that passes for it: SamWilliams1234. 
-Pick 'free' option when it comes up rather that one of the monthly-fee options.
+**Pick 'free' option when it comes up rather that one of the monthly-fee options.**
 
-### Making a change to a page
+You may want to ensure your email is protected from the history of the changes made:
 
-Find the page you want to change, click the "Edit this page" link at the bottom,
+![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/10435a76-d155-45e7-8afd-e337b366a332)
 
+### Making a change to a timeline entry (clicking the pen ion)
+
+Find the entry you want to change, click the pen icon at the bottom of the text explanation of the entry/event.
 Next, you'll see a page on GitHub that suggests you "fork" the repository that hold the site source code, and you'd click 
 it to do so:
 
