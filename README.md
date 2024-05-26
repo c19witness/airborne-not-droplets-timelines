@@ -95,6 +95,6 @@ text_text: Dr Mike Ryan in a tearful press conference, "I have deep regret telli
 ### Hyperlinks to secondary, tertiary online resources
 
 ```
-text_text: Dr Mike Ryan apologized profusely in this tearful press conference for telling Dr Tedros to walk back his <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
+text_text: Blh blah <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
 ```
 Note: The link MUST be href='url' and not the more usual href=""
