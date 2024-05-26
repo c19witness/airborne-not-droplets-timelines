@@ -1,3 +1,14 @@
+# Purpose of repo
+
+[https://its-airborne.org](https://its-airborne.org) is a bunch of timelines and tables for events/studies/articles on the topic of the airborne 
+nature of Covid-19 (SARS-CoV-2). All the dates involved at the date of the event. Many of those were publicly available
+
+* [covid-is-airborne](./covid-is-airborne) are the entries for this timeline [https://its-airborne.org/covid19-timeline](https://its-airborne.org/covid19-timeline)  
+* [non-covid-is-airborne](./non-covid-is-airborne) are the entries for this timeline [https://its-airborne.org/non-covid19-timeline](https://its-airborne.org/non-covid19-timeline)
+* [cdc](./cdc) are the entries for this timeline [https://its-airborne.org/CDC](https://its-airborne.org/CDC)
+* [oops](./oops) are the entries for this timeline [https://its-airborne.org/oops](https://its-airborne.org/oops)
+* [who](./who) are the entries for this timeline [https://its-airborne.org/WHO](https://its-airborne.org/WHO)
+
 # Rules / Conduct.
 
 See something you want to fix?  Here are the rules for contributing to this repository.
@@ -97,6 +108,6 @@ text_text: Dr Mike Ryan in a tearful press conference, "I have deep regret telli
 Insert `<a href='URL'>title</a>` in the text_text section:
 
 ```
-text_text: Blh blah <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
+text_text: Blah blah <a href='https://its-airborne.org/WHO#event-is-airborne-no-isnt-airborne'> it's airborne statement on Feb 11th, 2020</a> which was the subject of much doubling down in the last few years
 ```
 Note: The link MUST be href='URL' and not the more usual href="URL"
