@@ -24,11 +24,13 @@ You may want to ensure your email is protected from the history of the changes m
 
 ![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/10435a76-d155-45e7-8afd-e337b366a332)
 
-# Making a change to a timeline entry (clicking the pen ion)
+# Making a change to a timeline entry (clicking the pen icon)
 
-Find the entry you want to change, click the pen icon at the bottom of the text explanation of the entry/event.
-Next, you'll see a page on GitHub that suggests you "fork" the repository that hold the site source code, and you'd click 
-it to do so:
+Find the entry you want to change, click the pen icon at the bottom of the text explanation of the entry/event:
+
+![image](https://github.com/c19witness/airborne-not-droplets-timelines/assets/125606732/b5c5cf71-6a75-475c-90f5-084fd167159c)
+
+Next, you'll see a page on GitHub that suggests you "fork" the repository that hold the site source code, and you'd click it to do so:
 
 |              ![fork_repo_to_change.png](./images/fork_repo_to_change.png)               | 
 |:---------------------------------------------------------------------------------------:| 
