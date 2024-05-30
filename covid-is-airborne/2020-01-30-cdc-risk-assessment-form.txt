@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: 
+media_link: 
+media_thumbnail: 
+media_url: https://pbs.twimg.com/media/GO12B2gWgAw0oek?format=jpg&name=large
+start_date_day: 30
+start_date_month: 1
+start_date_year: 2020
+text_headline: CDC Risk Assessment Form indicates it's airborne
+text_text: A number of airborne indications in this risk assessment form penned by someone in a CDC sub-lab. Via <a href='https://x.com/James___Morris/status/1796209473163517973'>@mdc_martinus tweet</a>
