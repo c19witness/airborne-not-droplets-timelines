@@ -1,0 +1,10 @@
+media_caption: wear a mask
+media_credit: WHO Western Pacific
+media_link: 
+media_thumbnail: 
+media_url:  https://x.com/whowpro/status/1813899769548521879
+start_date_day: 7
+start_date_month: 18
+start_date_year: 2024
+text_headline: PSA: WHO Western Pacific talks up masks for healthcare and long term care
+text_text: [YAY]: In a cartoon, WHO suggests masks protect you and the people around you from covid-19 and other respiratory diseases

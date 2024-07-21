@@ -1,0 +1,10 @@
+media_caption: 
+media_credit: Tan, Tian, Zhang, Wang and Gao
+media_link: https://www.mdpi.com/1999-4915/16/1/151
+media_thumbnail: 
+media_url: https://github.com/user-attachments/assets/e75132a8-0e3e-4a86-9943-e1430d50aa66
+start_date_day: 19
+start_date_month: 1
+start_date_year: 2024
+text_headline: Study: Aerosol Transmission of Norovirus
+text_text: Transmission modes of Norovirus include contact, food-borne, water-borne and aerosol transmission. For this paper, the source, generation mechanism, infectivity, sampling and related outbreaks of NoV aerosol are summarized and discussed.
