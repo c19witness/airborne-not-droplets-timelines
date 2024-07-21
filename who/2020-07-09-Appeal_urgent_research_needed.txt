@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHO/status/1281292551102828544
+media_url: https://twitter.com/WHO/status/1281292551102828544
 start_date_day: 9
 start_date_month: 7
 start_date_year: 2020

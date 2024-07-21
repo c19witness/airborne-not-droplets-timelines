@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHOAFRO/status/1475022327972872194
+media_url: https://twitter.com/WHOAFRO/status/1475022327972872194
 start_date_day: 26
 start_date_month: 12
 start_date_year: 2021

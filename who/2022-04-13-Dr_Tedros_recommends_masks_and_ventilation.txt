@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHOWPRO/status/1516038837960597506
+media_url: https://twitter.com/WHOWPRO/status/1516038837960597506
 start_date_day: 13
 start_date_month: 4
 start_date_year: 2022

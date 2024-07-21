@@ -2,7 +2,7 @@ media_caption:
 media_credit: WHO's MVK
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/mvankerkhove/status/1741384947892441165
+media_url: https://twitter.com/mvankerkhove/status/1741384947892441165
 start_date_day: 31
 start_date_month: 12
 start_date_year: 2023

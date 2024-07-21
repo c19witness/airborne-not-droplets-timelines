@@ -2,7 +2,7 @@ media_caption:
 media_credit: WHO Western Pacific
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHOWPRO/status/1243171683067777024
+media_url: https://twitter.com/WHOWPRO/status/1243171683067777024
 start_date_day: 26
 start_date_month: 3
 start_date_year: 2020

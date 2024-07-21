@@ -2,7 +2,7 @@ media_caption: screen cap of tweet
 media_credit: 
 media_link: 
 media_thumbnail: https://pbs.twimg.com/media/Et925ZzXMAUymux?format=jpg&name=large
-media_url: https://x.com/mvankerkhove/status/1241830233101275137
+media_url: https://twitter.com/mvankerkhove/status/1241830233101275137
 start_date_day: 22
 start_date_month: 3
 start_date_year: 2020

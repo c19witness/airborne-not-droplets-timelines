@@ -2,7 +2,7 @@ media_caption:
 media_credit: WHO's Director General
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/DrTedros/status/1743327662897082640
+media_url: https://twitter.com/DrTedros/status/1743327662897082640
 start_date_day: 5
 start_date_month: 1
 start_date_year: 2024

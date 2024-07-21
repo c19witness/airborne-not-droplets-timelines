@@ -2,7 +2,7 @@ media_caption:
 media_credit: CDC's Mandy Cohen MD
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/CDCDirector/status/1695175746094879196
+media_url: https://twitter.com/CDCDirector/status/1695175746094879196
 start_date_day: 25
 start_date_month: 8
 start_date_year: 2023

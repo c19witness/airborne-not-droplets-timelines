@@ -2,7 +2,7 @@ media_caption: screen cap of tweet
 media_credit: 
 media_link: 
 media_thumbnail: https://user-images.githubusercontent.com/82182/108806693-510aae80-759a-11eb-8762-eb1434910218.png
-media_url: https://x.com/WHO/status/1243972193169616898
+media_url: https://twitter.com/WHO/status/1243972193169616898
 start_date_day: 28
 start_date_month: 3
 start_date_year: 2020

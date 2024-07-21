@@ -2,7 +2,7 @@ media_caption:
 media_credit: UK COVID Inquiry
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/danielgoyal/status/1714967215147995245
+media_url: https://twitter.com/danielgoyal/status/1714967215147995245
 start_date_day: 19
 start_date_month: 10
 start_date_year: 2023

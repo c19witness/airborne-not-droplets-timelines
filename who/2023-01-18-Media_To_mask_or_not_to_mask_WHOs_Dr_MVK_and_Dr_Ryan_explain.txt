@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHO/status/1615669890446233600
+media_url: https://twitter.com/WHO/status/1615669890446233600
 start_date_day: 18
 start_date_month: 1
 start_date_year: 2023

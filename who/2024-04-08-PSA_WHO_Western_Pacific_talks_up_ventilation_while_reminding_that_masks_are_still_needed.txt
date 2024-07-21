@@ -2,7 +2,7 @@ media_caption:
 media_credit: WHO Western Pacific with strategy and tactic in one
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/WHOWPRO/status/1777290300119003297
+media_url: https://twitter.com/WHOWPRO/status/1777290300119003297
 start_date_day: 8
 start_date_month: 4
 start_date_year: 2024

@@ -2,7 +2,7 @@ media_caption:
 media_credit: Nicolas Smit tweet
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/PPEtoheros/status/1547423899843018752
+media_url: https://twitter.com/PPEtoheros/status/1547423899843018752
 start_date_month: 1
 start_date_year: 2020
 text_headline: CDC tells hospitals C19 is airborne

@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/DoctorsInUnite/status/1621178688233697280
+media_url: https://twitter.com/DoctorsInUnite/status/1621178688233697280
 start_date_day: 2
 start_date_month: 12
 start_date_year: 2022

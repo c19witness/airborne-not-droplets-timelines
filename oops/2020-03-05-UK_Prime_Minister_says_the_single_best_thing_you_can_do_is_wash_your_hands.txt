@@ -2,7 +2,7 @@ media_caption:
 media_credit: 
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/1goodtern/status/1719301713264259421
+media_url: https://twitter.com/1goodtern/status/1719301713264259421
 start_date_day: 5
 start_date_month: 3
 start_date_year: 2020

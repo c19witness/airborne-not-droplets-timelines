@@ -2,7 +2,7 @@ media_caption:
 media_credit: WHO
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/GosiaGasperoPhD/status/1567601775766827008
+media_url: https://twitter.com/GosiaGasperoPhD/status/1567601775766827008
 start_date_month: 5
 start_date_year: 2000
 text_headline: Publication: The Right to Healthy Indoor Air

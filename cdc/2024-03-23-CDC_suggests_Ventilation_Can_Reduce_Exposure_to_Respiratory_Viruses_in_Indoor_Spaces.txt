@@ -2,7 +2,7 @@ media_caption:
 media_credit: CDC
 media_link: 
 media_thumbnail: 
-media_url: https://x.com/DocJeffD/status/1771350734237573577
+media_url: https://twitter.com/DocJeffD/status/1771350734237573577
 start_date_day: 23
 start_date_month: 3
 start_date_year: 2024
